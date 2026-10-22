@@ -1,0 +1,44 @@
+CONCURSOS PB · APP WEB PARA IPHONE
+==================================
+
+O que é: o mesmo radar de concursos, instalável no iPhone como app (ícone na tela
+de início, tela cheia, funciona sem internet). O botão "Atualizar" dentro do app gera
+as visões novas sem CMD: quem roda a varredura é o GitHub, de graça, na nuvem.
+
+COMO PUBLICAR (uma vez só, uns 10 minutos, tudo pelo navegador)
+1. Crie uma conta grátis em github.com (se ainda não tiver).
+2. Clique em "+" > New repository. Nome: concursos. Marque Public. Create repository.
+3. Na página do repositório, clique em "uploading an existing file", arraste TODO o
+   conteúdo desta pasta (inclusive a pasta .github) e clique em Commit changes.
+   Dica: no Windows, a pasta .github pode estar oculta. Em Exibir > Mostrar >
+   Itens ocultos ela aparece. Se o navegador não aceitar a pasta, crie o arquivo
+   pelo botão "Add file > Create new file" com o nome .github/workflows/atualizar.yml
+   e cole o conteúdo do arquivo de mesmo nome.
+4. Settings > Pages > Build and deployment > Source: escolha "GitHub Actions".
+5. Aba Actions > "Atualizar concursos" > Run workflow. Em uns 2 minutos o app fica em:
+   https://SEU-USUARIO.github.io/concursos/
+
+INSTALAR NO IPHONE
+1. Abra o link acima no Safari.
+2. Toque em Compartilhar (quadrado com seta) > Adicionar à Tela de Início > Adicionar.
+3. Abra pelo ícone "Concursos PB".
+
+ATUALIZAÇÃO
+- Automática: todo dia às 6h o GitHub varre os sites e publica a versão nova.
+- Botão "Atualizar" sem token: baixa a última versão publicada.
+- Botão "Atualizar" com token (recomendado): pede ao GitHub uma varredura na hora,
+  acompanha o progresso e abre as visões novas quando termina (uns 2 a 3 minutos).
+  Para isso toque em ⚙ no app e cole um token:
+  github.com > foto > Settings > Developer settings > Personal access tokens >
+  Fine-grained tokens > Generate new token > Repository access: só "concursos" >
+  Permissions > Actions: Read and write > Generate. O token fica só no seu aparelho.
+- Atualização completa com o Claude (opcional, paga por uso): cadastre a chave da
+  API da Anthropic em Settings > Secrets and variables > Actions com o nome
+  ANTHROPIC_API_KEY e marque a opção nos ajustes do app.
+
+ARQUIVOS
+  index.html            o app (gerado; não editar)
+  app.json              os mesmos dados para o app iOS em SwiftUI
+  dados/concursos.json  curadoria (previstos, bancas). Pode editar pelo GitHub.
+  scripts/              raspador e gerador (os mesmos do atualizador do Windows)
+  .github/workflows/    as tarefas que rodam no GitHub
