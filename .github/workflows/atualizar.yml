@@ -1,0 +1,52 @@
+name: Atualizar concursos
+
+# Roda sozinho todo dia às 6h (horário de Brasília), quando o botão Atualizar do app pede
+# e quando você envia arquivos novos para o repositório. No fim, publica o app no GitHub Pages.
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Varrer sites de concurso
+        run: python scripts/raspar_pci.py || echo "varredura falhou; segue com os dados anteriores"
+        env:
+          TZ: America/Fortaleza
+      - name: Gerar as visões do app
+        run: python scripts/gerar_plano.py index.html --app
+        env:
+          TZ: America/Fortaleza
+      - name: Guardar dados no repositório
+        run: |
+          git config user.name "atualizador-concursos"
+          git config user.email "atualizador-concursos@users.noreply.github.com"
+          git add -A
+          git commit -m "Atualização automática $(TZ=America/Fortaleza date +'%d/%m/%Y %H:%M')" || exit 0
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: publicar
+        uses: actions/deploy-pages@v4
