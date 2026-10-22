@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T00:50",
+ "gerado_em": "2026-10-22T03:17",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
@@ -14,14 +14,14 @@
    "prazo_txt": "Prorrogado até 22/10/2026",
    "prazo": "2026-10-22",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-11-22",
    "perfis": {
     "ti_med": "Técnico em Informática",
     "fis": "Fisioterapeuta",
     "adm_med": "Assistente Administrativo"
    },
-   "prova": "2026-11-22",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
@@ -41,12 +41,12 @@
    "prazo_txt": "23/10/2026",
    "prazo": "2026-10-23",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-11-08",
    "perfis": {
     "adm_med": "Cargos gerais do edital"
    },
-   "prova": "2026-11-08",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
@@ -64,12 +64,12 @@
    "prazo_txt": "28/10/2026",
    "prazo": "2026-10-28",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-12-21",
    "perfis": {
     "adm_med": "Cargos gerais do edital"
    },
-   "prova": "2026-12-21",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
@@ -87,12 +87,12 @@
    "prazo_txt": "02/11/2026",
    "prazo": "2026-11-02",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-11-29",
    "perfis": {
     "geral_sup": "Advogado"
    },
-   "prova": "2026-11-29",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
@@ -110,12 +110,12 @@
    "prazo_txt": "07/11/2026",
    "prazo": "2026-11-07",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-12-13",
    "perfis": {
     "fis": "Fisioterapeuta"
    },
-   "prova": "2026-12-13",
+   "lida": true,
    "local": true,
    "areas": [
     "fis"
@@ -133,14 +133,14 @@
    "prazo_txt": "Reaberto até 08/11/2026",
    "prazo": "2026-11-08",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-12-06",
    "perfis": {
     "fis": "Fisioterapeuta",
     "adm_med": "Agente Administrativo",
     "geral_sup": "Procuradoria"
    },
-   "prova": "2026-12-06",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
@@ -159,12 +159,12 @@
    "prazo_txt": "10/11/2026",
    "prazo": "2026-11-10",
    "st": "aberto",
-   "lida": true,
    "banca": "Marinha do Brasil",
+   "prova": "2027-02-21",
    "perfis": {
     "fis": "Fisioterapia"
    },
-   "prova": "2027-02-21",
+   "lida": true,
    "local": true,
    "areas": [
     "fis"
@@ -182,14 +182,14 @@
    "prazo_txt": "15/11/2026",
    "prazo": "2026-11-15",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": null,
    "perfis": {
     "seg_med": "Guarda Civil Municipal",
     "fis": "Fisioterapeuta",
     "adm_med": "Agente Administrativo"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
@@ -209,12 +209,12 @@
    "prazo_txt": "17/11/2026",
    "prazo": "2026-11-17",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": null,
    "perfis": {
     "ti_med": "Técnico em TI"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "areas": [
     "ti"
@@ -232,12 +232,12 @@
    "prazo_txt": "18/11/2026",
    "prazo": "2026-11-18",
    "st": "aberto",
-   "lida": true,
    "banca": "FGV",
+   "prova": "2027-01-24",
    "perfis": {
     "geral_sup": "Analista Judiciário"
    },
-   "prova": "2027-01-24",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
@@ -255,15 +255,15 @@
    "prazo_txt": "19/11/2026",
    "prazo": "2026-11-19",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-12-20",
    "perfis": {
     "seg_med": "Guarda Municipal",
     "fis": "Fisioterapeuta",
     "adm_med": "Auxiliar Administrativo",
     "geral_sup": "Contador"
    },
-   "prova": "2026-12-20",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
@@ -283,8 +283,8 @@
    "prazo_txt": "20/11/2026",
    "prazo": "2026-11-20",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-12-20",
    "perfis": {
     "seg_med": "Guarda Municipal",
     "ti_sup": "Desenvolvedor de Sistema",
@@ -292,7 +292,7 @@
     "adm_med": "Agente Administrativo",
     "geral_sup": "Auditor de Tributos"
    },
-   "prova": "2026-12-20",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
@@ -313,13 +313,13 @@
    "prazo_txt": "22/11/2026",
    "prazo": "2026-11-22",
    "st": "aberto",
-   "lida": true,
    "banca": "CPCon/UEPB",
+   "prova": "2027-02-14",
    "perfis": {
     "seg_med": "Vigilante",
     "adm_med": "Auxiliar Administrativo"
    },
-   "prova": "2027-02-14",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
@@ -338,12 +338,12 @@
    "prazo_txt": "29/10 a 29/11/2026",
    "prazo": "2026-11-29",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-01-31",
    "perfis": {
     "adm_med": "Auxiliar Administrativo"
    },
-   "prova": "2027-01-31",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
@@ -361,14 +361,14 @@
    "prazo_txt": "29/10 a 29/11/2026",
    "prazo": "2026-11-29",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-02-14",
    "perfis": {
     "ti_med": "Técnico de Informática",
     "fis": "Fisioterapeuta",
     "adm_med": "Agente Administrativo"
    },
-   "prova": "2027-02-14",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
@@ -388,12 +388,12 @@
    "prazo_txt": "16/12/2026",
    "prazo": "2026-12-16",
    "st": "aberto",
-   "lida": true,
    "banca": "Cebraspe",
+   "prova": "2027-03-07",
    "perfis": {
     "seg_sup": "Polícia Civil"
    },
-   "prova": "2027-03-07",
+   "lida": true,
    "local": true,
    "areas": [
     "seg"
@@ -412,12 +412,12 @@
    "prazo": null,
    "st": "previsto",
    "noticia_em": "2026-06-10",
-   "lida": true,
    "banca": "FCC",
+   "prova": null,
    "perfis": {
     "geral_sup": "Procuradores"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "previsao": null,
    "previsao_txt": null,
@@ -438,13 +438,13 @@
    "prazo": null,
    "st": "previsto",
    "noticia_em": "2026-06-17",
-   "lida": true,
    "banca": "FCC",
+   "prova": null,
    "perfis": {
     "ti_sup": "Analista suporte",
     "geral_sup": "Auditor"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "previsao": null,
    "previsao_txt": null,
@@ -466,13 +466,13 @@
    "prazo": null,
    "st": "previsto",
    "noticia_em": "2026-06-08",
-   "lida": true,
    "banca": null,
+   "prova": null,
    "perfis": {
     "seg_sup": "Polícia Civil",
     "seg_med": "Soldado"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "previsao": null,
    "previsao_txt": null,
