@@ -1,0 +1,156 @@
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Concursos PB">
+<meta name="theme-color" content="#121828">
+<link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icones/icon-192.png">
+<style>
+/* app instalado: botão Atualizar, aviso de progresso e ajustes */
+.app-bar{position:fixed;left:calc(16px + env(safe-area-inset-left,0px));bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:8;display:flex;gap:6px}
+.app-bar button{border:0;border-radius:999px;font-weight:700;font-size:14px;cursor:pointer;box-shadow:var(--sombra);transition:transform .15s}
+.app-bar button:active{transform:scale(.95)}
+#app-atualizar{background:var(--pb);color:#fff;padding:11px 18px 11px 14px;display:flex;gap:8px;align-items:center}
+#app-atualizar i{font-style:normal;display:inline-block}
+#app-atualizar.girando i{animation:girar 1s linear infinite}
+#app-ajustes{width:44px;height:44px;background:var(--cartao);color:var(--tinta);border:1px solid var(--linha)!important}
+.app-aviso{position:fixed;left:50%;bottom:calc(76px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:9;max-width:min(92vw,440px);
+  background:var(--tinta);color:var(--papel);border-radius:12px;padding:10px 14px;font-size:14px;box-shadow:var(--sombra);animation:surgir .3s both}
+.app-aviso progress{display:block;width:100%;margin-top:8px;accent-color:var(--sol)}
+dialog.app-dlg{border:1px solid var(--linha);border-radius:16px;background:var(--cartao);color:var(--tinta);width:min(94vw,460px);padding:18px}
+dialog.app-dlg::backdrop{background:rgb(8 11 18/.55)}
+.app-dlg h2{font-size:20px;font-stretch:110%;margin-bottom:6px}
+.app-dlg p{font-size:13.5px;color:var(--suave);margin:6px 0}
+.app-dlg label{display:grid;gap:4px;font-size:13px;font-weight:600;margin-top:12px}
+.app-dlg input{padding:9px 10px;border:1.5px solid var(--linha);border-radius:8px;background:var(--papel);color:var(--tinta);font-size:15px;min-width:0}
+.app-dlg .linha-b{display:flex;flex-wrap:wrap;gap:8px;justify-content:flex-end;margin-top:16px}
+.app-dlg .linha-b button{border:1.5px solid var(--linha);background:transparent;border-radius:8px;padding:8px 14px;font-weight:700;cursor:pointer}
+.app-dlg .linha-b .pri{background:var(--tinta);color:var(--papel);border-color:var(--tinta)}
+.app-dlg ol{font-size:13.5px;color:var(--suave);padding-left:18px;margin:6px 0}
+@keyframes girar{to{transform:rotate(360deg)}}
+@media (display-mode: standalone){.hero{padding-top:calc(34px + env(safe-area-inset-top,0px))}}
+</style>
+<!-- CORPO -->
+<div class="app-bar">
+  <button type="button" id="app-atualizar"><i aria-hidden="true">↻</i>Atualizar</button>
+  <button type="button" id="app-ajustes" aria-label="Ajustes do app">⚙</button>
+</div>
+<div class="app-aviso" id="app-aviso" role="status" hidden><span></span><progress hidden></progress></div>
+
+<dialog class="app-dlg" id="app-dlg">
+  <form method="dialog" id="app-form">
+    <h2>Ajustes</h2>
+    <p>O app se atualiza sozinho todo dia às 6h. Para gerar uma atualização na hora pelo botão, cole aqui um token do GitHub. Ele fica guardado só neste aparelho.</p>
+    <label for="app-repo">Repositório (usuário/nome)<input id="app-repo" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="seu-usuario/concursos"></label>
+    <label for="app-token">Token do GitHub<input id="app-token" type="password" autocomplete="off" placeholder="github_pat_..."></label>
+    <p>Como criar: em github.com, Settings, Developer settings, Fine-grained tokens, Generate new token. Escolha só este repositório e dê permissão <b>Actions: Read and write</b>.</p>
+    <label for="app-completo" style="grid-template-columns:auto 1fr;align-items:center;font-weight:500"><input type="checkbox" id="app-completo"> Usar a atualização completa com o Claude (só se você configurou a chave ANTHROPIC_API_KEY no repositório)</label>
+    <div class="linha-b">
+      <button value="cancelar" formnovalidate>Cancelar</button>
+      <button value="salvar" class="pri" id="app-salvar">Salvar</button>
+    </div>
+  </form>
+</dialog>
+
+<script>
+/* app instalado: modo offline (service worker) e botão Atualizar.
+   Sem token: busca a versão mais recente já publicada (o GitHub gera uma por dia).
+   Com token: dispara a varredura no GitHub Actions, acompanha até terminar e recarrega com as visões novas. */
+(() => {
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+  const CFG = "concursos-app-cfg";
+  const lerCfg = () => { try { return JSON.parse(localStorage.getItem(CFG)) || {}; } catch (e) { return {}; } };
+  const gravarCfg = c => { try { localStorage.setItem(CFG, JSON.stringify(c)); } catch (e) {} };
+  const repoDoLink = () => {
+    const h = location.hostname.match(/^([^.]+)\.github\.io$/i), pasta = location.pathname.split("/").filter(Boolean)[0];
+    return h ? `${h[1]}/${pasta && !pasta.includes(".") ? pasta : h[1] + ".github.io"}` : "";
+  };
+  const aviso = document.getElementById("app-aviso"), barra = aviso.querySelector("progress");
+  const btn = document.getElementById("app-atualizar");
+  let tempo;
+  const avisar = (txt, prog, fixo) => {
+    clearTimeout(tempo); aviso.hidden = false; aviso.querySelector("span").textContent = txt;
+    barra.hidden = prog == null; if (prog != null) barra.value = prog;
+    if (!fixo) tempo = setTimeout(() => { aviso.hidden = true; }, 6000);
+  };
+  const esperar = ms => new Promise(r => setTimeout(r, ms));
+  const geradoAqui = document.querySelector('meta[name="gerado-em"]').content;
+  const geradoLa = async () => {
+    const r = await fetch("index.html?v=" + Date.now(), {cache: "no-store"});
+    const m = (await r.text()).match(/name="gerado-em" content="([^"]+)"/);
+    return m ? m[1] : "";
+  };
+  const fmt = s => new Date(s).toLocaleString("pt-BR", {day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit"});
+
+  async function disparar(c) {
+    const fluxo = c.completo ? "atualizar_completo.yml" : "atualizar.yml";
+    const api = `https://api.github.com/repos/${c.repo}/actions/workflows/${fluxo}`;
+    const cab = {Authorization: "Bearer " + c.token, Accept: "application/vnd.github+json"};
+    const desde = Date.now() - 5000;
+    const r = await fetch(api + "/dispatches", {method: "POST", headers: cab, body: JSON.stringify({ref: c.ramo || "main"})});
+    if (r.status !== 204) throw new Error(r.status === 401 || r.status === 403 || r.status === 404
+      ? "O GitHub recusou o pedido. Confira o repositório e se o token tem Actions: Read and write."
+      : "O GitHub respondeu com erro " + r.status + ".");
+    const limite = c.completo ? 90 : 40;
+    for (let k = 1; k <= limite; k++) {
+      await esperar(10000);
+      const j = await (await fetch(api + "/runs?event=workflow_dispatch&per_page=1", {headers: cab, cache: "no-store"})).json();
+      const run = j.workflow_runs && j.workflow_runs[0];
+      if (!run || new Date(run.created_at).getTime() < desde) { avisar("Esperando o GitHub começar…", null, true); continue; }
+      if (run.status !== "completed") { avisar(`Varrendo os sites de concurso no GitHub… ${k * 10}s`, Math.min(.9, k / (limite * .5)), true); continue; }
+      if (run.conclusion !== "success") throw new Error("A varredura falhou no GitHub. Abra a aba Actions do repositório para ver o motivo.");
+      return;
+    }
+    throw new Error("A varredura está demorando mais que o normal. Tente de novo em alguns minutos.");
+  }
+
+  async function atualizar() {
+    if (btn.classList.contains("girando")) return;
+    btn.classList.add("girando");
+    const c = lerCfg(); c.repo = c.repo || repoDoLink();
+    try {
+      if (!navigator.onLine) throw new Error("Sem internet. O app continua mostrando a última versão salva.");
+      if (c.token && c.repo) {
+        await disparar(c);
+        for (let k = 1; k <= 18; k++) {          // o GitHub Pages leva cerca de 1 minuto para publicar
+          avisar("Publicando as visões novas…", .9 + k / 200, true);
+          if ((await geradoLa()) > geradoAqui) break;
+          await esperar(10000);
+        }
+      } else {
+        avisar("Procurando versão mais nova…", null, true);
+      }
+      const la = await geradoLa();
+      if (la > geradoAqui) {
+        avisar("Visões novas prontas. Abrindo…", 1, true);
+        if (navigator.serviceWorker && navigator.serviceWorker.controller) navigator.serviceWorker.controller.postMessage("limpar");
+        await esperar(400); location.reload();
+      } else {
+        avisar(c.token ? "Varredura feita, mas nada mudou desde " + fmt(geradoAqui) + "."
+          : "Você já tem a versão de " + fmt(geradoAqui) + ". Ela se renova todo dia às 6h. Para gerar na hora, configure o token em ⚙.");
+      }
+    } catch (err) {
+      avisar(err.message || "Não deu para atualizar agora.");
+    } finally {
+      btn.classList.remove("girando");
+    }
+  }
+  btn.addEventListener("click", atualizar);
+
+  const dlg = document.getElementById("app-dlg");
+  document.getElementById("app-ajustes").addEventListener("click", () => {
+    const c = lerCfg();
+    document.getElementById("app-repo").value = c.repo || repoDoLink();
+    document.getElementById("app-token").value = c.token || "";
+    document.getElementById("app-completo").checked = !!c.completo;
+    dlg.showModal();
+  });
+  dlg.addEventListener("close", () => {
+    if (dlg.returnValue !== "salvar") return;
+    gravarCfg({repo: document.getElementById("app-repo").value.trim(), token: document.getElementById("app-token").value.trim(),
+               completo: document.getElementById("app-completo").checked});
+    avisar("Ajustes salvos neste aparelho.");
+  });
+})();
+</script>
