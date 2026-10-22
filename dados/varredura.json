@@ -1,0 +1,485 @@
+{
+ "gerado_em": "2026-10-22T00:50",
+ "fonte": "pciconcursos.com.br",
+ "erros": [],
+ "itens": [
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-edital-retificado-de-concurso-publico",
+   "titulo": "Prefeitura de Floresta - PE publica edital retificado de concurso público",
+   "orgao": "Prefeitura de Floresta",
+   "vagas": "431 vagas até R$ 8.000,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "Prorrogado até 22/10/2026",
+   "prazo": "2026-10-22",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "ti_med": "Técnico em Informática",
+    "fis": "Fisioterapeuta",
+    "adm_med": "Assistente Administrativo"
+   },
+   "prova": "2026-11-22",
+   "local": true,
+   "areas": [
+    "adm",
+    "fis",
+    "ti"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedra-lavrada-pb-abre-vagas-para-agentes-de-saude-e-de-endemias",
+   "titulo": "Prefeitura de Pedra Lavrada - PB abre vagas para agentes de saúde e de endemias",
+   "orgao": "Prefeitura de Pedra Lavrada",
+   "vagas": "3 vagas",
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "nivel": "Ensino Médio",
+   "prazo_txt": "23/10/2026",
+   "prazo": "2026-10-23",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "adm_med": "Cargos gerais do edital"
+   },
+   "prova": "2026-11-08",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-do-recife-pe-abre-concurso-publico-com-vagas-para-musicos",
+   "titulo": "Prefeitura do Recife - PE abre concurso público com vagas para músicos",
+   "orgao": "Prefeitura do Recife",
+   "vagas": "45 vagas até R$ 5.587,46",
+   "cargos": "Músico",
+   "nivel": "Médio / Superior",
+   "prazo_txt": "28/10/2026",
+   "prazo": "2026-10-28",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "adm_med": "Cargos gerais do edital"
+   },
+   "prova": "2026-12-21",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/universidade-de-pernambuco-abre-concurso-publico-para-o-cargo-de-advogado",
+   "titulo": "Universidade de Pernambuco abre concurso público para o cargo de Advogado",
+   "orgao": "UPE - Universidade de Pernambuco",
+   "vagas": "2 vagas até R$ 4.165,25",
+   "cargos": "Advogado",
+   "nivel": "Superior",
+   "prazo_txt": "02/11/2026",
+   "prazo": "2026-11-02",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "geral_sup": "Advogado"
+   },
+   "prova": "2026-11-29",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-sabugi-pb-abre-concurso-para-diversos-cargos",
+   "titulo": "Prefeitura de São José do Sabugi - PB abre concurso para diversos cargos",
+   "orgao": "Prefeitura de São José do Sabugi",
+   "vagas": "48 vagas até R$ 3.847,97",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "07/11/2026",
+   "prazo": "2026-11-07",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "fis": "Fisioterapeuta"
+   },
+   "prova": "2026-12-13",
+   "local": true,
+   "areas": [
+    "fis"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conceicao-pb-reabre-inscricoes-para-concurso-publico",
+   "titulo": "Prefeitura de Conceição - PB reabre inscrições para concurso público",
+   "orgao": "Prefeitura de Conceição",
+   "vagas": "129 vagas até R$ 7.000,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "Reaberto até 08/11/2026",
+   "prazo": "2026-11-08",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "fis": "Fisioterapeuta",
+    "adm_med": "Agente Administrativo",
+    "geral_sup": "Procuradoria"
+   },
+   "prova": "2026-12-06",
+   "local": true,
+   "areas": [
+    "adm",
+    "fis"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "BR",
+   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-3-distrito-naval-abre-vagas-para-oficiais-temporarios",
+   "titulo": "Marinha do Brasil - 3º Distrito Naval abre vagas para Oficiais Temporários",
+   "orgao": "Marinha do Brasil - Comando do 3º Distrito Naval",
+   "vagas": "35 vagas",
+   "cargos": "Vários Cargos",
+   "nivel": "Superior",
+   "prazo_txt": "10/11/2026",
+   "prazo": "2026-11-10",
+   "st": "aberto",
+   "lida": true,
+   "banca": "Marinha do Brasil",
+   "perfis": {
+    "fis": "Fisioterapia"
+   },
+   "prova": "2027-02-21",
+   "local": true,
+   "areas": [
+    "fis"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-republica-editais-de-concursos-publicos",
+   "titulo": "Prefeitura de Água Branca - PB republica editais de concursos públicos",
+   "orgao": "Prefeitura de Água Branca",
+   "vagas": "24 vagas até R$ 3.242,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Médio / Superior",
+   "prazo_txt": "15/11/2026",
+   "prazo": "2026-11-15",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "seg_med": "Guarda Civil Municipal",
+    "fis": "Fisioterapeuta",
+    "adm_med": "Agente Administrativo"
+   },
+   "prova": null,
+   "local": true,
+   "areas": [
+    "adm",
+    "fis",
+    "seg"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-goiana-pe-retifica-edital-de-selecao-publica",
+   "titulo": "Prefeitura de Goiana - PE retifica edital de seleção pública",
+   "orgao": "Prefeitura de Goiana",
+   "vagas": "166 vagas até R$ 8.926,43",
+   "cargos": "Vários Cargos",
+   "nivel": "Médio / Técnico / Superior",
+   "prazo_txt": "17/11/2026",
+   "prazo": "2026-11-17",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "ti_med": "Técnico em TI"
+   },
+   "prova": null,
+   "local": true,
+   "areas": [
+    "ti"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/tjpb-abre-concurso-publico-para-analistas-judiciarios",
+   "titulo": "TJPB abre concurso público para analistas judiciários",
+   "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
+   "vagas": "50 vagas até R$ 7.526,14",
+   "cargos": "Analista Judiciário, Contabilidade",
+   "nivel": "Superior",
+   "prazo_txt": "18/11/2026",
+   "prazo": "2026-11-18",
+   "st": "aberto",
+   "lida": true,
+   "banca": "FGV",
+   "perfis": {
+    "geral_sup": "Analista Judiciário"
+   },
+   "prova": "2027-01-24",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ferreiros-pe-abre-concurso-publico-com-vagas-para-diversas-areas",
+   "titulo": "Prefeitura de Ferreiros - PE abre concurso público com vagas para diversas áreas",
+   "orgao": "Prefeitura de Ferreiros",
+   "vagas": "57 vagas até R$ 4.179,47",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "19/11/2026",
+   "prazo": "2026-11-19",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "seg_med": "Guarda Municipal",
+    "fis": "Fisioterapeuta",
+    "adm_med": "Auxiliar Administrativo",
+    "geral_sup": "Contador"
+   },
+   "prova": "2026-12-20",
+   "local": true,
+   "areas": [
+    "adm",
+    "fis",
+    "seg"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000",
+   "titulo": "Prefeitura de Itapororoca - PB abre concurso com salários de até R$ 10.000,00",
+   "orgao": "Prefeitura de Itapororoca",
+   "vagas": "175 vagas até R$ 10.000,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "20/11/2026",
+   "prazo": "2026-11-20",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "seg_med": "Guarda Municipal",
+    "ti_sup": "Desenvolvedor de Sistema",
+    "fis": "Fisioterapeuta",
+    "adm_med": "Agente Administrativo",
+    "geral_sup": "Auditor de Tributos"
+   },
+   "prova": "2026-12-20",
+   "local": true,
+   "areas": [
+    "adm",
+    "fis",
+    "seg",
+    "ti"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-guarabira-pb-abre-concurso-publico-com-salarios-de-ate-3354",
+   "titulo": "Câmara de Guarabira - PB abre concurso público com salários de até R$ 3.354,70",
+   "orgao": "Câmara de Guarabira",
+   "vagas": "5 vagas até R$ 3.354,70",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Superior",
+   "prazo_txt": "22/11/2026",
+   "prazo": "2026-11-22",
+   "st": "aberto",
+   "lida": true,
+   "banca": "CPCon/UEPB",
+   "perfis": {
+    "seg_med": "Vigilante",
+    "adm_med": "Auxiliar Administrativo"
+   },
+   "prova": "2027-02-14",
+   "local": true,
+   "areas": [
+    "adm",
+    "seg"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-areia-pb-abre-concurso-para-auxiliar-de-servicos-gerais-e-auxiliar-administrativo",
+   "titulo": "Câmara de Areia - PB abre concurso para Auxiliar de Serviços Gerais e Auxiliar Administrativo",
+   "orgao": "Câmara de Areia",
+   "vagas": "4 vagas até R$ 1.621,00",
+   "cargos": "Auxiliar de Serviços Gerais, Auxiliar Administrativo",
+   "nivel": "Fundamental / Médio",
+   "prazo_txt": "29/10 a 29/11/2026",
+   "prazo": "2026-11-29",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "adm_med": "Auxiliar Administrativo"
+   },
+   "prova": "2027-01-31",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-abre-concurso-publico-com-vagas-para-diversos-cargos",
+   "titulo": "Prefeitura de Serra Grande - PB abre concurso público com vagas para diversos cargos",
+   "orgao": "Prefeitura de Serra Grande",
+   "vagas": "41 vagas até R$ 3.651,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "29/10 a 29/11/2026",
+   "prazo": "2026-11-29",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "ti_med": "Técnico de Informática",
+    "fis": "Fisioterapeuta",
+    "adm_med": "Agente Administrativo"
+   },
+   "prova": "2027-02-14",
+   "local": true,
+   "areas": [
+    "adm",
+    "fis",
+    "ti"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-e-de-administracao-pe-abrem-concurso-com-1315-vagas-para-a-policia-civil",
+   "titulo": "Secretaria de Defesa Social e de Administração - PE abrem concurso com 1.315 vagas para a Polícia Civil",
+   "orgao": "SDS - Secretaria de Defesa Social",
+   "vagas": "1.315 vagas até R$ 13.560,00",
+   "cargos": "Agente de Polícia, Delegado de Polícia, Escrivão de Polícia",
+   "nivel": "Superior",
+   "prazo_txt": "16/12/2026",
+   "prazo": "2026-12-16",
+   "st": "aberto",
+   "lida": true,
+   "banca": "Cebraspe",
+   "perfis": {
+    "seg_sup": "Polícia Civil"
+   },
+   "prova": "2027-03-07",
+   "local": true,
+   "areas": [
+    "seg"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/previstos/alepe-aprova-35-vagas-no-mp-de-pernambuco-e-reajuste-para-carreiras-de-apoio",
+   "titulo": "Alepe aprova 35 vagas no MP de Pernambuco e reajuste para carreiras de apoio",
+   "orgao": "Alepe aprova 35 vagas no MP de Pernambuco e reajuste para carreiras de apoio",
+   "vagas": "",
+   "cargos": "",
+   "nivel": "",
+   "prazo_txt": "",
+   "prazo": null,
+   "st": "previsto",
+   "noticia_em": "2026-06-10",
+   "lida": true,
+   "banca": "FCC",
+   "perfis": {
+    "geral_sup": "Procuradores"
+   },
+   "prova": null,
+   "local": true,
+   "previsao": null,
+   "previsao_txt": null,
+   "areas": [
+    "adm"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/previstos/defensoria-publica-da-paraiba-escolhe-fcc-para-organizar-seu-primeiro-concurso-de-servidores",
+   "titulo": "Defensoria Pública da Paraíba escolhe FCC para organizar seu primeiro concurso de servidores",
+   "orgao": "Defensoria Pública da Paraíba escolhe FCC para organizar seu primeiro concurso de servidores",
+   "vagas": "",
+   "cargos": "",
+   "nivel": "",
+   "prazo_txt": "",
+   "prazo": null,
+   "st": "previsto",
+   "noticia_em": "2026-06-17",
+   "lida": true,
+   "banca": "FCC",
+   "perfis": {
+    "ti_sup": "Analista suporte",
+    "geral_sup": "Auditor"
+   },
+   "prova": null,
+   "local": true,
+   "previsao": null,
+   "previsao_txt": null,
+   "areas": [
+    "adm",
+    "ti"
+   ],
+   "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/previstos/governo-de-pernambuco-analisa-novos-concursos-para-a-seguranca-publica",
+   "titulo": "Governo de Pernambuco analisa novos concursos para a Segurança Pública",
+   "orgao": "Governo de Pernambuco analisa novos concursos para a Segurança Pública",
+   "vagas": "",
+   "cargos": "",
+   "nivel": "",
+   "prazo_txt": "",
+   "prazo": null,
+   "st": "previsto",
+   "noticia_em": "2026-06-08",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "seg_sup": "Polícia Civil",
+    "seg_med": "Soldado"
+   },
+   "prova": null,
+   "local": true,
+   "previsao": null,
+   "previsao_txt": null,
+   "areas": [
+    "seg"
+   ],
+   "novo": false
+  }
+ ]
+}

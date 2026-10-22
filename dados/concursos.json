@@ -1,0 +1,483 @@
+{
+ "atualizado_em": "2026-10-22",
+ "como_atualizar": "Editado pelo botão ATUALIZAR_COMPLETO (Claude) ou à mão. Datas AAAA-MM-DD. perfis: chaves de scripts/perfis.py -> cargo. chave_pci: trecho do nome no PCI para não duplicar com a varredura.",
+ "concursos": [
+  {
+   "nome": "PM PE · Soldado e Oficial",
+   "st": "aberto",
+   "banca": "Instituto AOCP",
+   "nivel": "Conferir no edital",
+   "vagas": "1.250 Soldado · 70 Oficial",
+   "salario": "Conferir no edital",
+   "insc": "5/10 a 5/11/2026 · R$ 180 (Soldado)",
+   "prazo": "2026-11-05",
+   "prova": "2027-02-21",
+   "obs": "Prova objetiva + redação. Isenção já encerrou. Tem TAF, exame de saúde e investigação social.",
+   "link_nome": "Página do concurso na AOCP",
+   "link_url": "https://www.institutoaocp.org.br/concursos/714",
+   "uf": "PE",
+   "perfis": {
+    "seg_med": "Soldado"
+   },
+   "estrutura": "Prova objetiva + redação; depois TAF, exames de saúde e investigação social."
+  },
+  {
+   "nome": "DPE-PB · Analista de TI e Técnico",
+   "st": "aberto",
+   "banca": "FCC",
+   "nivel": "Médio (Técnico) · Superior em TI (Analista)",
+   "vagas": "20 no total · TI: 1 Sistemas, 1 Redes, 1 Seg. Informação",
+   "salario": "R$ 5.197,50 (Analista) · R$ 4.042,50 (Técnico)",
+   "insc": "Até 13/11/2026 · R$ 123 / R$ 103",
+   "prazo": "2026-11-13",
+   "prova": "2027-02-28",
+   "obs": "Prova em João Pessoa. Uma vaga por área de TI: entra como treino de FCC e aposta, não como alvo único.",
+   "link_nome": "Fundação Carlos Chagas",
+   "link_url": "https://www.concursosfcc.com.br/",
+   "uf": "PB",
+   "perfis": {
+    "ti_sup": "Analista de TI",
+    "adm_med": "Técnico da Defensoria"
+   },
+   "chave_pci": "Defensoria Pública da Paraíba"
+  },
+  {
+   "nome": "TJPB · Analista Judiciário de TI",
+   "st": "aberto",
+   "banca": "FGV",
+   "nivel": "Superior em TI (ou pós em TI)",
+   "vagas": "20 de TI: 10 Dev. Sistemas, 3 IA, 2 Seg. Informação, 2 Governança, 1 BD, 1 Infra, 1 Dados",
+   "salario": "R$ 11.526,14 (R$ 7.526,14 + auxílios)",
+   "insc": "20/10 a 18/11/2026 (16h) · R$ 120",
+   "prazo": "2026-11-18",
+   "prova": "2027-01-24",
+   "obs": "60 questões (Português 10, RLM 10, específicas 40) + discursiva. Seg. Informação, Governança, IA e Dados exigem 2 anos de experiência na área.",
+   "link_nome": "Edital (PDF, FGV)",
+   "link_url": "https://conhecimento.fgv.br/sites/default/files/concursos/edital-tjpb_19.10-versao-final.pdf",
+   "uf": "PB",
+   "perfis": {
+    "ti_sup": "Analista Judiciário de TI",
+    "geral_sup": "Analista Judiciário (Direito, Contabilidade)"
+   },
+   "chave_pci": "TJPB",
+   "estrutura": "60 questões de múltipla escolha (Português 10, Raciocínio lógico 10, específicas 40), mínimo de 60%, + discursiva de 30 linhas (Dev. Sistemas: corrigida até a 100ª colocação)."
+  },
+  {
+   "nome": "PC PE · Agente e Escrivão",
+   "st": "aberto",
+   "banca": "Cebraspe",
+   "nivel": "Superior em qualquer área + CNH B",
+   "vagas": "1.200 Agente · 70 Escrivão · 45 Delegado",
+   "salario": "R$ 5.667,92 (Agente/Escrivão)",
+   "insc": "15/10 a 16/12/2026 · R$ 250",
+   "prazo": "2026-12-16",
+   "prova": "2027-03-07",
+   "obs": "Maior volume de vagas da região agora. Redação de até 30 linhas sobre segurança pública. Delegado faz prova em 14/03.",
+   "link_nome": "Edital nº 1 no Cebraspe",
+   "link_url": "https://cdn.cebraspe.org.br/concursos/PC_PE_26/arquivos/D70610824B6BDD9266B820E9F9E5A3527D9125712B300C4F3A4A49DB948553E2.html",
+   "uf": "PE",
+   "perfis": {
+    "seg_sup": "Agente e Escrivão de Polícia"
+   },
+   "chave_pci": "Defesa Social",
+   "estrutura": "Prova objetiva Cebraspe (certo ou errado) + redação de até 30 linhas sobre segurança pública; depois TAF e demais etapas."
+  },
+  {
+   "nome": "Polícia Penal PE",
+   "st": "iminente",
+   "banca": "Cebraspe",
+   "nivel": "Superior",
+   "vagas": "700 Policial Penal",
+   "salario": "Sai no edital",
+   "insc": "Edital ainda não publicado",
+   "prazo": null,
+   "prova": null,
+   "obs": "Contrato com o Cebraspe assinado em 24/09/2026. Previsão era edital até 10/10, já atrasou. Fontes falam em prova no 1º trimestre de 2027. Mesmo núcleo do PC PE.",
+   "link_nome": "Notícia: contrato assinado",
+   "link_url": "https://ceisc.com.br/blog/post/concurso-pp-pe-contrato-com-cebraspe-e-assinado-e-novo-edital-e-iminente",
+   "uf": "PE",
+   "perfis": {
+    "seg_sup": "Policial Penal"
+   },
+   "estrutura": "Previsão: 60 questões (20 gerais e 40 específicas).",
+   "previsao": "2026-11",
+   "previsao_txt": "Edital iminente: estava previsto para 10/10 e atrasou"
+  },
+  {
+   "nome": "Polícia Penal PB",
+   "st": "iminente",
+   "banca": "Idecan",
+   "nivel": "Superior",
+   "vagas": "500 a 1.000 (fontes divergem)",
+   "salario": "≈ R$ 4.844",
+   "insc": "Edital ainda não publicado",
+   "prazo": null,
+   "prova": null,
+   "obs": "Banca contratada até 20/02/2027, mas o edital depende da Lei Orgânica da carreira. Já foi adiado de 2025 para 2026.",
+   "link_nome": "Situação (Estratégia)",
+   "link_url": "https://www.estrategiaconcursos.com.br/blog/concurso-policia-penal-pb-o-que-falta-edital-sair/amp/",
+   "uf": "PB",
+   "perfis": {
+    "seg_sup": "Policial Penal"
+   },
+   "previsao": "2027-02",
+   "previsao_txt": "Depende da Lei Orgânica; contrato com a banca vai até fev/2027"
+  },
+  {
+   "nome": "PRF · Policial Rodoviário Federal",
+   "st": "previsto",
+   "banca": "A definir",
+   "nivel": "Superior em qualquer área + CNH B",
+   "vagas": "269 pedidas",
+   "salario": "—",
+   "insc": "Aguarda autorização do MGI",
+   "prazo": null,
+   "prova": null,
+   "obs": "Pedido parado no Ministério da Gestão. Leitura mais provável: edital só em 2027. Base de Direito igual à das polícias civis.",
+   "link_nome": "Situação (Gran)",
+   "link_url": "https://blog.grancursosonline.com.br/concurso-prf/",
+   "uf": "BR",
+   "perfis": {
+    "seg_sup": "Policial Rodoviário Federal"
+   },
+   "previsao": "2027-06",
+   "previsao_txt": "Provável 2027, depende de autorização do MGI"
+  },
+  {
+   "nome": "PF · Agente, Escrivão, Perito",
+   "st": "previsto",
+   "banca": "A definir",
+   "nivel": "Superior (Perito: área específica, inclui TI)",
+   "vagas": "—",
+   "salario": "≈ R$ 14,7 mil (Agente)",
+   "insc": "Sem novo edital",
+   "prazo": null,
+   "prova": null,
+   "obs": "O concurso de 2025 (1.000 vagas) ainda está terminando, com 2.615 aprovados. Novo edital antes de 2027/2028 é improvável.",
+   "link_nome": "Situação (Direção)",
+   "link_url": "https://www.direcaoconcursos.com.br/noticias/concurso-pf-em-2026-novo-edital",
+   "uf": "BR",
+   "perfis": {
+    "seg_sup": "Agente, Escrivão, Perito"
+   },
+   "previsao": "2028-03",
+   "previsao_txt": "Improvável antes de 2028: o concurso de 2025 ainda chama aprovados"
+  },
+  {
+   "nome": "Banco do Nordeste · Especialista em TI",
+   "st": "previsto",
+   "banca": "A definir (2022 foi Cebraspe)",
+   "nivel": "Superior",
+   "vagas": "≈ 90 (fonte não oficial)",
+   "salario": "—",
+   "insc": "Sem edital",
+   "prazo": null,
+   "prova": null,
+   "obs": "Combina com sua experiência em banco. Cadastro do último concurso foi zerado, o que costuma puxar edital novo.",
+   "link_nome": "Situação (Estratégia)",
+   "link_url": "https://www.estrategiaconcursos.com.br/blog/concurso-bnb/",
+   "uf": "BR",
+   "perfis": {
+    "ti_sup": "Especialista em TI"
+   },
+   "previsao": "2027-06",
+   "previsao_txt": "Sem data oficial; cadastro anterior zerado"
+  },
+  {
+   "nome": "Caixa · Técnico Bancário (inclui TI)",
+   "st": "previsto",
+   "banca": "Cesgranrio (preliminar)",
+   "nivel": "Médio",
+   "vagas": "—",
+   "salario": "—",
+   "insc": "Em estudos",
+   "prazo": null,
+   "prova": null,
+   "obs": "O concurso de 2024 tinha Técnico Bancário em TI de nível médio. Contrato com a Cesgranrio vale até jan/2028.",
+   "link_nome": "Situação (Estratégia)",
+   "link_url": "https://www.estrategiaconcursos.com.br/blog/concursos-banco-do-brasil-caixa-2026/",
+   "uf": "BR",
+   "perfis": {
+    "banc": "Técnico Bancário",
+    "ti_med": "Técnico Bancário em TI"
+   },
+   "previsao": null,
+   "previsao_txt": "Em estudos, sem autorização"
+  },
+  {
+   "nome": "PC PB e PM PB",
+   "st": "previsto",
+   "banca": "A definir",
+   "nivel": "—",
+   "vagas": "—",
+   "salario": "—",
+   "insc": "Sem autorização",
+   "prazo": null,
+   "prova": null,
+   "obs": "PC PB: só recomendação do TCE. PM PB: em abril/2026 o governo chamou suplentes do concurso anterior em vez de abrir edital.",
+   "link_nome": "Panorama PB (Gran)",
+   "link_url": "https://blog.grancursosonline.com.br/concursos-paraiba-pb/",
+   "uf": "PB",
+   "perfis": {
+    "seg_sup": "Polícia Civil",
+    "seg_med": "Soldado PM"
+   },
+   "previsao": null,
+   "previsao_txt": "Sem autorização"
+  },
+  {
+   "nome": "Guarda Municipal do Recife",
+   "st": "iminente",
+   "banca": "Instituto AOCP",
+   "nivel": "Médio",
+   "vagas": "400",
+   "salario": "—",
+   "insc": "Sem edital",
+   "prazo": null,
+   "prova": null,
+   "obs": "Banca escolhida (AOCP) e comissão criada em 11/09/2026. Último concurso foi em 2014.",
+   "link_nome": "Banca definida (Direção)",
+   "link_url": "https://www.direcaoconcursos.com.br/noticias/concurso-guarda-recife-banca-definida",
+   "uf": "PE",
+   "perfis": {
+    "seg_med": "Guarda Municipal"
+   },
+   "previsao": "2026-12",
+   "previsao_txt": "Prefeitura promete edital até o fim de 2026",
+   "chave_pci": "Guarda Municipal do Recife",
+   "cidade": "Recife"
+  },
+  {
+   "nome": "CNU 3 · bloco de Tecnologia",
+   "st": "previsto",
+   "banca": "A definir (CNU 2: FGV)",
+   "nivel": "Superior",
+   "vagas": "—",
+   "salario": "—",
+   "insc": "Sem edital",
+   "prazo": null,
+   "prova": null,
+   "obs": "Fala-se em 2027 ou 2028; depende do governo eleito em 2026. Vagas federais com prova no NE.",
+   "link_nome": "Situação (Estratégia)",
+   "link_url": "https://www.estrategiaconcursos.com.br/blog/concurso-nacional-unificado/amp/",
+   "uf": "BR",
+   "perfis": {
+    "ti_sup": "Bloco de Tecnologia",
+    "geral_sup": "Demais blocos"
+   },
+   "previsao": "2027-12",
+   "previsao_txt": "2027 ou 2028, depende do governo eleito"
+  },
+  {
+   "nome": "Marinha 3º Distrito Naval · Oficial temporário (Fisioterapia)",
+   "st": "aberto",
+   "banca": "Marinha do Brasil",
+   "nivel": "Superior em Fisioterapia",
+   "vagas": "Fisioterapia: 1 Recife, 1 Natal, 1 Fortaleza",
+   "salario": "Conferir no aviso",
+   "insc": "18/09 a 10/11/2026 · R$ 150",
+   "prazo": "2026-11-10",
+   "prova": "2027-02-21",
+   "obs": "Serviço Militar Voluntário: vaga temporária, não é cargo efetivo. Tem prova objetiva, títulos, inspeção de saúde e TAF.",
+   "link_nome": "Notícia com os cargos (PCI)",
+   "link_url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-3-distrito-naval-abre-vagas-para-oficiais-temporarios",
+   "uf": "BR",
+   "perfis": {
+    "fis": "Fisioterapia (oficial temporário)"
+   },
+   "chave_pci": "3º Distrito Naval"
+  },
+  {
+   "nome": "EBSERH / HU Brasil · Fisioterapeuta",
+   "st": "iminente",
+   "banca": "FGV",
+   "nivel": "Superior em Fisioterapia + CREFITO",
+   "vagas": "Sai no edital (HUs da UFPB, UFCG, UFPE, UFRN entre os possíveis)",
+   "salario": "Sai no edital",
+   "insc": "Edital previsto para 2027",
+   "prazo": null,
+   "prova": null,
+   "obs": "Em 30/09/2026 a empresa confirmou a FGV como banca. Seleção prevista para 2027, no PLOA 2027. O concurso de dez/2024 vale até 16/06/2027.",
+   "link_nome": "Situação (Gran)",
+   "link_url": "https://blog.grancursosonline.com.br/concurso-ebserh/",
+   "uf": "BR",
+   "perfis": {
+    "fis": "Fisioterapeuta"
+   },
+   "previsao": "2027-06",
+   "previsao_txt": "Seleção prevista para 2027 (PLOA 2027)"
+  },
+  {
+   "nome": "SES PE · concurso efetivo da Saúde",
+   "st": "previsto",
+   "banca": "A definir",
+   "nivel": "Superior",
+   "vagas": "1.263 autorizadas (fisioterapeuta não confirmado)",
+   "salario": "—",
+   "insc": "Comissão formada em 25/08/2026",
+   "prazo": null,
+   "prova": null,
+   "obs": "Autorizado em julho/2026. A lista de cargos divulgada cita médicos, assistentes, analistas e fiscais. Conferir se fisioterapeuta entra quando sair o edital.",
+   "link_nome": "Situação (Nova Concursos)",
+   "link_url": "https://www.novaconcursos.com.br/portal/?p=313879",
+   "uf": "PE",
+   "perfis": {
+    "fis": "Fisioterapeuta (se constar)"
+   },
+   "previsao": "2027-03",
+   "previsao_txt": "Autorizado; banca ainda não contratada"
+  },
+  {
+   "nome": "Marinha CP-CSM · Quadro de Apoio à Saúde",
+   "st": "previsto",
+   "banca": "Marinha do Brasil",
+   "nivel": "Superior em Fisioterapia (efetivo, oficial de carreira)",
+   "vagas": "Varia por ano",
+   "salario": "≈ R$ 9,6 mil (edição 2026)",
+   "insc": "Edição 2026 encerrada; próxima costuma abrir em março",
+   "prazo": null,
+   "prova": null,
+   "obs": "Concurso anual. A edição 2026 teve prova em 24/05/2026. Tem TAF, redação e títulos. Lotação nacional.",
+   "link_nome": "Resumo do concurso",
+   "link_url": "https://concurseirozero1.com.br/blog/concurso-cp-csm-fisioterapia-vagas-prova-e-salarios/",
+   "uf": "BR",
+   "perfis": {
+    "fis": "Fisioterapia"
+   },
+   "estrutura": "Prova objetiva + redação + títulos; TAF e inspeção de saúde.",
+   "previsao": "2027-03",
+   "previsao_txt": "Concurso anual; inscrições costumam abrir em março"
+  },
+  {
+   "nome": "Bombeiros PE · Soldado e Oficial",
+   "uf": "PE",
+   "st": "aberto",
+   "banca": "Instituto AOCP",
+   "nivel": "Médio (Soldado) · Superior (Oficial)",
+   "vagas": "510 Soldado · 60 Oficial",
+   "salario": "R$ 5.617,92 (Soldado) · R$ 12.937,33 (Oficial)",
+   "insc": "5/10 a 5/11/2026 · R$ 180 / R$ 220",
+   "prazo": "2026-11-05",
+   "prova": "2027-02-28",
+   "perfis": {
+    "seg_med": "Soldado e Oficial Bombeiro"
+   },
+   "estrutura": "Prova objetiva + redação; depois TAF. Idade máxima de 30 anos, CNH B e altura mínima.",
+   "obs": "Mesma banca e mesmo período da PM PE: dá para estudar para os dois.",
+   "link_nome": "Edital publicado (Estratégia)",
+   "link_url": "https://www.estrategiaconcursos.com.br/blog/concurso-bombeiro-pe-edital-publicado-2026/"
+  },
+  {
+   "nome": "Prefeitura de João Pessoa · Saúde",
+   "uf": "PB",
+   "st": "previsto",
+   "banca": "A definir (2024: Idecan)",
+   "nivel": "Médio, técnico e superior",
+   "vagas": "Secretário pleiteia 2.000",
+   "salario": "—",
+   "insc": "Sem edital",
+   "prazo": null,
+   "prova": null,
+   "previsao": "2027-04",
+   "previsao_txt": "Edital prometido para 2026 e atrasou; banca em escolha",
+   "perfis": {
+    "fis": "Fisioterapeuta (se constar)",
+    "adm_med": "Cargos administrativos da Saúde"
+   },
+   "obs": "Maior concurso previsto em João Pessoa. Fisioterapeuta ainda não foi confirmado entre os cargos.",
+   "link_nome": "Situação (Estratégia)",
+   "link_url": "https://www.estrategiaconcursos.com.br/blog/concurso-joao-pessoa-saude/",
+   "cidade": "João Pessoa"
+  },
+  {
+   "nome": "TCE-PB · Auditor de Controle Externo",
+   "uf": "PB",
+   "st": "previsto",
+   "banca": "A definir",
+   "nivel": "Superior",
+   "vagas": "≈ 70 cargos vagos (2025)",
+   "salario": "—",
+   "insc": "Comissão formada; está na LDO",
+   "prazo": null,
+   "prova": null,
+   "previsao": "2027-06",
+   "previsao_txt": "Edital esperado só para 2027",
+   "perfis": {
+    "geral_sup": "Auditor de Controle Externo",
+    "ti_sup": "Auditor (área de TI, se houver)"
+   },
+   "obs": "Comissão formada desde jan/2025. Banca e vagas a definir.",
+   "link_nome": "Situação (Gran)",
+   "link_url": "https://blog.grancursosonline.com.br/concurso-tce-pb-ldo-2026/",
+   "cidade": "João Pessoa"
+  },
+  {
+   "nome": "Assembleia Legislativa da Paraíba (ALPB)",
+   "uf": "PB",
+   "st": "previsto",
+   "banca": "A definir",
+   "nivel": "Médio e superior",
+   "vagas": "—",
+   "salario": "—",
+   "insc": "Sem edital",
+   "prazo": null,
+   "prova": null,
+   "previsao": "2027-09",
+   "previsao_txt": "Até 2027, segundo site de concursos (fonte não oficial)",
+   "perfis": {
+    "adm_med": "Técnico Legislativo",
+    "geral_sup": "Analista Legislativo"
+   },
+   "obs": "Previsão fraca: só um site cita. Acompanhar o Diário do Poder Legislativo.",
+   "link_nome": "Panorama PB (Estratégia)",
+   "link_url": "https://www.estrategiaconcursos.com.br/blog/concursos-pb/",
+   "cidade": "João Pessoa"
+  },
+  {
+   "nome": "UFPB · Técnico-administrativos",
+   "uf": "PB",
+   "st": "previsto",
+   "banca": "A definir",
+   "nivel": "Médio e superior",
+   "vagas": "—",
+   "salario": "—",
+   "insc": "Concurso atual vale até 23/04/2027",
+   "prazo": null,
+   "prova": null,
+   "previsao": "2027-08",
+   "previsao_txt": "Novo edital tende a sair depois de abr/2027, quando vence o atual",
+   "perfis": {
+    "adm_med": "Assistente em Administração",
+    "ti_med": "Técnico de TI",
+    "fis": "Fisioterapeuta"
+   },
+   "obs": "Enquanto o concurso de 2024 valer, a UFPB chama aprovados dele. Costuma ter TI, fisioterapia e administrativo.",
+   "link_nome": "Validade prorrogada (UFPB)",
+   "link_url": "https://www.progep.ufpb.br/concurso/ufpb-prorroga-validade-de-concurso-publico-para-tecnico-administrativos-ate-abril-de-2027-edital-no-134-2024/",
+   "cidade": "João Pessoa"
+  },
+  {
+   "nome": "MPPE · Analista e Técnico Ministerial",
+   "uf": "PE",
+   "st": "previsto",
+   "banca": "A definir (2018: FCC)",
+   "nivel": "Médio (Técnico) · Superior (Analista)",
+   "vagas": "35 cargos aprovados pela Alepe",
+   "salario": "—",
+   "insc": "Comissão formada em 28/08/2026",
+   "prazo": null,
+   "prova": null,
+   "previsao": "2027-04",
+   "previsao_txt": "Sem data; comissão formada em ago/2026",
+   "perfis": {
+    "adm_med": "Técnico Ministerial",
+    "geral_sup": "Analista Ministerial",
+    "ti_sup": "Analista Ministerial (TI, se houver)"
+   },
+   "chave_pci": "MP de Pernambuco",
+   "obs": "Especialidades do Analista ainda não definidas.",
+   "link_nome": "Comissão formada (Nova Concursos)",
+   "link_url": "https://www.novaconcursos.com.br/portal/?p=314281"
+  }
+ ]
+}
