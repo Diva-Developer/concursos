@@ -1,8 +1,8 @@
 {
- "geradoEm": "2026-10-25T10:32",
+ "geradoEm": "2026-10-26T12:47",
  "curadoria": "2026-10-22",
- "varredura": "2026-10-25T10:32",
- "inicioPlano": "2026-10-26",
+ "varredura": "2026-10-26T12:47",
+ "inicioPlano": "2026-11-02",
  "grupos": [
   {
    "id": "agora",
@@ -94,14 +94,14 @@
       "Legislação do órgão (EBSERH, município)"
      ],
      "totalHoras": 226,
-     "horasSemana": 33.0,
-     "referencia": "até a prova em 13/dez/2026, começando em 26/out",
-     "alerta": "Para cobrir tudo seriam 33 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "horasSemana": 38.6,
+     "referencia": "até a prova em 13/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 38,6 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-10-31",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-06",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -122,8 +122,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-01",
-       "fim": "2026-11-07",
+       "inicio": "2026-11-07",
+       "fim": "2026-11-12",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -150,8 +150,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-08",
-       "fim": "2026-11-13",
+       "inicio": "2026-11-13",
+       "fim": "2026-11-17",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -167,8 +167,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-11-14",
-       "fim": "2026-11-21",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-24",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -185,8 +185,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-11-22",
-       "fim": "2026-11-29",
+       "inicio": "2026-11-25",
+       "fim": "2026-12-01",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -203,8 +203,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2026-11-30",
-       "fim": "2026-12-03",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-05",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -220,8 +220,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-04",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-06",
+       "fim": "2026-12-10",
        "horas": 28,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -243,7 +243,7 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-12",
        "horas": 13,
        "tarefas": [
@@ -318,14 +318,14 @@
       "Legislação do órgão (EBSERH, município)"
      ],
      "totalHoras": 226,
-     "horasSemana": 38.6,
-     "referencia": "até a prova em 06/dez/2026, começando em 26/out",
-     "alerta": "Para cobrir tudo seriam 38,6 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "horasSemana": 46.5,
+     "referencia": "até a prova em 06/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 46,5 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-10-30",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-06",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -346,8 +346,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-10-31",
-       "fim": "2026-11-05",
+       "inicio": "2026-11-07",
+       "fim": "2026-11-10",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -374,8 +374,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-06",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-11",
+       "fim": "2026-11-15",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -391,8 +391,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-17",
+       "inicio": "2026-11-16",
+       "fim": "2026-11-20",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -409,8 +409,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-11-18",
-       "fim": "2026-11-24",
+       "inicio": "2026-11-21",
+       "fim": "2026-11-26",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -427,8 +427,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2026-11-25",
-       "fim": "2026-11-28",
+       "inicio": "2026-11-27",
+       "fim": "2026-11-29",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -444,7 +444,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-11-29",
+       "inicio": "2026-11-30",
        "fim": "2026-12-03",
        "horas": 28,
        "tarefas": [
@@ -494,14 +494,14 @@
       "Conhecimentos gerais do município e do estado"
      ],
      "totalHoras": 153,
-     "horasSemana": 26.1,
-     "referencia": "até a prova em 06/dez/2026, começando em 26/out",
-     "alerta": "Para cobrir tudo seriam 26,1 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "horasSemana": 31.5,
+     "referencia": "até a prova em 06/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 31,5 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-03",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-09",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -522,8 +522,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-04",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-10",
+       "fim": "2026-11-14",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -539,8 +539,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-14",
+       "inicio": "2026-11-15",
+       "fim": "2026-11-18",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -556,8 +556,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-11-15",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-19",
+       "fim": "2026-11-22",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -574,8 +574,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2026-11-20",
-       "fim": "2026-11-25",
+       "inicio": "2026-11-23",
+       "fim": "2026-11-27",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -591,8 +591,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2026-11-26",
-       "fim": "2026-11-27",
+       "inicio": "2026-11-28",
+       "fim": "2026-11-29",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -602,7 +602,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-11-28",
+       "inicio": "2026-11-30",
        "fim": "2026-12-03",
        "horas": 19,
        "tarefas": [
@@ -651,14 +651,14 @@
       "Conhecimentos específicos do cargo (edital)"
      ],
      "totalHoras": 195,
-     "horasSemana": 33.3,
-     "referencia": "até a prova em 06/dez/2026, começando em 26/out",
-     "alerta": "Para cobrir tudo seriam 33,3 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "horasSemana": 40.1,
+     "referencia": "até a prova em 06/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 40,1 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-03",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-09",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -680,8 +680,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-04",
-       "fim": "2026-11-13",
+       "inicio": "2026-11-10",
+       "fim": "2026-11-17",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -702,8 +702,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-11-14",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-25",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -719,8 +719,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2026-11-24",
-       "fim": "2026-11-28",
+       "inicio": "2026-11-26",
+       "fim": "2026-11-29",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -736,7 +736,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-11-29",
+       "inicio": "2026-11-30",
        "fim": "2026-12-03",
        "horas": 24,
        "tarefas": [
@@ -833,14 +833,14 @@
       "IA e dados (editais recentes)"
      ],
      "totalHoras": 262,
-     "horasSemana": 14.7,
-     "referencia": "até a prova em 28/fev/2027, começando em 26/out",
+     "horasSemana": 15.5,
+     "referencia": "até a prova em 28/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-18",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-24",
        "horas": 50,
        "tarefas": [
         "Interpretação e gramática em contexto",
@@ -862,8 +862,8 @@
       },
       {
        "titulo": "Engenharia de software e programação",
-       "inicio": "2026-11-19",
-       "fim": "2026-12-14",
+       "inicio": "2026-11-25",
+       "fim": "2026-12-18",
        "horas": 55,
        "tarefas": [
         "Scrum, Kanban, UML e testes",
@@ -885,8 +885,8 @@
       },
       {
        "titulo": "Banco de dados e SQL",
-       "inicio": "2026-12-15",
-       "fim": "2026-12-28",
+       "inicio": "2026-12-19",
+       "fim": "2027-01-01",
        "horas": 30,
        "tarefas": [
         "Modelagem, normalização, transações",
@@ -907,8 +907,8 @@
       },
       {
        "titulo": "Redes, nuvem e DevOps",
-       "inicio": "2026-12-29",
-       "fim": "2027-01-12",
+       "inicio": "2027-01-02",
+       "fim": "2027-01-14",
        "horas": 30,
        "tarefas": [
         "TCP/IP, DNS, HTTP, VPN",
@@ -924,8 +924,8 @@
       },
       {
        "titulo": "Segurança da informação e LGPD",
-       "inicio": "2027-01-13",
-       "fim": "2027-01-28",
+       "inicio": "2027-01-15",
+       "fim": "2027-01-30",
        "horas": 35,
        "tarefas": [
         "ISO 27001/27002, criptografia, controle de acesso",
@@ -952,8 +952,8 @@
       },
       {
        "titulo": "Governança e legislação do órgão",
-       "inicio": "2027-01-29",
-       "fim": "2027-02-05",
+       "inicio": "2027-01-31",
+       "fim": "2027-02-06",
        "horas": 15,
        "tarefas": [
         "ITIL e COBIT no nível de conceito",
@@ -969,7 +969,7 @@
       },
       {
        "titulo": "Simulados no estilo FCC",
-       "inicio": "2027-02-06",
+       "inicio": "2027-02-07",
        "fim": "2027-02-20",
        "horas": 32,
        "tarefas": [
@@ -1019,14 +1019,14 @@
       "Conhecimentos gerais do município e do estado"
      ],
      "totalHoras": 153,
-     "horasSemana": 8.6,
-     "referencia": "até a prova em 28/fev/2027, começando em 26/out",
+     "horasSemana": 9.1,
+     "referencia": "até a prova em 28/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-28",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -1047,8 +1047,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-24",
-       "fim": "2026-12-13",
+       "inicio": "2026-11-29",
+       "fim": "2026-12-17",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -1064,8 +1064,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-14",
-       "fim": "2026-12-25",
+       "inicio": "2026-12-18",
+       "fim": "2026-12-29",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -1081,8 +1081,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-12-26",
-       "fim": "2027-01-11",
+       "inicio": "2026-12-30",
+       "fim": "2027-01-13",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -1099,8 +1099,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2027-01-12",
-       "fim": "2027-01-27",
+       "inicio": "2027-01-14",
+       "fim": "2027-01-29",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -1116,8 +1116,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2027-01-28",
-       "fim": "2027-02-04",
+       "inicio": "2027-01-30",
+       "fim": "2027-02-05",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -1127,7 +1127,7 @@
       },
       {
        "titulo": "Simulados no estilo FCC",
-       "inicio": "2027-02-05",
+       "inicio": "2027-02-06",
        "fim": "2027-02-20",
        "horas": 19,
        "tarefas": [
@@ -1226,13 +1226,13 @@
      ],
      "totalHoras": 189,
      "horasSemana": 23.6,
-     "referencia": "em 8 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 8 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-06",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-13",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -1254,8 +1254,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-07",
-       "fim": "2026-11-15",
+       "inicio": "2026-11-14",
+       "fim": "2026-11-22",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -1272,8 +1272,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-11-16",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-23",
+       "fim": "2026-11-26",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -1289,8 +1289,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-11-20",
-       "fim": "2026-11-30",
+       "inicio": "2026-11-27",
+       "fim": "2026-12-07",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -1312,8 +1312,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2026-12-01",
-       "fim": "2026-12-05",
+       "inicio": "2026-12-08",
+       "fim": "2026-12-12",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -1329,8 +1329,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-10",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-17",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -1340,8 +1340,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-11",
-       "fim": "2026-12-17",
+       "inicio": "2026-12-18",
+       "fim": "2026-12-24",
        "horas": 23,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -1363,8 +1363,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2026-12-18",
-       "fim": "2026-12-20",
+       "inicio": "2026-12-25",
+       "fim": "2026-12-27",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -1393,13 +1393,13 @@
      ],
      "totalHoras": 226,
      "horasSemana": 28.2,
-     "referencia": "em 8 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 8 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": "Para cobrir tudo seriam 28,2 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-01",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-08",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -1420,8 +1420,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-02",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-09",
+       "fim": "2026-11-16",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -1448,8 +1448,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-17",
+       "fim": "2026-11-23",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -1465,8 +1465,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-11-17",
-       "fim": "2026-11-25",
+       "inicio": "2026-11-24",
+       "fim": "2026-12-02",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -1483,8 +1483,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-11-26",
-       "fim": "2026-12-05",
+       "inicio": "2026-12-03",
+       "fim": "2026-12-12",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -1501,8 +1501,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-10",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-17",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -1518,8 +1518,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-11",
-       "fim": "2026-12-17",
+       "inicio": "2026-12-18",
+       "fim": "2026-12-24",
        "horas": 28,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -1541,8 +1541,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2026-12-18",
-       "fim": "2026-12-20",
+       "inicio": "2026-12-25",
+       "fim": "2026-12-27",
        "horas": 13,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -1569,13 +1569,13 @@
      ],
      "totalHoras": 153,
      "horasSemana": 19.1,
-     "referencia": "em 8 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 8 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-07",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-14",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -1596,8 +1596,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-08",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-15",
+       "fim": "2026-11-23",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -1613,8 +1613,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-11-17",
-       "fim": "2026-11-21",
+       "inicio": "2026-11-24",
+       "fim": "2026-11-28",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -1630,8 +1630,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-11-22",
-       "fim": "2026-11-29",
+       "inicio": "2026-11-29",
+       "fim": "2026-12-06",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -1648,8 +1648,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2026-11-30",
-       "fim": "2026-12-06",
+       "inicio": "2026-12-07",
+       "fim": "2026-12-13",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -1665,8 +1665,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2026-12-07",
-       "fim": "2026-12-10",
+       "inicio": "2026-12-14",
+       "fim": "2026-12-17",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -1676,8 +1676,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-11",
-       "fim": "2026-12-17",
+       "inicio": "2026-12-18",
+       "fim": "2026-12-24",
        "horas": 19,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -1699,8 +1699,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2026-12-18",
-       "fim": "2026-12-20",
+       "inicio": "2026-12-25",
+       "fim": "2026-12-27",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -1774,14 +1774,14 @@
       "IA e dados (editais recentes)"
      ],
      "totalHoras": 262,
-     "horasSemana": 20.4,
-     "referencia": "até a prova em 24/jan/2027, começando em 26/out",
+     "horasSemana": 22.1,
+     "referencia": "até a prova em 24/jan/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-11",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-17",
        "horas": 50,
        "tarefas": [
         "Interpretação e gramática em contexto",
@@ -1803,8 +1803,8 @@
       },
       {
        "titulo": "Engenharia de software e programação",
-       "inicio": "2026-11-12",
-       "fim": "2026-11-30",
+       "inicio": "2026-11-18",
+       "fim": "2026-12-04",
        "horas": 55,
        "tarefas": [
         "Scrum, Kanban, UML e testes",
@@ -1826,8 +1826,8 @@
       },
       {
        "titulo": "Banco de dados e SQL",
-       "inicio": "2026-12-01",
-       "fim": "2026-12-10",
+       "inicio": "2026-12-05",
+       "fim": "2026-12-14",
        "horas": 30,
        "tarefas": [
         "Modelagem, normalização, transações",
@@ -1848,8 +1848,8 @@
       },
       {
        "titulo": "Redes, nuvem e DevOps",
-       "inicio": "2026-12-11",
-       "fim": "2026-12-21",
+       "inicio": "2026-12-15",
+       "fim": "2026-12-23",
        "horas": 30,
        "tarefas": [
         "TCP/IP, DNS, HTTP, VPN",
@@ -1865,8 +1865,8 @@
       },
       {
        "titulo": "Segurança da informação e LGPD",
-       "inicio": "2026-12-22",
-       "fim": "2027-01-02",
+       "inicio": "2026-12-24",
+       "fim": "2027-01-03",
        "horas": 35,
        "tarefas": [
         "ISO 27001/27002, criptografia, controle de acesso",
@@ -1893,8 +1893,8 @@
       },
       {
        "titulo": "Governança e legislação do órgão",
-       "inicio": "2027-01-03",
-       "fim": "2027-01-07",
+       "inicio": "2027-01-04",
+       "fim": "2027-01-08",
        "horas": 15,
        "tarefas": [
         "ITIL e COBIT no nível de conceito",
@@ -1910,7 +1910,7 @@
       },
       {
        "titulo": "Simulados no estilo FGV",
-       "inicio": "2027-01-08",
+       "inicio": "2027-01-09",
        "fim": "2027-01-18",
        "horas": 32,
        "tarefas": [
@@ -1960,14 +1960,14 @@
       "Conhecimentos específicos do cargo (edital)"
      ],
      "totalHoras": 195,
-     "horasSemana": 15.2,
-     "referencia": "até a prova em 24/jan/2027, começando em 26/out",
+     "horasSemana": 16.4,
+     "referencia": "até a prova em 24/jan/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-15",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-20",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -1989,8 +1989,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-16",
-       "fim": "2026-12-06",
+       "inicio": "2026-11-21",
+       "fim": "2026-12-09",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -2011,8 +2011,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-12-07",
-       "fim": "2026-12-29",
+       "inicio": "2026-12-10",
+       "fim": "2026-12-31",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -2028,8 +2028,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2026-12-30",
-       "fim": "2027-01-07",
+       "inicio": "2027-01-01",
+       "fim": "2027-01-08",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -2045,7 +2045,7 @@
       },
       {
        "titulo": "Simulados no estilo FGV",
-       "inicio": "2027-01-08",
+       "inicio": "2027-01-09",
        "fim": "2027-01-18",
        "horas": 24,
        "tarefas": [
@@ -2147,14 +2147,14 @@
       "TAF"
      ],
      "totalHoras": 189,
-     "horasSemana": 24.1,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
-     "alerta": null,
+     "horasSemana": 27.6,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 27,6 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-06",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-11",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -2176,8 +2176,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-07",
-       "fim": "2026-11-14",
+       "inicio": "2026-11-12",
+       "fim": "2026-11-19",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -2194,8 +2194,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-11-15",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-20",
+       "fim": "2026-11-23",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -2211,8 +2211,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-11-20",
-       "fim": "2026-11-29",
+       "inicio": "2026-11-24",
+       "fim": "2026-12-01",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -2234,8 +2234,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2026-11-30",
-       "fim": "2026-12-05",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-07",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -2251,8 +2251,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-08",
+       "fim": "2026-12-10",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -2262,7 +2262,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 23,
        "tarefas": [
@@ -2314,14 +2314,14 @@
       "IA e dados (editais recentes)"
      ],
      "totalHoras": 262,
-     "horasSemana": 33.3,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
-     "alerta": "Para cobrir tudo seriam 33,3 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "horasSemana": 38.2,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 38,2 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-04",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-10",
        "horas": 50,
        "tarefas": [
         "Interpretação e gramática em contexto",
@@ -2343,8 +2343,8 @@
       },
       {
        "titulo": "Engenharia de software e programação",
-       "inicio": "2026-11-05",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-11",
+       "fim": "2026-11-20",
        "horas": 55,
        "tarefas": [
         "Scrum, Kanban, UML e testes",
@@ -2366,8 +2366,8 @@
       },
       {
        "titulo": "Banco de dados e SQL",
-       "inicio": "2026-11-17",
-       "fim": "2026-11-22",
+       "inicio": "2026-11-21",
+       "fim": "2026-11-26",
        "horas": 30,
        "tarefas": [
         "Modelagem, normalização, transações",
@@ -2388,8 +2388,8 @@
       },
       {
        "titulo": "Redes, nuvem e DevOps",
-       "inicio": "2026-11-23",
-       "fim": "2026-11-29",
+       "inicio": "2026-11-27",
+       "fim": "2026-12-01",
        "horas": 30,
        "tarefas": [
         "TCP/IP, DNS, HTTP, VPN",
@@ -2405,8 +2405,8 @@
       },
       {
        "titulo": "Segurança da informação e LGPD",
-       "inicio": "2026-11-30",
-       "fim": "2026-12-06",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-08",
        "horas": 35,
        "tarefas": [
         "ISO 27001/27002, criptografia, controle de acesso",
@@ -2433,8 +2433,8 @@
       },
       {
        "titulo": "Governança e legislação do órgão",
-       "inicio": "2026-12-07",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-09",
+       "fim": "2026-12-10",
        "horas": 15,
        "tarefas": [
         "ITIL e COBIT no nível de conceito",
@@ -2450,7 +2450,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 32,
        "tarefas": [
@@ -2502,14 +2502,14 @@
       "Legislação do órgão (EBSERH, município)"
      ],
      "totalHoras": 226,
-     "horasSemana": 28.8,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
-     "alerta": "Para cobrir tudo seriam 28,8 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "horasSemana": 33.0,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 33 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-01",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-07",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -2530,8 +2530,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-02",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-08",
+       "fim": "2026-11-14",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -2558,8 +2558,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-15",
+       "fim": "2026-11-20",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -2575,8 +2575,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-11-17",
-       "fim": "2026-11-24",
+       "inicio": "2026-11-21",
+       "fim": "2026-11-28",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -2593,8 +2593,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-11-25",
-       "fim": "2026-12-04",
+       "inicio": "2026-11-29",
+       "fim": "2026-12-06",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -2611,8 +2611,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2026-12-05",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-07",
+       "fim": "2026-12-10",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -2628,7 +2628,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 28,
        "tarefas": [
@@ -2678,14 +2678,14 @@
       "Conhecimentos gerais do município e do estado"
      ],
      "totalHoras": 153,
-     "horasSemana": 19.5,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
+     "horasSemana": 22.3,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-07",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-12",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -2706,8 +2706,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-08",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-13",
+       "fim": "2026-11-20",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -2723,8 +2723,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-11-17",
-       "fim": "2026-11-21",
+       "inicio": "2026-11-21",
+       "fim": "2026-11-25",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -2740,8 +2740,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-11-22",
-       "fim": "2026-11-28",
+       "inicio": "2026-11-26",
+       "fim": "2026-12-01",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -2758,8 +2758,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2026-11-29",
-       "fim": "2026-12-05",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-07",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -2775,8 +2775,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-08",
+       "fim": "2026-12-10",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -2786,7 +2786,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 19,
        "tarefas": [
@@ -2835,14 +2835,14 @@
       "Conhecimentos específicos do cargo (edital)"
      ],
      "totalHoras": 195,
-     "horasSemana": 24.8,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
-     "alerta": null,
+     "horasSemana": 28.4,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 28,4 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-07",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-12",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -2864,8 +2864,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-08",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-13",
+       "fim": "2026-11-23",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -2886,8 +2886,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-11-20",
-       "fim": "2026-12-03",
+       "inicio": "2026-11-24",
+       "fim": "2026-12-05",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -2903,8 +2903,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2026-12-04",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-06",
+       "fim": "2026-12-10",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -2920,7 +2920,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 24,
        "tarefas": [
@@ -3016,14 +3016,14 @@
       "TAF"
      ],
      "totalHoras": 189,
-     "horasSemana": 11.9,
-     "referencia": "até a prova em 14/fev/2027, começando em 26/out",
+     "horasSemana": 12.7,
+     "referencia": "até a prova em 14/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-17",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-23",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -3045,8 +3045,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-18",
-       "fim": "2026-12-05",
+       "inicio": "2026-11-24",
+       "fim": "2026-12-10",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -3063,8 +3063,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-14",
+       "inicio": "2026-12-11",
+       "fim": "2026-12-18",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -3080,8 +3080,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-12-15",
-       "fim": "2027-01-03",
+       "inicio": "2026-12-19",
+       "fim": "2027-01-06",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -3103,8 +3103,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2027-01-04",
-       "fim": "2027-01-15",
+       "inicio": "2027-01-07",
+       "fim": "2027-01-17",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -3120,8 +3120,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-16",
-       "fim": "2027-01-24",
+       "inicio": "2027-01-18",
+       "fim": "2027-01-25",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -3131,7 +3131,7 @@
       },
       {
        "titulo": "Simulados no estilo CPCon/UEPB",
-       "inicio": "2027-01-25",
+       "inicio": "2027-01-26",
        "fim": "2027-02-07",
        "horas": 23,
        "tarefas": [
@@ -3181,14 +3181,14 @@
       "Conhecimentos gerais do município e do estado"
      ],
      "totalHoras": 153,
-     "horasSemana": 9.6,
-     "referencia": "até a prova em 14/fev/2027, começando em 26/out",
+     "horasSemana": 10.3,
+     "referencia": "até a prova em 14/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-25",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -3209,8 +3209,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-20",
-       "fim": "2026-12-08",
+       "inicio": "2026-11-26",
+       "fim": "2026-12-12",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -3226,8 +3226,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-18",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-22",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -3243,8 +3243,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-12-19",
-       "fim": "2027-01-02",
+       "inicio": "2026-12-23",
+       "fim": "2027-01-05",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -3261,8 +3261,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2027-01-03",
-       "fim": "2027-01-16",
+       "inicio": "2027-01-06",
+       "fim": "2027-01-18",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -3278,8 +3278,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2027-01-17",
-       "fim": "2027-01-24",
+       "inicio": "2027-01-19",
+       "fim": "2027-01-25",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -3289,8 +3289,8 @@
       },
       {
        "titulo": "Simulados no estilo CPCon/UEPB",
-       "inicio": "2027-01-25",
-       "fim": "2027-02-06",
+       "inicio": "2027-01-26",
+       "fim": "2027-02-07",
        "horas": 19,
        "tarefas": [
         "Fazer 2 provas anteriores da CPCon/UEPB para cargo parecido, cronometradas",
@@ -3312,7 +3312,7 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-07",
+       "inicio": "2027-02-08",
        "fim": "2027-02-13",
        "horas": 9,
        "tarefas": [
@@ -3382,14 +3382,14 @@
       "Conhecimentos gerais do município e do estado"
      ],
      "totalHoras": 153,
-     "horasSemana": 11.0,
-     "referencia": "até a prova em 31/jan/2027, começando em 26/out",
+     "horasSemana": 11.9,
+     "referencia": "até a prova em 31/jan/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-22",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -3410,8 +3410,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-17",
-       "fim": "2026-12-02",
+       "inicio": "2026-11-23",
+       "fim": "2026-12-06",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -3427,8 +3427,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-03",
-       "fim": "2026-12-12",
+       "inicio": "2026-12-07",
+       "fim": "2026-12-15",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -3444,8 +3444,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-12-13",
-       "fim": "2026-12-24",
+       "inicio": "2026-12-16",
+       "fim": "2026-12-27",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -3462,8 +3462,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2026-12-25",
-       "fim": "2027-01-06",
+       "inicio": "2026-12-28",
+       "fim": "2027-01-08",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -3479,8 +3479,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2027-01-07",
-       "fim": "2027-01-12",
+       "inicio": "2027-01-09",
+       "fim": "2027-01-14",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -3490,8 +3490,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-13",
-       "fim": "2027-01-24",
+       "inicio": "2027-01-15",
+       "fim": "2027-01-25",
        "horas": 19,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -3513,7 +3513,7 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-01-25",
+       "inicio": "2027-01-26",
        "fim": "2027-01-30",
        "horas": 9,
        "tarefas": [
@@ -3587,14 +3587,14 @@
       "Noções de programação e banco de dados"
      ],
      "totalHoras": 159,
-     "horasSemana": 10.0,
-     "referencia": "até a prova em 14/fev/2027, começando em 26/out",
+     "horasSemana": 10.7,
+     "referencia": "até a prova em 14/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e matemática",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-22",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 40,
        "tarefas": [
         "Interpretação e gramática",
@@ -3616,8 +3616,8 @@
       },
       {
        "titulo": "Hardware, Windows e Linux",
-       "inicio": "2026-11-23",
-       "fim": "2026-12-13",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-17",
        "horas": 30,
        "tarefas": [
         "Componentes, montagem e manutenção",
@@ -3633,8 +3633,8 @@
       },
       {
        "titulo": "Redes e segurança",
-       "inicio": "2026-12-14",
-       "fim": "2026-12-30",
+       "inicio": "2026-12-18",
+       "fim": "2027-01-02",
        "horas": 25,
        "tarefas": [
         "Modelo TCP/IP, cabeamento, Wi-Fi, IP",
@@ -3650,8 +3650,8 @@
       },
       {
        "titulo": "Office, suporte e noções de programação",
-       "inicio": "2026-12-31",
-       "fim": "2027-01-17",
+       "inicio": "2027-01-03",
+       "fim": "2027-01-18",
        "horas": 25,
        "tarefas": [
         "Planilhas e editores",
@@ -3668,8 +3668,8 @@
       },
       {
        "titulo": "Legislação local",
-       "inicio": "2027-01-18",
-       "fim": "2027-01-24",
+       "inicio": "2027-01-19",
+       "fim": "2027-01-25",
        "horas": 10,
        "tarefas": [
         "Estatuto do servidor e lei orgânica do município"
@@ -3678,7 +3678,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-25",
+       "inicio": "2027-01-26",
        "fim": "2027-02-07",
        "horas": 20,
        "tarefas": [
@@ -3730,14 +3730,14 @@
       "Legislação do órgão (EBSERH, município)"
      ],
      "totalHoras": 226,
-     "horasSemana": 14.3,
-     "referencia": "até a prova em 14/fev/2027, começando em 26/out",
+     "horasSemana": 15.2,
+     "referencia": "até a prova em 14/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-15",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -3758,8 +3758,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-16",
+       "fim": "2026-11-29",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -3786,8 +3786,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-24",
-       "fim": "2026-12-08",
+       "inicio": "2026-11-30",
+       "fim": "2026-12-12",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -3803,8 +3803,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-25",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-29",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -3821,8 +3821,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-12-26",
-       "fim": "2027-01-14",
+       "inicio": "2026-12-30",
+       "fim": "2027-01-16",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -3839,8 +3839,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2027-01-15",
-       "fim": "2027-01-24",
+       "inicio": "2027-01-17",
+       "fim": "2027-01-25",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -3856,7 +3856,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-25",
+       "inicio": "2027-01-26",
        "fim": "2027-02-07",
        "horas": 28,
        "tarefas": [
@@ -3906,14 +3906,14 @@
       "Conhecimentos gerais do município e do estado"
      ],
      "totalHoras": 153,
-     "horasSemana": 9.6,
-     "referencia": "até a prova em 14/fev/2027, começando em 26/out",
+     "horasSemana": 10.3,
+     "referencia": "até a prova em 14/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-25",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -3934,8 +3934,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-20",
-       "fim": "2026-12-08",
+       "inicio": "2026-11-26",
+       "fim": "2026-12-12",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -3951,8 +3951,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-18",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-22",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -3968,8 +3968,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-12-19",
-       "fim": "2027-01-02",
+       "inicio": "2026-12-23",
+       "fim": "2027-01-05",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -3986,8 +3986,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2027-01-03",
-       "fim": "2027-01-16",
+       "inicio": "2027-01-06",
+       "fim": "2027-01-18",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -4003,8 +4003,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2027-01-17",
-       "fim": "2027-01-24",
+       "inicio": "2027-01-19",
+       "fim": "2027-01-25",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -4014,8 +4014,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-25",
-       "fim": "2027-02-06",
+       "inicio": "2027-01-26",
+       "fim": "2027-02-07",
        "horas": 19,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -4037,7 +4037,7 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-07",
+       "inicio": "2027-02-08",
        "fim": "2027-02-13",
        "horas": 9,
        "tarefas": [
@@ -4107,14 +4107,14 @@
       "Conhecimentos gerais do município e do estado"
      ],
      "totalHoras": 153,
-     "horasSemana": 19.1,
-     "referencia": "até a prova em 21/dez/2026, começando em 26/out",
+     "horasSemana": 21.9,
+     "referencia": "até a prova em 21/dez/2026, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-07",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-12",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -4135,8 +4135,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-08",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-13",
+       "fim": "2026-11-20",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -4152,8 +4152,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-11-17",
-       "fim": "2026-11-21",
+       "inicio": "2026-11-21",
+       "fim": "2026-11-25",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -4169,8 +4169,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-11-22",
-       "fim": "2026-11-29",
+       "inicio": "2026-11-26",
+       "fim": "2026-12-01",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -4187,8 +4187,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2026-11-30",
-       "fim": "2026-12-06",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-08",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -4204,8 +4204,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2026-12-07",
-       "fim": "2026-12-10",
+       "inicio": "2026-12-09",
+       "fim": "2026-12-11",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -4215,7 +4215,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-11",
+       "inicio": "2026-12-12",
        "fim": "2026-12-17",
        "horas": 19,
        "tarefas": [
@@ -4307,14 +4307,14 @@
       "Conhecimentos específicos do cargo (edital)"
      ],
      "totalHoras": 195,
-     "horasSemana": 40.1,
-     "referencia": "até a prova em 29/nov/2026, começando em 26/out",
-     "alerta": "Para cobrir tudo seriam 40,1 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "horasSemana": 50.6,
+     "referencia": "até a prova em 29/nov/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 50,6 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-02",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-07",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -4336,8 +4336,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-03",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-08",
+       "fim": "2026-11-13",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -4358,8 +4358,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-18",
+       "inicio": "2026-11-14",
+       "fim": "2026-11-20",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -4375,8 +4375,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2026-11-19",
-       "fim": "2026-11-22",
+       "inicio": "2026-11-21",
+       "fim": "2026-11-23",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -4392,7 +4392,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-11-23",
+       "inicio": "2026-11-24",
        "fim": "2026-11-26",
        "horas": 24,
        "tarefas": [
@@ -4486,14 +4486,14 @@
       "TAF"
      ],
      "totalHoras": 189,
-     "horasSemana": 10.6,
-     "referencia": "até a prova em 28/fev/2027, começando em 26/out",
+     "horasSemana": 11.2,
+     "referencia": "até a prova em 28/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-26",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -4515,8 +4515,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-10",
+       "inicio": "2026-11-27",
+       "fim": "2026-12-15",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -4533,8 +4533,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-11",
-       "fim": "2026-12-20",
+       "inicio": "2026-12-16",
+       "fim": "2026-12-24",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -4550,8 +4550,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-12-21",
-       "fim": "2027-01-12",
+       "inicio": "2026-12-25",
+       "fim": "2027-01-15",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -4573,8 +4573,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2027-01-13",
-       "fim": "2027-01-26",
+       "inicio": "2027-01-16",
+       "fim": "2027-01-27",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -4590,8 +4590,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-27",
-       "fim": "2027-02-05",
+       "inicio": "2027-01-28",
+       "fim": "2027-02-06",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -4601,7 +4601,7 @@
       },
       {
        "titulo": "Simulados no estilo Instituto AOCP",
-       "inicio": "2027-02-06",
+       "inicio": "2027-02-07",
        "fim": "2027-02-20",
        "horas": 23,
        "tarefas": [
@@ -4696,14 +4696,14 @@
       "TAF"
      ],
      "totalHoras": 189,
-     "horasSemana": 11.2,
-     "referencia": "até a prova em 21/fev/2027, começando em 26/out",
+     "horasSemana": 11.9,
+     "referencia": "até a prova em 21/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-24",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -4725,8 +4725,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-20",
-       "fim": "2026-12-08",
+       "inicio": "2026-11-25",
+       "fim": "2026-12-12",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -4743,8 +4743,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-17",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-21",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -4760,8 +4760,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-12-18",
-       "fim": "2027-01-08",
+       "inicio": "2026-12-22",
+       "fim": "2027-01-10",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -4783,8 +4783,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2027-01-09",
-       "fim": "2027-01-20",
+       "inicio": "2027-01-11",
+       "fim": "2027-01-22",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -4800,8 +4800,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-21",
-       "fim": "2027-01-30",
+       "inicio": "2027-01-23",
+       "fim": "2027-01-31",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -4811,8 +4811,8 @@
       },
       {
        "titulo": "Simulados no estilo Instituto AOCP",
-       "inicio": "2027-01-31",
-       "fim": "2027-02-13",
+       "inicio": "2027-02-01",
+       "fim": "2027-02-14",
        "horas": 23,
        "tarefas": [
         "Montar o simulado no formato do edital: Prova objetiva + redação; depois TAF, exames de saúde e investigação social.",
@@ -4835,7 +4835,7 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-14",
+       "inicio": "2027-02-15",
        "fim": "2027-02-20",
        "horas": 11,
        "tarefas": [
@@ -4907,14 +4907,14 @@
       "Legislação do órgão (EBSERH, município)"
      ],
      "totalHoras": 226,
-     "horasSemana": 13.4,
-     "referencia": "até a prova em 21/fev/2027, começando em 26/out",
+     "horasSemana": 14.3,
+     "referencia": "até a prova em 21/fev/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-16",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -4935,8 +4935,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-25",
+       "inicio": "2026-11-17",
+       "fim": "2026-11-30",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -4963,8 +4963,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-26",
-       "fim": "2026-12-11",
+       "inicio": "2026-12-01",
+       "fim": "2026-12-15",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -4980,8 +4980,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-12-12",
-       "fim": "2026-12-29",
+       "inicio": "2026-12-16",
+       "fim": "2027-01-01",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -4998,8 +4998,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-12-30",
-       "fim": "2027-01-19",
+       "inicio": "2027-01-02",
+       "fim": "2027-01-21",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -5016,8 +5016,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2027-01-20",
-       "fim": "2027-01-30",
+       "inicio": "2027-01-22",
+       "fim": "2027-01-31",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -5033,8 +5033,8 @@
       },
       {
        "titulo": "Simulados no estilo Marinha do Brasil",
-       "inicio": "2027-01-31",
-       "fim": "2027-02-13",
+       "inicio": "2027-02-01",
+       "fim": "2027-02-14",
        "horas": 28,
        "tarefas": [
         "Fazer 2 provas anteriores da Marinha do Brasil para cargo parecido, cronometradas",
@@ -5056,7 +5056,7 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-14",
+       "inicio": "2027-02-15",
        "fim": "2027-02-20",
        "horas": 13,
        "tarefas": [
@@ -5127,13 +5127,13 @@
      ],
      "totalHoras": 159,
      "horasSemana": 19.9,
-     "referencia": "em 8 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 8 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e matemática",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-08",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-15",
        "horas": 40,
        "tarefas": [
         "Interpretação e gramática",
@@ -5155,8 +5155,8 @@
       },
       {
        "titulo": "Hardware, Windows e Linux",
-       "inicio": "2026-11-09",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-16",
+       "fim": "2026-11-26",
        "horas": 30,
        "tarefas": [
         "Componentes, montagem e manutenção",
@@ -5172,8 +5172,8 @@
       },
       {
        "titulo": "Redes e segurança",
-       "inicio": "2026-11-20",
-       "fim": "2026-11-27",
+       "inicio": "2026-11-27",
+       "fim": "2026-12-04",
        "horas": 25,
        "tarefas": [
         "Modelo TCP/IP, cabeamento, Wi-Fi, IP",
@@ -5189,8 +5189,8 @@
       },
       {
        "titulo": "Office, suporte e noções de programação",
-       "inicio": "2026-11-28",
-       "fim": "2026-12-06",
+       "inicio": "2026-12-05",
+       "fim": "2026-12-13",
        "horas": 25,
        "tarefas": [
         "Planilhas e editores",
@@ -5207,8 +5207,8 @@
       },
       {
        "titulo": "Legislação local",
-       "inicio": "2026-12-07",
-       "fim": "2026-12-10",
+       "inicio": "2026-12-14",
+       "fim": "2026-12-17",
        "horas": 10,
        "tarefas": [
         "Estatuto do servidor e lei orgânica do município"
@@ -5217,8 +5217,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-11",
-       "fim": "2026-12-17",
+       "inicio": "2026-12-18",
+       "fim": "2026-12-24",
        "horas": 20,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -5240,8 +5240,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2026-12-18",
-       "fim": "2026-12-20",
+       "inicio": "2026-12-25",
+       "fim": "2026-12-27",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -5316,14 +5316,14 @@
       "TAF"
      ],
      "totalHoras": 189,
-     "horasSemana": 24.1,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
-     "alerta": null,
+     "horasSemana": 27.6,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 27,6 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-06",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-11",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -5345,8 +5345,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-07",
-       "fim": "2026-11-14",
+       "inicio": "2026-11-12",
+       "fim": "2026-11-19",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -5363,8 +5363,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-11-15",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-20",
+       "fim": "2026-11-23",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -5380,8 +5380,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-11-20",
-       "fim": "2026-11-29",
+       "inicio": "2026-11-24",
+       "fim": "2026-12-01",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -5403,8 +5403,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2026-11-30",
-       "fim": "2026-12-05",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-07",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -5420,8 +5420,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-08",
+       "fim": "2026-12-10",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -5431,7 +5431,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 23,
        "tarefas": [
@@ -5483,14 +5483,14 @@
       "Legislação do órgão (EBSERH, município)"
      ],
      "totalHoras": 226,
-     "horasSemana": 28.8,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
-     "alerta": "Para cobrir tudo seriam 28,8 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "horasSemana": 33.0,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 33 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-01",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-07",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -5511,8 +5511,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-02",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-08",
+       "fim": "2026-11-14",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -5539,8 +5539,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-15",
+       "fim": "2026-11-20",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -5556,8 +5556,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-11-17",
-       "fim": "2026-11-24",
+       "inicio": "2026-11-21",
+       "fim": "2026-11-28",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -5574,8 +5574,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-11-25",
-       "fim": "2026-12-04",
+       "inicio": "2026-11-29",
+       "fim": "2026-12-06",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -5592,8 +5592,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2026-12-05",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-07",
+       "fim": "2026-12-10",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -5609,7 +5609,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 28,
        "tarefas": [
@@ -5659,14 +5659,14 @@
       "Conhecimentos gerais do município e do estado"
      ],
      "totalHoras": 153,
-     "horasSemana": 19.5,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
+     "horasSemana": 22.3,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-07",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-12",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -5687,8 +5687,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-08",
-       "fim": "2026-11-16",
+       "inicio": "2026-11-13",
+       "fim": "2026-11-20",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -5704,8 +5704,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-11-17",
-       "fim": "2026-11-21",
+       "inicio": "2026-11-21",
+       "fim": "2026-11-25",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -5721,8 +5721,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-11-22",
-       "fim": "2026-11-28",
+       "inicio": "2026-11-26",
+       "fim": "2026-12-01",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -5739,8 +5739,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2026-11-29",
-       "fim": "2026-12-05",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-07",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -5756,8 +5756,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-08",
+       "fim": "2026-12-10",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -5767,7 +5767,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 19,
        "tarefas": [
@@ -5816,14 +5816,14 @@
       "Conhecimentos específicos do cargo (edital)"
      ],
      "totalHoras": 195,
-     "horasSemana": 24.8,
-     "referencia": "até a prova em 20/dez/2026, começando em 26/out",
-     "alerta": null,
+     "horasSemana": 28.4,
+     "referencia": "até a prova em 20/dez/2026, começando em 02/nov",
+     "alerta": "Para cobrir tudo seriam 28,4 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-07",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-12",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -5845,8 +5845,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-08",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-13",
+       "fim": "2026-11-23",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -5867,8 +5867,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-11-20",
-       "fim": "2026-12-03",
+       "inicio": "2026-11-24",
+       "fim": "2026-12-05",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -5884,8 +5884,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2026-12-04",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-06",
+       "fim": "2026-12-10",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -5901,7 +5901,7 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-10",
+       "inicio": "2026-12-11",
        "fim": "2026-12-16",
        "horas": 24,
        "tarefas": [
@@ -5999,14 +5999,14 @@
       "TAF"
      ],
      "totalHoras": 311,
-     "horasSemana": 16.5,
-     "referencia": "até a prova em 07/mar/2027, começando em 26/out",
+     "horasSemana": 17.4,
+     "referencia": "até a prova em 07/mar/2027, começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e interpretação",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-13",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-19",
        "horas": 45,
        "tarefas": [
         "Interpretação e reescrita de frases",
@@ -6028,8 +6028,8 @@
       },
       {
        "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-11-14",
-       "fim": "2026-11-28",
+       "inicio": "2026-11-20",
+       "fim": "2026-12-03",
        "horas": 35,
        "tarefas": [
         "Segurança, redes, nuvem e Office",
@@ -6051,8 +6051,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-29",
-       "fim": "2026-12-21",
+       "inicio": "2026-12-04",
+       "fim": "2026-12-25",
        "horas": 55,
        "tarefas": [
         "Art. 5º e art. 144 na lei seca",
@@ -6074,8 +6074,8 @@
       },
       {
        "titulo": "Penal e Processo Penal",
-       "inicio": "2026-12-22",
-       "fim": "2027-01-18",
+       "inicio": "2026-12-26",
+       "fim": "2027-01-20",
        "horas": 65,
        "tarefas": [
         "Teoria do crime e crimes em espécie",
@@ -6102,8 +6102,8 @@
       },
       {
        "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-19",
-       "fim": "2027-02-04",
+       "inicio": "2027-01-21",
+       "fim": "2027-02-05",
        "horas": 40,
        "tarefas": [
         "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
@@ -6120,8 +6120,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-02-05",
-       "fim": "2027-02-10",
+       "inicio": "2027-02-06",
+       "fim": "2027-02-11",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 8 semanas",
@@ -6131,8 +6131,8 @@
       },
       {
        "titulo": "Simulados no estilo Cebraspe",
-       "inicio": "2027-02-11",
-       "fim": "2027-02-26",
+       "inicio": "2027-02-12",
+       "fim": "2027-02-27",
        "horas": 38,
        "tarefas": [
         "Montar o simulado no formato do edital: Prova objetiva Cebraspe (certo ou errado) + redação de até 30 linhas sobre segurança pública; depois TAF e demais etapas.",
@@ -6155,7 +6155,7 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-27",
+       "inicio": "2027-02-28",
        "fim": "2027-03-06",
        "horas": 18,
        "tarefas": [
@@ -6231,13 +6231,13 @@
      ],
      "totalHoras": 311,
      "horasSemana": 19.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e interpretação",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-17",
        "horas": 45,
        "tarefas": [
         "Interpretação e reescrita de frases",
@@ -6259,8 +6259,8 @@
       },
       {
        "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-30",
        "horas": 35,
        "tarefas": [
         "Segurança, redes, nuvem e Office",
@@ -6282,8 +6282,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-24",
-       "fim": "2026-12-13",
+       "inicio": "2026-12-01",
+       "fim": "2026-12-20",
        "horas": 55,
        "tarefas": [
         "Art. 5º e art. 144 na lei seca",
@@ -6305,8 +6305,8 @@
       },
       {
        "titulo": "Penal e Processo Penal",
-       "inicio": "2026-12-14",
-       "fim": "2027-01-05",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-12",
        "horas": 65,
        "tarefas": [
         "Teoria do crime e crimes em espécie",
@@ -6333,8 +6333,8 @@
       },
       {
        "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-06",
-       "fim": "2027-01-19",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-26",
        "horas": 40,
        "tarefas": [
         "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
@@ -6351,8 +6351,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-20",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-27",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 8 semanas",
@@ -6362,8 +6362,8 @@
       },
       {
        "titulo": "Simulados no estilo Cebraspe",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 38,
        "tarefas": [
         "Montar o simulado no formato do edital: Previsão: 60 questões (20 gerais e 40 específicas).",
@@ -6386,8 +6386,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 18,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -6458,13 +6458,13 @@
      ],
      "totalHoras": 189,
      "horasSemana": 11.8,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-18",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-25",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -6486,8 +6486,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-19",
-       "fim": "2026-12-05",
+       "inicio": "2026-11-26",
+       "fim": "2026-12-12",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -6504,8 +6504,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-14",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-21",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -6521,8 +6521,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-12-15",
-       "fim": "2027-01-04",
+       "inicio": "2026-12-22",
+       "fim": "2027-01-11",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -6544,8 +6544,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2027-01-05",
-       "fim": "2027-01-16",
+       "inicio": "2027-01-12",
+       "fim": "2027-01-23",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -6561,8 +6561,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-17",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-24",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -6572,8 +6572,8 @@
       },
       {
        "titulo": "Simulados no estilo Instituto AOCP",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-07",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-14",
        "horas": 23,
        "tarefas": [
         "Fazer 2 provas anteriores da Instituto AOCP para cargo parecido, cronometradas",
@@ -6595,8 +6595,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-08",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-15",
+       "fim": "2027-02-21",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -6670,13 +6670,13 @@
      ],
      "totalHoras": 311,
      "horasSemana": 19.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e interpretação",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-17",
        "horas": 45,
        "tarefas": [
         "Interpretação e reescrita de frases",
@@ -6698,8 +6698,8 @@
       },
       {
        "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-30",
        "horas": 35,
        "tarefas": [
         "Segurança, redes, nuvem e Office",
@@ -6721,8 +6721,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-24",
-       "fim": "2026-12-13",
+       "inicio": "2026-12-01",
+       "fim": "2026-12-20",
        "horas": 55,
        "tarefas": [
         "Art. 5º e art. 144 na lei seca",
@@ -6744,8 +6744,8 @@
       },
       {
        "titulo": "Penal e Processo Penal",
-       "inicio": "2026-12-14",
-       "fim": "2027-01-05",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-12",
        "horas": 65,
        "tarefas": [
         "Teoria do crime e crimes em espécie",
@@ -6772,8 +6772,8 @@
       },
       {
        "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-06",
-       "fim": "2027-01-19",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-26",
        "horas": 40,
        "tarefas": [
         "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
@@ -6790,8 +6790,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-20",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-27",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 8 semanas",
@@ -6801,8 +6801,8 @@
       },
       {
        "titulo": "Simulados no estilo Idecan",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 38,
        "tarefas": [
         "Fazer 2 provas anteriores da Idecan para cargo parecido, cronometradas",
@@ -6824,8 +6824,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 18,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -6899,13 +6899,13 @@
      ],
      "totalHoras": 226,
      "horasSemana": 14.1,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-16",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -6926,8 +6926,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-24",
+       "inicio": "2026-11-17",
+       "fim": "2026-12-01",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -6954,8 +6954,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-25",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-16",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -6971,8 +6971,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-26",
+       "inicio": "2026-12-17",
+       "fim": "2027-01-02",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -6989,8 +6989,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-12-27",
-       "fim": "2027-01-15",
+       "inicio": "2027-01-03",
+       "fim": "2027-01-22",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -7007,8 +7007,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2027-01-16",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-23",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -7024,8 +7024,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 28,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -7047,8 +7047,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 13,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -7075,13 +7075,13 @@
      ],
      "totalHoras": 153,
      "horasSemana": 9.6,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -7102,8 +7102,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-08",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-15",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -7119,8 +7119,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-19",
+       "inicio": "2026-12-16",
+       "fim": "2026-12-26",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -7136,8 +7136,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-12-20",
-       "fim": "2027-01-03",
+       "inicio": "2026-12-27",
+       "fim": "2027-01-10",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -7154,8 +7154,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2027-01-04",
-       "fim": "2027-01-17",
+       "inicio": "2027-01-11",
+       "fim": "2027-01-24",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -7171,8 +7171,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2027-01-18",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-25",
+       "fim": "2027-02-01",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -7182,8 +7182,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-07",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-14",
        "horas": 19,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -7205,8 +7205,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-08",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-15",
+       "fim": "2027-02-21",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -7278,13 +7278,13 @@
      ],
      "totalHoras": 226,
      "horasSemana": 14.1,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-16",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -7305,8 +7305,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-24",
+       "inicio": "2026-11-17",
+       "fim": "2026-12-01",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -7333,8 +7333,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-25",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-16",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -7350,8 +7350,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-26",
+       "inicio": "2026-12-17",
+       "fim": "2027-01-02",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -7368,8 +7368,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-12-27",
-       "fim": "2027-01-15",
+       "inicio": "2027-01-03",
+       "fim": "2027-01-22",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -7386,8 +7386,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2027-01-16",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-23",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -7403,8 +7403,8 @@
       },
       {
        "titulo": "Simulados no estilo Marinha do Brasil",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 28,
        "tarefas": [
         "Montar o simulado no formato do edital: Prova objetiva + redação + títulos; TAF e inspeção de saúde.",
@@ -7427,8 +7427,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 13,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -7500,13 +7500,13 @@
      ],
      "totalHoras": 226,
      "horasSemana": 14.1,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-16",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -7527,8 +7527,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-24",
+       "inicio": "2026-11-17",
+       "fim": "2026-12-01",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -7555,8 +7555,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-25",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-16",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -7572,8 +7572,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-26",
+       "inicio": "2026-12-17",
+       "fim": "2027-01-02",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -7590,8 +7590,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-12-27",
-       "fim": "2027-01-15",
+       "inicio": "2027-01-03",
+       "fim": "2027-01-22",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -7608,8 +7608,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2027-01-16",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-23",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -7625,8 +7625,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 28,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -7648,8 +7648,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 13,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -7722,13 +7722,13 @@
      ],
      "totalHoras": 153,
      "horasSemana": 9.6,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -7749,8 +7749,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-08",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-15",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -7766,8 +7766,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-19",
+       "inicio": "2026-12-16",
+       "fim": "2026-12-26",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -7783,8 +7783,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-12-20",
-       "fim": "2027-01-03",
+       "inicio": "2026-12-27",
+       "fim": "2027-01-10",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -7801,8 +7801,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2027-01-04",
-       "fim": "2027-01-17",
+       "inicio": "2027-01-11",
+       "fim": "2027-01-24",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -7818,8 +7818,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2027-01-18",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-25",
+       "fim": "2027-02-01",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -7829,8 +7829,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-07",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-14",
        "horas": 19,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -7852,8 +7852,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-08",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-15",
+       "fim": "2027-02-21",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -7879,13 +7879,13 @@
      ],
      "totalHoras": 195,
      "horasSemana": 12.2,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -7907,8 +7907,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-16",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-23",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -7929,8 +7929,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-12-17",
-       "fim": "2027-01-13",
+       "inicio": "2026-12-24",
+       "fim": "2027-01-20",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -7946,8 +7946,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2027-01-14",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-21",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -7963,8 +7963,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 24,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -7986,8 +7986,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -8016,13 +8016,13 @@
      ],
      "totalHoras": 262,
      "horasSemana": 16.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-15",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-22",
        "horas": 50,
        "tarefas": [
         "Interpretação e gramática em contexto",
@@ -8044,8 +8044,8 @@
       },
       {
        "titulo": "Engenharia de software e programação",
-       "inicio": "2026-11-16",
-       "fim": "2026-12-09",
+       "inicio": "2026-11-23",
+       "fim": "2026-12-16",
        "horas": 55,
        "tarefas": [
         "Scrum, Kanban, UML e testes",
@@ -8067,8 +8067,8 @@
       },
       {
        "titulo": "Banco de dados e SQL",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-22",
+       "inicio": "2026-12-17",
+       "fim": "2026-12-29",
        "horas": 30,
        "tarefas": [
         "Modelagem, normalização, transações",
@@ -8089,8 +8089,8 @@
       },
       {
        "titulo": "Redes, nuvem e DevOps",
-       "inicio": "2026-12-23",
-       "fim": "2027-01-04",
+       "inicio": "2026-12-30",
+       "fim": "2027-01-11",
        "horas": 30,
        "tarefas": [
         "TCP/IP, DNS, HTTP, VPN",
@@ -8106,8 +8106,8 @@
       },
       {
        "titulo": "Segurança da informação e LGPD",
-       "inicio": "2027-01-05",
-       "fim": "2027-01-18",
+       "inicio": "2027-01-12",
+       "fim": "2027-01-25",
        "horas": 35,
        "tarefas": [
         "ISO 27001/27002, criptografia, controle de acesso",
@@ -8134,8 +8134,8 @@
       },
       {
        "titulo": "Governança e legislação do órgão",
-       "inicio": "2027-01-19",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-26",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "ITIL e COBIT no nível de conceito",
@@ -8151,8 +8151,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 32,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -8174,8 +8174,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 15,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -8246,13 +8246,13 @@
      ],
      "totalHoras": 195,
      "horasSemana": 12.2,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -8274,8 +8274,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-16",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-23",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -8296,8 +8296,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-12-17",
-       "fim": "2027-01-13",
+       "inicio": "2026-12-24",
+       "fim": "2027-01-20",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -8313,8 +8313,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2027-01-14",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-21",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -8330,8 +8330,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 24,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -8353,8 +8353,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -8383,13 +8383,13 @@
      ],
      "totalHoras": 262,
      "horasSemana": 16.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-15",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-22",
        "horas": 50,
        "tarefas": [
         "Interpretação e gramática em contexto",
@@ -8411,8 +8411,8 @@
       },
       {
        "titulo": "Engenharia de software e programação",
-       "inicio": "2026-11-16",
-       "fim": "2026-12-09",
+       "inicio": "2026-11-23",
+       "fim": "2026-12-16",
        "horas": 55,
        "tarefas": [
         "Scrum, Kanban, UML e testes",
@@ -8434,8 +8434,8 @@
       },
       {
        "titulo": "Banco de dados e SQL",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-22",
+       "inicio": "2026-12-17",
+       "fim": "2026-12-29",
        "horas": 30,
        "tarefas": [
         "Modelagem, normalização, transações",
@@ -8456,8 +8456,8 @@
       },
       {
        "titulo": "Redes, nuvem e DevOps",
-       "inicio": "2026-12-23",
-       "fim": "2027-01-04",
+       "inicio": "2026-12-30",
+       "fim": "2027-01-11",
        "horas": 30,
        "tarefas": [
         "TCP/IP, DNS, HTTP, VPN",
@@ -8473,8 +8473,8 @@
       },
       {
        "titulo": "Segurança da informação e LGPD",
-       "inicio": "2027-01-05",
-       "fim": "2027-01-18",
+       "inicio": "2027-01-12",
+       "fim": "2027-01-25",
        "horas": 35,
        "tarefas": [
         "ISO 27001/27002, criptografia, controle de acesso",
@@ -8501,8 +8501,8 @@
       },
       {
        "titulo": "Governança e legislação do órgão",
-       "inicio": "2027-01-19",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-26",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "ITIL e COBIT no nível de conceito",
@@ -8518,8 +8518,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 32,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -8541,8 +8541,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 15,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -8616,13 +8616,13 @@
      ],
      "totalHoras": 153,
      "horasSemana": 9.6,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -8643,8 +8643,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-08",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-15",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -8660,8 +8660,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-19",
+       "inicio": "2026-12-16",
+       "fim": "2026-12-26",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -8677,8 +8677,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-12-20",
-       "fim": "2027-01-03",
+       "inicio": "2026-12-27",
+       "fim": "2027-01-10",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -8695,8 +8695,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2027-01-04",
-       "fim": "2027-01-17",
+       "inicio": "2027-01-11",
+       "fim": "2027-01-24",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -8712,8 +8712,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2027-01-18",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-25",
+       "fim": "2027-02-01",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -8723,8 +8723,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-07",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-14",
        "horas": 19,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -8746,8 +8746,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-08",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-15",
+       "fim": "2027-02-21",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -8774,13 +8774,13 @@
      ],
      "totalHoras": 159,
      "horasSemana": 9.9,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e matemática",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-22",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-29",
        "horas": 40,
        "tarefas": [
         "Interpretação e gramática",
@@ -8802,8 +8802,8 @@
       },
       {
        "titulo": "Hardware, Windows e Linux",
-       "inicio": "2026-11-23",
-       "fim": "2026-12-13",
+       "inicio": "2026-11-30",
+       "fim": "2026-12-20",
        "horas": 30,
        "tarefas": [
         "Componentes, montagem e manutenção",
@@ -8819,8 +8819,8 @@
       },
       {
        "titulo": "Redes e segurança",
-       "inicio": "2026-12-14",
-       "fim": "2026-12-31",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-07",
        "horas": 25,
        "tarefas": [
         "Modelo TCP/IP, cabeamento, Wi-Fi, IP",
@@ -8836,8 +8836,8 @@
       },
       {
        "titulo": "Office, suporte e noções de programação",
-       "inicio": "2027-01-01",
-       "fim": "2027-01-18",
+       "inicio": "2027-01-08",
+       "fim": "2027-01-25",
        "horas": 25,
        "tarefas": [
         "Planilhas e editores",
@@ -8854,8 +8854,8 @@
       },
       {
        "titulo": "Legislação local",
-       "inicio": "2027-01-19",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-26",
+       "fim": "2027-02-01",
        "horas": 10,
        "tarefas": [
         "Estatuto do servidor e lei orgânica do município"
@@ -8864,8 +8864,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 20,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -8887,8 +8887,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -8917,13 +8917,13 @@
      ],
      "totalHoras": 226,
      "horasSemana": 14.1,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-16",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -8944,8 +8944,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-24",
+       "inicio": "2026-11-17",
+       "fim": "2026-12-01",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -8972,8 +8972,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-25",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-16",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -8989,8 +8989,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-26",
+       "inicio": "2026-12-17",
+       "fim": "2027-01-02",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -9007,8 +9007,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-12-27",
-       "fim": "2027-01-15",
+       "inicio": "2027-01-03",
+       "fim": "2027-01-22",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -9025,8 +9025,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2027-01-16",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-23",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -9042,8 +9042,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 28,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -9065,8 +9065,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 13,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -9137,13 +9137,13 @@
      ],
      "totalHoras": 153,
      "horasSemana": 9.6,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -9164,8 +9164,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-08",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-15",
        "horas": 25,
        "tarefas": [
         "Porcentagem, regra de três, juros simples",
@@ -9181,8 +9181,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-19",
+       "inicio": "2026-12-16",
+       "fim": "2026-12-26",
        "horas": 15,
        "tarefas": [
         "Word, Excel, internet e e-mail",
@@ -9198,8 +9198,8 @@
       },
       {
        "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-12-20",
-       "fim": "2027-01-03",
+       "inicio": "2026-12-27",
+       "fim": "2027-01-10",
        "horas": 20,
        "tarefas": [
         "Organização, atendimento ao público",
@@ -9216,8 +9216,8 @@
       },
       {
        "titulo": "Noções de Direito e legislação local",
-       "inicio": "2027-01-04",
-       "fim": "2027-01-17",
+       "inicio": "2027-01-11",
+       "fim": "2027-01-24",
        "horas": 20,
        "tarefas": [
         "Princípios da administração (art. 37)",
@@ -9233,8 +9233,8 @@
       },
       {
        "titulo": "Conhecimentos gerais",
-       "inicio": "2027-01-18",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-25",
+       "fim": "2027-02-01",
        "horas": 10,
        "tarefas": [
         "História, geografia e economia do município e do estado",
@@ -9244,8 +9244,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-07",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-14",
        "horas": 19,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -9267,8 +9267,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-08",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-15",
+       "fim": "2027-02-21",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -9294,13 +9294,13 @@
      ],
      "totalHoras": 195,
      "horasSemana": 12.2,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -9322,8 +9322,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-16",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-23",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -9344,8 +9344,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-12-17",
-       "fim": "2027-01-13",
+       "inicio": "2026-12-24",
+       "fim": "2027-01-20",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -9361,8 +9361,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2027-01-14",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-21",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -9378,8 +9378,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 24,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -9401,8 +9401,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -9474,13 +9474,13 @@
      ],
      "totalHoras": 262,
      "horasSemana": 16.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-15",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-22",
        "horas": 50,
        "tarefas": [
         "Interpretação e gramática em contexto",
@@ -9502,8 +9502,8 @@
       },
       {
        "titulo": "Engenharia de software e programação",
-       "inicio": "2026-11-16",
-       "fim": "2026-12-09",
+       "inicio": "2026-11-23",
+       "fim": "2026-12-16",
        "horas": 55,
        "tarefas": [
         "Scrum, Kanban, UML e testes",
@@ -9525,8 +9525,8 @@
       },
       {
        "titulo": "Banco de dados e SQL",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-22",
+       "inicio": "2026-12-17",
+       "fim": "2026-12-29",
        "horas": 30,
        "tarefas": [
         "Modelagem, normalização, transações",
@@ -9547,8 +9547,8 @@
       },
       {
        "titulo": "Redes, nuvem e DevOps",
-       "inicio": "2026-12-23",
-       "fim": "2027-01-04",
+       "inicio": "2026-12-30",
+       "fim": "2027-01-11",
        "horas": 30,
        "tarefas": [
         "TCP/IP, DNS, HTTP, VPN",
@@ -9564,8 +9564,8 @@
       },
       {
        "titulo": "Segurança da informação e LGPD",
-       "inicio": "2027-01-05",
-       "fim": "2027-01-18",
+       "inicio": "2027-01-12",
+       "fim": "2027-01-25",
        "horas": 35,
        "tarefas": [
         "ISO 27001/27002, criptografia, controle de acesso",
@@ -9592,8 +9592,8 @@
       },
       {
        "titulo": "Governança e legislação do órgão",
-       "inicio": "2027-01-19",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-26",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "ITIL e COBIT no nível de conceito",
@@ -9609,8 +9609,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 32,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -9632,8 +9632,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 15,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -9706,13 +9706,13 @@
      ],
      "totalHoras": 226,
      "horasSemana": 14.1,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-09",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-16",
        "horas": 30,
        "tarefas": [
         "Interpretação e gramática",
@@ -9733,8 +9733,8 @@
       },
       {
        "titulo": "SUS e saúde coletiva",
-       "inicio": "2026-11-10",
-       "fim": "2026-11-24",
+       "inicio": "2026-11-17",
+       "fim": "2026-12-01",
        "horas": 30,
        "tarefas": [
         "Leis 8.080 e 8.142 e Decreto 7.508 na íntegra",
@@ -9761,8 +9761,8 @@
       },
       {
        "titulo": "Ética e base (anatomia, fisiologia, cinesiologia)",
-       "inicio": "2026-11-25",
-       "fim": "2026-12-09",
+       "inicio": "2026-12-02",
+       "fim": "2026-12-16",
        "horas": 30,
        "tarefas": [
         "Código de Ética do COFFITO",
@@ -9778,8 +9778,8 @@
       },
       {
        "titulo": "Cardiorrespiratória e UTI",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-26",
+       "inicio": "2026-12-17",
+       "fim": "2027-01-02",
        "horas": 35,
        "tarefas": [
         "Ventilação mecânica e desmame",
@@ -9796,8 +9796,8 @@
       },
       {
        "titulo": "Neuro e traumato-ortopédica",
-       "inicio": "2026-12-27",
-       "fim": "2027-01-15",
+       "inicio": "2027-01-03",
+       "fim": "2027-01-22",
        "horas": 40,
        "tarefas": [
         "AVC, lesão medular, Parkinson",
@@ -9814,8 +9814,8 @@
       },
       {
        "titulo": "Mulher, pediatria, geriatria e órgão",
-       "inicio": "2027-01-16",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-23",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Gestação, neonatal, idoso",
@@ -9831,8 +9831,8 @@
       },
       {
        "titulo": "Simulados no estilo FGV",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 28,
        "tarefas": [
         "Fazer 2 provas anteriores da FGV para cargo parecido, cronometradas",
@@ -9854,8 +9854,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 13,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -9929,13 +9929,13 @@
      ],
      "totalHoras": 311,
      "horasSemana": 19.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e interpretação",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-17",
        "horas": 45,
        "tarefas": [
         "Interpretação e reescrita de frases",
@@ -9957,8 +9957,8 @@
       },
       {
        "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-30",
        "horas": 35,
        "tarefas": [
         "Segurança, redes, nuvem e Office",
@@ -9980,8 +9980,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-24",
-       "fim": "2026-12-13",
+       "inicio": "2026-12-01",
+       "fim": "2026-12-20",
        "horas": 55,
        "tarefas": [
         "Art. 5º e art. 144 na lei seca",
@@ -10003,8 +10003,8 @@
       },
       {
        "titulo": "Penal e Processo Penal",
-       "inicio": "2026-12-14",
-       "fim": "2027-01-05",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-12",
        "horas": 65,
        "tarefas": [
         "Teoria do crime e crimes em espécie",
@@ -10031,8 +10031,8 @@
       },
       {
        "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-06",
-       "fim": "2027-01-19",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-26",
        "horas": 40,
        "tarefas": [
         "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
@@ -10049,8 +10049,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-20",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-27",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 8 semanas",
@@ -10060,8 +10060,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 38,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -10083,8 +10083,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 18,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -10158,13 +10158,13 @@
      ],
      "totalHoras": 262,
      "horasSemana": 16.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-15",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-22",
        "horas": 50,
        "tarefas": [
         "Interpretação e gramática em contexto",
@@ -10186,8 +10186,8 @@
       },
       {
        "titulo": "Engenharia de software e programação",
-       "inicio": "2026-11-16",
-       "fim": "2026-12-09",
+       "inicio": "2026-11-23",
+       "fim": "2026-12-16",
        "horas": 55,
        "tarefas": [
         "Scrum, Kanban, UML e testes",
@@ -10209,8 +10209,8 @@
       },
       {
        "titulo": "Banco de dados e SQL",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-22",
+       "inicio": "2026-12-17",
+       "fim": "2026-12-29",
        "horas": 30,
        "tarefas": [
         "Modelagem, normalização, transações",
@@ -10231,8 +10231,8 @@
       },
       {
        "titulo": "Redes, nuvem e DevOps",
-       "inicio": "2026-12-23",
-       "fim": "2027-01-04",
+       "inicio": "2026-12-30",
+       "fim": "2027-01-11",
        "horas": 30,
        "tarefas": [
         "TCP/IP, DNS, HTTP, VPN",
@@ -10248,8 +10248,8 @@
       },
       {
        "titulo": "Segurança da informação e LGPD",
-       "inicio": "2027-01-05",
-       "fim": "2027-01-18",
+       "inicio": "2027-01-12",
+       "fim": "2027-01-25",
        "horas": 35,
        "tarefas": [
         "ISO 27001/27002, criptografia, controle de acesso",
@@ -10276,8 +10276,8 @@
       },
       {
        "titulo": "Governança e legislação do órgão",
-       "inicio": "2027-01-19",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-26",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "ITIL e COBIT no nível de conceito",
@@ -10293,8 +10293,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 32,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -10316,8 +10316,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 15,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -10343,13 +10343,13 @@
      ],
      "totalHoras": 195,
      "horasSemana": 12.2,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e raciocínio lógico",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-20",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-27",
        "horas": 45,
        "tarefas": [
         "Interpretação e gramática",
@@ -10371,8 +10371,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-21",
-       "fim": "2026-12-16",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-23",
        "horas": 45,
        "tarefas": [
         "Organização do Estado, art. 37 a 41",
@@ -10393,8 +10393,8 @@
       },
       {
        "titulo": "Específicas do cargo",
-       "inicio": "2026-12-17",
-       "fim": "2027-01-13",
+       "inicio": "2026-12-24",
+       "fim": "2027-01-20",
        "horas": 50,
        "tarefas": [
         "Listar o conteúdo específico do edital",
@@ -10410,8 +10410,8 @@
       },
       {
        "titulo": "Informática e legislação do órgão",
-       "inicio": "2027-01-14",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-21",
+       "fim": "2027-02-01",
        "horas": 20,
        "tarefas": [
         "Office e segurança",
@@ -10427,8 +10427,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 24,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -10450,8 +10450,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -10525,13 +10525,13 @@
      ],
      "totalHoras": 311,
      "horasSemana": 19.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e interpretação",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-17",
        "horas": 45,
        "tarefas": [
         "Interpretação e reescrita de frases",
@@ -10553,8 +10553,8 @@
       },
       {
        "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-30",
        "horas": 35,
        "tarefas": [
         "Segurança, redes, nuvem e Office",
@@ -10576,8 +10576,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-24",
-       "fim": "2026-12-13",
+       "inicio": "2026-12-01",
+       "fim": "2026-12-20",
        "horas": 55,
        "tarefas": [
         "Art. 5º e art. 144 na lei seca",
@@ -10599,8 +10599,8 @@
       },
       {
        "titulo": "Penal e Processo Penal",
-       "inicio": "2026-12-14",
-       "fim": "2027-01-05",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-12",
        "horas": 65,
        "tarefas": [
         "Teoria do crime e crimes em espécie",
@@ -10627,8 +10627,8 @@
       },
       {
        "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-06",
-       "fim": "2027-01-19",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-26",
        "horas": 40,
        "tarefas": [
         "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
@@ -10645,8 +10645,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-20",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-27",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 8 semanas",
@@ -10656,8 +10656,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 38,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -10679,8 +10679,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 18,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -10755,13 +10755,13 @@
      ],
      "totalHoras": 311,
      "horasSemana": 19.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e interpretação",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-17",
        "horas": 45,
        "tarefas": [
         "Interpretação e reescrita de frases",
@@ -10783,8 +10783,8 @@
       },
       {
        "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-30",
        "horas": 35,
        "tarefas": [
         "Segurança, redes, nuvem e Office",
@@ -10806,8 +10806,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-24",
-       "fim": "2026-12-13",
+       "inicio": "2026-12-01",
+       "fim": "2026-12-20",
        "horas": 55,
        "tarefas": [
         "Art. 5º e art. 144 na lei seca",
@@ -10829,8 +10829,8 @@
       },
       {
        "titulo": "Penal e Processo Penal",
-       "inicio": "2026-12-14",
-       "fim": "2027-01-05",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-12",
        "horas": 65,
        "tarefas": [
         "Teoria do crime e crimes em espécie",
@@ -10857,8 +10857,8 @@
       },
       {
        "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-06",
-       "fim": "2027-01-19",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-26",
        "horas": 40,
        "tarefas": [
         "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
@@ -10875,8 +10875,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-20",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-27",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 8 semanas",
@@ -10886,8 +10886,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 38,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -10909,8 +10909,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 18,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -10938,13 +10938,13 @@
      ],
      "totalHoras": 189,
      "horasSemana": 11.8,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-18",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-25",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -10966,8 +10966,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-19",
-       "fim": "2026-12-05",
+       "inicio": "2026-11-26",
+       "fim": "2026-12-12",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -10984,8 +10984,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-14",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-21",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -11001,8 +11001,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-12-15",
-       "fim": "2027-01-04",
+       "inicio": "2026-12-22",
+       "fim": "2027-01-11",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -11024,8 +11024,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2027-01-05",
-       "fim": "2027-01-16",
+       "inicio": "2027-01-12",
+       "fim": "2027-01-23",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -11041,8 +11041,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-17",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-24",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -11052,8 +11052,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-07",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-14",
        "horas": 23,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -11075,8 +11075,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-08",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-15",
+       "fim": "2027-02-21",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -11147,13 +11147,13 @@
      ],
      "totalHoras": 159,
      "horasSemana": 9.9,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-19",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-26",
        "horas": 35,
        "tarefas": [
         "Interpretação e gramática",
@@ -11174,8 +11174,8 @@
       },
       {
        "titulo": "Matemática financeira",
-       "inicio": "2026-11-20",
-       "fim": "2026-12-13",
+       "inicio": "2026-11-27",
+       "fim": "2026-12-20",
        "horas": 35,
        "tarefas": [
         "Juros simples e compostos, descontos",
@@ -11191,8 +11191,8 @@
       },
       {
        "titulo": "Conhecimentos bancários e atualidades",
-       "inicio": "2026-12-14",
-       "fim": "2027-01-07",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-14",
        "horas": 35,
        "tarefas": [
         "Sistema Financeiro Nacional, produtos e PIX",
@@ -11213,8 +11213,8 @@
       },
       {
        "titulo": "Vendas, atendimento e informática",
-       "inicio": "2027-01-08",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-15",
+       "fim": "2027-02-01",
        "horas": 25,
        "tarefas": [
         "Técnicas de vendas, CDC e ética",
@@ -11230,8 +11230,8 @@
       },
       {
        "titulo": "Simulados no estilo Cesgranrio",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 20,
        "tarefas": [
         "Fazer 2 provas anteriores da Cesgranrio para cargo parecido, cronometradas",
@@ -11253,8 +11253,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -11281,13 +11281,13 @@
      ],
      "totalHoras": 159,
      "horasSemana": 9.9,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e matemática",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-22",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-29",
        "horas": 40,
        "tarefas": [
         "Interpretação e gramática",
@@ -11309,8 +11309,8 @@
       },
       {
        "titulo": "Hardware, Windows e Linux",
-       "inicio": "2026-11-23",
-       "fim": "2026-12-13",
+       "inicio": "2026-11-30",
+       "fim": "2026-12-20",
        "horas": 30,
        "tarefas": [
         "Componentes, montagem e manutenção",
@@ -11326,8 +11326,8 @@
       },
       {
        "titulo": "Redes e segurança",
-       "inicio": "2026-12-14",
-       "fim": "2026-12-31",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-07",
        "horas": 25,
        "tarefas": [
         "Modelo TCP/IP, cabeamento, Wi-Fi, IP",
@@ -11343,8 +11343,8 @@
       },
       {
        "titulo": "Office, suporte e noções de programação",
-       "inicio": "2027-01-01",
-       "fim": "2027-01-18",
+       "inicio": "2027-01-08",
+       "fim": "2027-01-25",
        "horas": 25,
        "tarefas": [
         "Planilhas e editores",
@@ -11361,8 +11361,8 @@
       },
       {
        "titulo": "Legislação local",
-       "inicio": "2027-01-19",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-26",
+       "fim": "2027-02-01",
        "horas": 10,
        "tarefas": [
         "Estatuto do servidor e lei orgânica do município"
@@ -11371,8 +11371,8 @@
       },
       {
        "titulo": "Simulados no estilo Cesgranrio",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 20,
        "tarefas": [
         "Fazer 2 provas anteriores da Cesgranrio para cargo parecido, cronometradas",
@@ -11394,8 +11394,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -11470,13 +11470,13 @@
      ],
      "totalHoras": 311,
      "horasSemana": 19.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português e interpretação",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-10",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-17",
        "horas": 45,
        "tarefas": [
         "Interpretação e reescrita de frases",
@@ -11498,8 +11498,8 @@
       },
       {
        "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-11-11",
-       "fim": "2026-11-23",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-30",
        "horas": 35,
        "tarefas": [
         "Segurança, redes, nuvem e Office",
@@ -11521,8 +11521,8 @@
       },
       {
        "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-11-24",
-       "fim": "2026-12-13",
+       "inicio": "2026-12-01",
+       "fim": "2026-12-20",
        "horas": 55,
        "tarefas": [
         "Art. 5º e art. 144 na lei seca",
@@ -11544,8 +11544,8 @@
       },
       {
        "titulo": "Penal e Processo Penal",
-       "inicio": "2026-12-14",
-       "fim": "2027-01-05",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-12",
        "horas": 65,
        "tarefas": [
         "Teoria do crime e crimes em espécie",
@@ -11572,8 +11572,8 @@
       },
       {
        "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-06",
-       "fim": "2027-01-19",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-26",
        "horas": 40,
        "tarefas": [
         "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
@@ -11590,8 +11590,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-20",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-27",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 8 semanas",
@@ -11601,8 +11601,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-08",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
        "horas": 38,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -11624,8 +11624,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-09",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 18,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -11653,13 +11653,13 @@
      ],
      "totalHoras": 189,
      "horasSemana": 11.8,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 26/out",
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
      "alerta": null,
      "etapas": [
       {
        "titulo": "Português",
-       "inicio": "2026-10-26",
-       "fim": "2026-11-18",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-25",
        "horas": 40,
        "tarefas": [
         "Interpretação de texto",
@@ -11681,8 +11681,8 @@
       },
       {
        "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-19",
-       "fim": "2026-12-05",
+       "inicio": "2026-11-26",
+       "fim": "2026-12-12",
        "horas": 30,
        "tarefas": [
         "Porcentagem, regra de três, frações",
@@ -11699,8 +11699,8 @@
       },
       {
        "titulo": "Informática",
-       "inicio": "2026-12-06",
-       "fim": "2026-12-14",
+       "inicio": "2026-12-13",
+       "fim": "2026-12-21",
        "horas": 15,
        "tarefas": [
         "Windows, Office, internet e e-mail",
@@ -11716,8 +11716,8 @@
       },
       {
        "titulo": "Noções de Direito",
-       "inicio": "2026-12-15",
-       "fim": "2027-01-04",
+       "inicio": "2026-12-22",
+       "fim": "2027-01-11",
        "horas": 35,
        "tarefas": [
         "Art. 5º e art. 144 da Constituição",
@@ -11739,8 +11739,8 @@
       },
       {
        "titulo": "Legislação da corporação e do estado",
-       "inicio": "2027-01-05",
-       "fim": "2027-01-16",
+       "inicio": "2027-01-12",
+       "fim": "2027-01-23",
        "horas": 20,
        "tarefas": [
         "Estatuto e regulamento citados no edital",
@@ -11756,8 +11756,8 @@
       },
       {
        "titulo": "Redação e TAF",
-       "inicio": "2027-01-17",
-       "fim": "2027-01-25",
+       "inicio": "2027-01-24",
+       "fim": "2027-02-01",
        "horas": 15,
        "tarefas": [
         "1 redação por semana nas últimas 6 semanas",
@@ -11767,8 +11767,8 @@
       },
       {
        "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-07",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-14",
        "horas": 23,
        "tarefas": [
         "Descobrir a banca no edital e fazer 2 provas anteriores dela",
@@ -11790,8 +11790,8 @@
       },
       {
        "titulo": "Reta final",
-       "inicio": "2027-02-08",
-       "fim": "2027-02-14",
+       "inicio": "2027-02-15",
+       "fim": "2027-02-21",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
