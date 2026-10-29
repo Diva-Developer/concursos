@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-10-28T12:42",
+ "geradoEm": "2026-10-29T12:48",
  "curadoria": "2026-10-22",
- "varredura": "2026-10-28T12:42",
+ "varredura": "2026-10-29T12:48",
  "inicioPlano": "2026-11-02",
  "grupos": [
   {
@@ -3352,7 +3352,7 @@
    "vagas": "4 vagas",
    "salario": "até R$ 1.621,00",
    "salarioMax": 1621,
-   "inscricoes": "29/10 a 29/11/2026",
+   "inscricoes": "29/11/2026",
    "prazo": "2026-11-29",
    "prova": "2027-01-31",
    "previsao": null,
@@ -3557,7 +3557,7 @@
    "vagas": "41 vagas",
    "salario": "até R$ 3.651,00",
    "salarioMax": 3651,
-   "inscricoes": "29/10 a 29/11/2026",
+   "inscricoes": "29/11/2026",
    "prazo": "2026-11-29",
    "prova": "2027-02-14",
    "previsao": null,
@@ -4039,207 +4039,6 @@
        "titulo": "Reta final",
        "inicio": "2027-02-08",
        "fim": "2027-02-13",
-       "horas": 9,
-       "tarefas": [
-        "Revisar só caderno de erros e resumos",
-        "Nada de conteúdo novo na última semana",
-        "Conferir local de prova e documentos"
-       ],
-       "fontes": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cd33156",
-   "nome": "Prefeitura do Recife",
-   "uf": "PE",
-   "cidade": "Recife",
-   "st": "aberto",
-   "status": "Inscrições abertas",
-   "grupo": "agora",
-   "mes": "2026-10",
-   "areas": [
-    "adm"
-   ],
-   "cargos": [
-    "Cargos gerais do edital"
-   ],
-   "banca": "Banca a conferir",
-   "bancaFormato": "Banca ainda não identificada: confira no edital",
-   "bancaDicas": [
-    "Assim que souber a banca, faça 2 provas anteriores dela para pegar o estilo",
-    "Bancas pequenas de prefeitura costumam cobrar lei seca e legislação municipal"
-   ],
-   "bancaProvas": null,
-   "nivel": "Médio / Superior",
-   "vagas": "45 vagas",
-   "salario": "até R$ 5.587,46",
-   "salarioMax": 5587,
-   "inscricoes": "28/10/2026",
-   "prazo": "2026-10-28",
-   "prova": "2026-12-21",
-   "previsao": null,
-   "previsaoTxt": null,
-   "estrutura": null,
-   "obs": "Prefeitura do Recife - PE abre concurso público com vagas para músicos",
-   "novo": false,
-   "links": [
-    {
-     "nome": "Notícia e link do edital (PCI)",
-     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-do-recife-pe-abre-concurso-publico-com-vagas-para-musicos"
-    }
-   ],
-   "planos": [
-    {
-     "perfil": "adm_med",
-     "cargo": "Cargos gerais do edital",
-     "nome": "Administrativo de nível médio (Assistente, Auxiliar, Agente)",
-     "conteudo": [
-      "Língua Portuguesa",
-      "Matemática e raciocínio lógico",
-      "Informática (Office)",
-      "Noções de Administração e arquivologia",
-      "Redação oficial e atendimento",
-      "Noções de Direito Constitucional e Administrativo",
-      "Estatuto do servidor e lei orgânica",
-      "Conhecimentos gerais do município e do estado"
-     ],
-     "totalHoras": 153,
-     "horasSemana": 21.9,
-     "referencia": "até a prova em 21/dez/2026, começando em 02/nov",
-     "alerta": null,
-     "etapas": [
-      {
-       "titulo": "Português",
-       "inicio": "2026-11-02",
-       "fim": "2026-11-12",
-       "horas": 35,
-       "tarefas": [
-        "Interpretação e gramática",
-        "120 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        },
-        {
-         "nome": "PCI Concursos: provas anteriores",
-         "url": "https://www.pciconcursos.com.br/provas/",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-11-13",
-       "fim": "2026-11-20",
-       "horas": 25,
-       "tarefas": [
-        "Porcentagem, regra de três, juros simples",
-        "Lógica e sequências"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Informática",
-       "inicio": "2026-11-21",
-       "fim": "2026-11-25",
-       "horas": 15,
-       "tarefas": [
-        "Word, Excel, internet e e-mail",
-        "Segurança básica"
-       ],
-       "fontes": [
-        {
-         "nome": "Cartilha de Segurança CERT.br",
-         "url": "https://cartilha.cert.br/",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Administração, arquivo e redação oficial",
-       "inicio": "2026-11-26",
-       "fim": "2026-12-01",
-       "horas": 20,
-       "tarefas": [
-        "Organização, atendimento ao público",
-        "Arquivologia e protocolo",
-        "Redação oficial"
-       ],
-       "fontes": [
-        {
-         "nome": "Manual de Redação da Presidência",
-         "url": "https://www.gov.br/planalto/pt-br/centrais-de-conteudo/publicacoes/manual-de-redacao-da-presidencia-da-republica",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Noções de Direito e legislação local",
-       "inicio": "2026-12-02",
-       "fim": "2026-12-08",
-       "horas": 20,
-       "tarefas": [
-        "Princípios da administração (art. 37)",
-        "Estatuto do servidor e lei orgânica"
-       ],
-       "fontes": [
-        {
-         "nome": "Constituição (Planalto)",
-         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Conhecimentos gerais",
-       "inicio": "2026-12-09",
-       "fim": "2026-12-11",
-       "horas": 10,
-       "tarefas": [
-        "História, geografia e economia do município e do estado",
-        "Atualidades dos últimos 6 meses"
-       ],
-       "fontes": []
-      },
-      {
-       "titulo": "Simulados no estilo da banca",
-       "inicio": "2026-12-12",
-       "fim": "2026-12-17",
-       "horas": 19,
-       "tarefas": [
-        "Descobrir a banca no edital e fazer 2 provas anteriores dela",
-        "Simulado completo a cada 15 dias, no horário da prova",
-        "Refazer os erros e anotar no caderno de erros"
-       ],
-       "fontes": [
-        {
-         "nome": "PCI Concursos: provas anteriores",
-         "url": "https://www.pciconcursos.com.br/provas/",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Reta final",
-       "inicio": "2026-12-18",
-       "fim": "2026-12-20",
        "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",

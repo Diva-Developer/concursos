@@ -1,31 +1,8 @@
 {
- "gerado_em": "2026-10-28T12:42",
+ "gerado_em": "2026-10-29T12:48",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
-  {
-   "uf": "PE",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-do-recife-pe-abre-concurso-publico-com-vagas-para-musicos",
-   "titulo": "Prefeitura do Recife - PE abre concurso público com vagas para músicos",
-   "orgao": "Prefeitura do Recife",
-   "vagas": "45 vagas até R$ 5.587,46",
-   "cargos": "Músico",
-   "nivel": "Médio / Superior",
-   "prazo_txt": "28/10/2026",
-   "prazo": "2026-10-28",
-   "st": "aberto",
-   "banca": null,
-   "prova": "2026-12-21",
-   "perfis": {
-    "adm_med": "Cargos gerais do edital"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm"
-   ],
-   "novo": false
-  },
   {
    "uf": "PE",
    "url": "https://www.pciconcursos.com.br/noticias/universidade-de-pernambuco-abre-concurso-publico-para-o-cargo-de-advogado",
@@ -285,7 +262,7 @@
    "vagas": "4 vagas até R$ 1.621,00",
    "cargos": "Auxiliar de Serviços Gerais, Auxiliar Administrativo",
    "nivel": "Fundamental / Médio",
-   "prazo_txt": "29/10 a 29/11/2026",
+   "prazo_txt": "29/11/2026",
    "prazo": "2026-11-29",
    "st": "aberto",
    "banca": null,
@@ -308,7 +285,7 @@
    "vagas": "41 vagas até R$ 3.651,00",
    "cargos": "Vários Cargos",
    "nivel": "Fundamental / Médio / Técnico / Superior",
-   "prazo_txt": "29/10 a 29/11/2026",
+   "prazo_txt": "29/11/2026",
    "prazo": "2026-11-29",
    "st": "aberto",
    "banca": null,
