@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-10-29T12:48",
+ "geradoEm": "2026-10-30T12:30",
  "curadoria": "2026-10-22",
- "varredura": "2026-10-29T12:48",
+ "varredura": "2026-10-30T12:30",
  "inicioPlano": "2026-11-02",
  "grupos": [
   {
@@ -5725,6 +5725,183 @@
        "titulo": "Reta final",
        "inicio": "2026-12-17",
        "fim": "2026-12-19",
+       "horas": 11,
+       "tarefas": [
+        "Revisar só caderno de erros e resumos",
+        "Nada de conteúdo novo na última semana",
+        "Conferir local de prova e documentos"
+       ],
+       "fontes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c9bcb13",
+   "nome": "Prefeitura de São Caetano",
+   "uf": "PE",
+   "cidade": "São Caetano",
+   "st": "aberto",
+   "status": "Inscrições abertas",
+   "grupo": "agora",
+   "mes": "2026-10",
+   "areas": [
+    "adm"
+   ],
+   "cargos": [
+    "Procurador do Município"
+   ],
+   "banca": "Banca a conferir",
+   "bancaFormato": "Banca ainda não identificada: confira no edital",
+   "bancaDicas": [
+    "Assim que souber a banca, faça 2 provas anteriores dela para pegar o estilo",
+    "Bancas pequenas de prefeitura costumam cobrar lei seca e legislação municipal"
+   ],
+   "bancaProvas": null,
+   "nivel": "Médio / Superior",
+   "vagas": "46 vagas",
+   "salario": "até R$ 3.242,00",
+   "salarioMax": 3242,
+   "inscricoes": "10/12/2026",
+   "prazo": "2026-12-10",
+   "prova": "2027-01-31",
+   "previsao": null,
+   "previsaoTxt": null,
+   "estrutura": null,
+   "obs": "Prefeitura de São Caetano - PE abre concurso público com salários de até R$ 3.242,00",
+   "novo": true,
+   "links": [
+    {
+     "nome": "Notícia e link do edital (PCI)",
+     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-caetano-pe-abre-concurso-publico-com-salarios-de-ate-3242"
+    }
+   ],
+   "planos": [
+    {
+     "perfil": "geral_sup",
+     "cargo": "Procurador do Município",
+     "nome": "Superior em geral (Analista, Controlador, Advogado, outros)",
+     "conteudo": [
+      "Língua Portuguesa",
+      "Raciocínio lógico",
+      "Informática",
+      "Direito Constitucional e Administrativo",
+      "Administração pública",
+      "Legislação do órgão",
+      "Conhecimentos específicos do cargo (edital)"
+     ],
+     "totalHoras": 195,
+     "horasSemana": 15.2,
+     "referencia": "até a prova em 31/jan/2027, começando em 02/nov",
+     "alerta": null,
+     "etapas": [
+      {
+       "titulo": "Português e raciocínio lógico",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-22",
+       "horas": 45,
+       "tarefas": [
+        "Interpretação e gramática",
+        "Lógica e matemática básica",
+        "150 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        },
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Constitucional e Administrativo",
+       "inicio": "2026-11-23",
+       "fim": "2026-12-13",
+       "horas": 45,
+       "tarefas": [
+        "Organização do Estado, art. 37 a 41",
+        "Atos, licitações (14.133) e improbidade"
+       ],
+       "fontes": [
+        {
+         "nome": "Constituição (Planalto)",
+         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Específicas do cargo",
+       "inicio": "2026-12-14",
+       "fim": "2027-01-05",
+       "horas": 50,
+       "tarefas": [
+        "Listar o conteúdo específico do edital",
+        "Estudar pela ordem do que mais cai na banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Informática e legislação do órgão",
+       "inicio": "2027-01-06",
+       "fim": "2027-01-14",
+       "horas": 20,
+       "tarefas": [
+        "Office e segurança",
+        "Regimento ou lei orgânica do órgão"
+       ],
+       "fontes": [
+        {
+         "nome": "Cartilha de Segurança CERT.br",
+         "url": "https://cartilha.cert.br/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Simulados no estilo da banca",
+       "inicio": "2027-01-15",
+       "fim": "2027-01-25",
+       "horas": 24,
+       "tarefas": [
+        "Descobrir a banca no edital e fazer 2 provas anteriores dela",
+        "Simulado completo a cada 15 dias, no horário da prova",
+        "Refazer os erros e anotar no caderno de erros"
+       ],
+       "fontes": [
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Reta final",
+       "inicio": "2027-01-26",
+       "fim": "2027-01-30",
        "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",

@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29T12:48",
+ "gerado_em": "2026-10-30T12:30",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
@@ -306,26 +306,26 @@
   },
   {
    "uf": "PE",
-   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-e-de-administracao-pe-abrem-concurso-com-1315-vagas-para-a-policia-civil",
-   "titulo": "Secretaria de Defesa Social e de Administração - PE abrem concurso com 1.315 vagas para a Polícia Civil",
-   "orgao": "SDS - Secretaria de Defesa Social",
-   "vagas": "1.315 vagas até R$ 13.560,00",
-   "cargos": "Agente de Polícia, Delegado de Polícia, Escrivão de Polícia",
-   "nivel": "Superior",
-   "prazo_txt": "16/12/2026",
-   "prazo": "2026-12-16",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-caetano-pe-abre-concurso-publico-com-salarios-de-ate-3242",
+   "titulo": "Prefeitura de São Caetano - PE abre concurso público com salários de até R$ 3.242,00",
+   "orgao": "Prefeitura de São Caetano",
+   "vagas": "46 vagas até R$ 3.242,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Médio / Superior",
+   "prazo_txt": "10/12/2026",
+   "prazo": "2026-12-10",
    "st": "aberto",
-   "banca": "Cebraspe",
-   "prova": "2027-03-07",
-   "perfis": {
-    "seg_sup": "Polícia Civil"
-   },
    "lida": true,
+   "banca": null,
+   "perfis": {
+    "geral_sup": "Procurador do Município"
+   },
+   "prova": "2027-01-31",
    "local": true,
    "areas": [
-    "seg"
+    "adm"
    ],
-   "novo": false
+   "novo": true
   },
   {
    "uf": "PE",
