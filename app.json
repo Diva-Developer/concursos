@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-10-30T12:30",
+ "geradoEm": "2026-10-31T11:58",
  "curadoria": "2026-10-22",
- "varredura": "2026-10-30T12:30",
+ "varredura": "2026-10-31T11:58",
  "inicioPlano": "2026-11-02",
  "grupos": [
   {
@@ -5770,7 +5770,7 @@
    "previsaoTxt": null,
    "estrutura": null,
    "obs": "Prefeitura de São Caetano - PE abre concurso público com salários de até R$ 3.242,00",
-   "novo": true,
+   "novo": false,
    "links": [
     {
      "nome": "Notícia e link do edital (PCI)",

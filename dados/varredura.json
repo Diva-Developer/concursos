@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-30T12:30",
+ "gerado_em": "2026-10-31T11:58",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
@@ -150,8 +150,8 @@
   },
   {
    "uf": "PB",
-   "url": "https://www.pciconcursos.com.br/noticias/tjpb-abre-concurso-publico-para-analistas-judiciarios",
-   "titulo": "TJPB abre concurso público para analistas judiciários",
+   "url": "https://www.pciconcursos.com.br/noticias/tjpb-retifica-concurso-publico-para-analistas-judiciarios",
+   "titulo": "TJPB retifica concurso público para analistas judiciários",
    "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
    "vagas": "50 vagas até R$ 7.526,14",
    "cargos": "Analista Judiciário, Contabilidade",
@@ -159,17 +159,17 @@
    "prazo_txt": "18/11/2026",
    "prazo": "2026-11-18",
    "st": "aberto",
+   "lida": true,
    "banca": "FGV",
-   "prova": "2027-01-24",
    "perfis": {
     "geral_sup": "Analista Judiciário"
    },
-   "lida": true,
+   "prova": "2027-01-24",
    "local": true,
    "areas": [
     "adm"
    ],
-   "novo": false
+   "novo": true
   },
   {
    "uf": "PE",
@@ -315,17 +315,17 @@
    "prazo_txt": "10/12/2026",
    "prazo": "2026-12-10",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-01-31",
    "perfis": {
     "geral_sup": "Procurador do Município"
    },
-   "prova": "2027-01-31",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PE",
