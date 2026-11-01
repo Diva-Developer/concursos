@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-10-31T11:58",
+ "geradoEm": "2026-11-01T12:43",
  "curadoria": "2026-10-22",
- "varredura": "2026-10-31T11:58",
+ "varredura": "2026-11-01T12:43",
  "inicioPlano": "2026-11-02",
  "grupos": [
   {
@@ -12,22 +12,22 @@
   {
    "id": "3",
    "titulo": "Próximos 3 meses",
-   "sub": "Edital esperado até jan/2027"
+   "sub": "Edital esperado até fev/2027"
   },
   {
    "id": "6",
    "titulo": "Em 3 a 6 meses",
-   "sub": "De jan/2027 a abr/2027"
+   "sub": "De fev/2027 a mai/2027"
   },
   {
    "id": "12",
    "titulo": "Em 6 meses a 1 ano",
-   "sub": "De abr/2027 a out/2027"
+   "sub": "De mai/2027 a nov/2027"
   },
   {
    "id": "mais",
    "titulo": "Daqui a mais de um ano",
-   "sub": "Depois de out/2027: dá para estudar com calma"
+   "sub": "Depois de nov/2027: dá para estudar com calma"
   },
   {
    "id": "sem",
@@ -44,7 +44,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "fis"
    ],
@@ -265,7 +265,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm",
     "fis"
@@ -781,7 +781,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm",
     "ti"
@@ -1172,7 +1172,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm",
     "fis",
@@ -1721,7 +1721,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm",
     "ti"
@@ -2091,7 +2091,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm",
     "fis",
@@ -2965,7 +2965,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm",
     "seg"
@@ -3334,7 +3334,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm"
    ],
@@ -3535,7 +3535,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm",
     "fis",
@@ -4059,7 +4059,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm"
    ],
@@ -4236,7 +4236,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "seg"
    ],
@@ -4446,7 +4446,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "seg"
    ],
@@ -4656,7 +4656,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "fis"
    ],
@@ -4877,7 +4877,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "ti"
    ],
@@ -5061,7 +5061,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm",
     "fis",
@@ -5745,7 +5745,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "adm"
    ],
@@ -5922,7 +5922,7 @@
    "st": "aberto",
    "status": "Inscrições abertas",
    "grupo": "agora",
-   "mes": "2026-10",
+   "mes": "2026-11",
    "areas": [
     "seg"
    ],
@@ -6133,6 +6133,235 @@
        "titulo": "Reta final",
        "inicio": "2027-02-28",
        "fim": "2027-03-06",
+       "horas": 18,
+       "tarefas": [
+        "Revisar só caderno de erros e resumos",
+        "Nada de conteúdo novo na última semana",
+        "Conferir local de prova e documentos"
+       ],
+       "fontes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c6aa6a4",
+   "nome": "Polícia Penal PB",
+   "uf": "PB",
+   "cidade": "Paraíba (estado todo)",
+   "st": "iminente",
+   "status": "Edital iminente",
+   "grupo": "3",
+   "mes": "2027-02",
+   "areas": [
+    "seg"
+   ],
+   "cargos": [
+    "Policial Penal"
+   ],
+   "banca": "Idecan",
+   "bancaFormato": "Múltipla escolha, 4 ou 5 alternativas",
+   "bancaDicas": [
+    "Cobrança próxima da lei seca",
+    "Legislação local tem peso"
+   ],
+   "bancaProvas": "https://idecan.org.br/",
+   "nivel": "Superior",
+   "vagas": "500 a 1.000 (fontes divergem)",
+   "salario": "≈ R$ 4.844",
+   "salarioMax": 4844,
+   "inscricoes": "Edital ainda não publicado",
+   "prazo": null,
+   "prova": null,
+   "previsao": "2027-02",
+   "previsaoTxt": "Depende da Lei Orgânica; contrato com a banca vai até fev/2027",
+   "estrutura": null,
+   "obs": "Banca contratada até 20/02/2027, mas o edital depende da Lei Orgânica da carreira. Já foi adiado de 2025 para 2026.",
+   "novo": false,
+   "links": [
+    {
+     "nome": "Situação (Estratégia)",
+     "url": "https://www.estrategiaconcursos.com.br/blog/concurso-policia-penal-pb-o-que-falta-edital-sair/amp/"
+    }
+   ],
+   "planos": [
+    {
+     "perfil": "seg_sup",
+     "cargo": "Policial Penal",
+     "nome": "Policial de nível superior",
+     "conteudo": [
+      "Língua Portuguesa",
+      "Informática",
+      "Raciocínio lógico",
+      "Direito Constitucional",
+      "Direito Administrativo",
+      "Direito Penal",
+      "Processo Penal",
+      "Legislação penal especial",
+      "Direitos Humanos",
+      "Legislação do estado",
+      "Redação (quando houver)",
+      "TAF"
+     ],
+     "totalHoras": 311,
+     "horasSemana": 19.4,
+     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
+     "alerta": null,
+     "etapas": [
+      {
+       "titulo": "Português e interpretação",
+       "inicio": "2026-11-02",
+       "fim": "2026-11-17",
+       "horas": 45,
+       "tarefas": [
+        "Interpretação e reescrita de frases",
+        "Pontuação, concordância, regência e crase",
+        "150 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        },
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Informática e raciocínio lógico",
+       "inicio": "2026-11-18",
+       "fim": "2026-11-30",
+       "horas": 35,
+       "tarefas": [
+        "Segurança, redes, nuvem e Office",
+        "Proposições, equivalências e porcentagem",
+        "150 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "Cartilha de Segurança CERT.br",
+         "url": "https://cartilha.cert.br/",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Constitucional e Administrativo",
+       "inicio": "2026-12-01",
+       "fim": "2026-12-20",
+       "horas": 55,
+       "tarefas": [
+        "Art. 5º e art. 144 na lei seca",
+        "Poderes, atos e agentes públicos",
+        "200 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "Constituição (Planalto)",
+         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Penal e Processo Penal",
+       "inicio": "2026-12-21",
+       "fim": "2027-01-12",
+       "horas": 65,
+       "tarefas": [
+        "Teoria do crime e crimes em espécie",
+        "Inquérito, provas e prisões",
+        "250 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "Código Penal",
+         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+         "gratis": true
+        },
+        {
+         "nome": "Código de Processo Penal",
+         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Legislação especial, Direitos Humanos e lei do estado",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-26",
+       "horas": 40,
+       "tarefas": [
+        "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
+        "Estatuto e lei orgânica da carreira",
+        "Tópicos do edital que faltarem"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Redação e TAF",
+       "inicio": "2027-01-27",
+       "fim": "2027-02-01",
+       "horas": 15,
+       "tarefas": [
+        "1 redação por semana nas últimas 8 semanas",
+        "Treino físico 3x por semana desde o início"
+       ],
+       "fontes": []
+      },
+      {
+       "titulo": "Simulados no estilo Idecan",
+       "inicio": "2027-02-02",
+       "fim": "2027-02-15",
+       "horas": 38,
+       "tarefas": [
+        "Fazer 2 provas anteriores da Idecan para cargo parecido, cronometradas",
+        "Simulado completo a cada 15 dias, no horário da prova",
+        "Refazer os erros e anotar no caderno de erros"
+       ],
+       "fontes": [
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Reta final",
+       "inicio": "2027-02-16",
+       "fim": "2027-02-21",
        "horas": 18,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
@@ -6574,235 +6803,6 @@
        "inicio": "2027-02-15",
        "fim": "2027-02-21",
        "horas": 11,
-       "tarefas": [
-        "Revisar só caderno de erros e resumos",
-        "Nada de conteúdo novo na última semana",
-        "Conferir local de prova e documentos"
-       ],
-       "fontes": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c6aa6a4",
-   "nome": "Polícia Penal PB",
-   "uf": "PB",
-   "cidade": "Paraíba (estado todo)",
-   "st": "iminente",
-   "status": "Edital iminente",
-   "grupo": "6",
-   "mes": "2027-02",
-   "areas": [
-    "seg"
-   ],
-   "cargos": [
-    "Policial Penal"
-   ],
-   "banca": "Idecan",
-   "bancaFormato": "Múltipla escolha, 4 ou 5 alternativas",
-   "bancaDicas": [
-    "Cobrança próxima da lei seca",
-    "Legislação local tem peso"
-   ],
-   "bancaProvas": "https://idecan.org.br/",
-   "nivel": "Superior",
-   "vagas": "500 a 1.000 (fontes divergem)",
-   "salario": "≈ R$ 4.844",
-   "salarioMax": 4844,
-   "inscricoes": "Edital ainda não publicado",
-   "prazo": null,
-   "prova": null,
-   "previsao": "2027-02",
-   "previsaoTxt": "Depende da Lei Orgânica; contrato com a banca vai até fev/2027",
-   "estrutura": null,
-   "obs": "Banca contratada até 20/02/2027, mas o edital depende da Lei Orgânica da carreira. Já foi adiado de 2025 para 2026.",
-   "novo": false,
-   "links": [
-    {
-     "nome": "Situação (Estratégia)",
-     "url": "https://www.estrategiaconcursos.com.br/blog/concurso-policia-penal-pb-o-que-falta-edital-sair/amp/"
-    }
-   ],
-   "planos": [
-    {
-     "perfil": "seg_sup",
-     "cargo": "Policial Penal",
-     "nome": "Policial de nível superior",
-     "conteudo": [
-      "Língua Portuguesa",
-      "Informática",
-      "Raciocínio lógico",
-      "Direito Constitucional",
-      "Direito Administrativo",
-      "Direito Penal",
-      "Processo Penal",
-      "Legislação penal especial",
-      "Direitos Humanos",
-      "Legislação do estado",
-      "Redação (quando houver)",
-      "TAF"
-     ],
-     "totalHoras": 311,
-     "horasSemana": 19.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 02/nov",
-     "alerta": null,
-     "etapas": [
-      {
-       "titulo": "Português e interpretação",
-       "inicio": "2026-11-02",
-       "fim": "2026-11-17",
-       "horas": 45,
-       "tarefas": [
-        "Interpretação e reescrita de frases",
-        "Pontuação, concordância, regência e crase",
-        "150 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        },
-        {
-         "nome": "PCI Concursos: provas anteriores",
-         "url": "https://www.pciconcursos.com.br/provas/",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-11-18",
-       "fim": "2026-11-30",
-       "horas": 35,
-       "tarefas": [
-        "Segurança, redes, nuvem e Office",
-        "Proposições, equivalências e porcentagem",
-        "150 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "Cartilha de Segurança CERT.br",
-         "url": "https://cartilha.cert.br/",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-12-01",
-       "fim": "2026-12-20",
-       "horas": 55,
-       "tarefas": [
-        "Art. 5º e art. 144 na lei seca",
-        "Poderes, atos e agentes públicos",
-        "200 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "Constituição (Planalto)",
-         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Penal e Processo Penal",
-       "inicio": "2026-12-21",
-       "fim": "2027-01-12",
-       "horas": 65,
-       "tarefas": [
-        "Teoria do crime e crimes em espécie",
-        "Inquérito, provas e prisões",
-        "250 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "Código Penal",
-         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
-         "gratis": true
-        },
-        {
-         "nome": "Código de Processo Penal",
-         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-13",
-       "fim": "2027-01-26",
-       "horas": 40,
-       "tarefas": [
-        "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
-        "Estatuto e lei orgânica da carreira",
-        "Tópicos do edital que faltarem"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Redação e TAF",
-       "inicio": "2027-01-27",
-       "fim": "2027-02-01",
-       "horas": 15,
-       "tarefas": [
-        "1 redação por semana nas últimas 8 semanas",
-        "Treino físico 3x por semana desde o início"
-       ],
-       "fontes": []
-      },
-      {
-       "titulo": "Simulados no estilo Idecan",
-       "inicio": "2027-02-02",
-       "fim": "2027-02-15",
-       "horas": 38,
-       "tarefas": [
-        "Fazer 2 provas anteriores da Idecan para cargo parecido, cronometradas",
-        "Simulado completo a cada 15 dias, no horário da prova",
-        "Refazer os erros e anotar no caderno de erros"
-       ],
-       "fontes": [
-        {
-         "nome": "PCI Concursos: provas anteriores",
-         "url": "https://www.pciconcursos.com.br/provas/",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Reta final",
-       "inicio": "2027-02-16",
-       "fim": "2027-02-21",
-       "horas": 18,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
         "Nada de conteúdo novo na última semana",
