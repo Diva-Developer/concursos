@@ -1,8 +1,33 @@
 {
- "gerado_em": "2026-11-03T13:48",
+ "gerado_em": "2026-11-04T13:48",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-pe-divulga-edital-retificado-de-concurso-publico",
+   "titulo": "Prefeitura de Trindade - PE divulga edital retificado de concurso público",
+   "orgao": "Prefeitura do Município de Trindade",
+   "vagas": "353 vagas até R$ 6.600,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Médio / Técnico / Superior",
+   "prazo_txt": "Prorrogado até 04/11/2026",
+   "prazo": "2026-11-04",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "seg_med": "Agente de Trânsito",
+    "adm_med": "Auxiliar Administrativo"
+   },
+   "prova": "2026-12-13",
+   "local": true,
+   "areas": [
+    "adm",
+    "seg"
+   ],
+   "novo": true
+  },
   {
    "uf": "PB",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-sabugi-pb-abre-concurso-para-diversos-cargos",
@@ -303,6 +328,29 @@
     "adm"
    ],
    "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/seap-pe-abre-concurso-publico-com-700-vagas-para-policial-penal",
+   "titulo": "SEAP - PE abre concurso público com 700 vagas para policial penal",
+   "orgao": "SEAP - Secretaria de Administração Penitenciária e Ressocialização",
+   "vagas": "700 vagas até R$ 5.667,92",
+   "cargos": "Policial Penal",
+   "nivel": "Superior",
+   "prazo_txt": "12/11/2026 a 04/01/2027",
+   "prazo": "2027-01-04",
+   "st": "aberto",
+   "lida": true,
+   "banca": "Cebraspe",
+   "perfis": {
+    "seg_sup": "Policial penal"
+   },
+   "prova": "2027-03-21",
+   "local": true,
+   "areas": [
+    "seg"
+   ],
+   "novo": true
   },
   {
    "uf": "PE",
