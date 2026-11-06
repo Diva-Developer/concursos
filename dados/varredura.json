@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05T14:04",
+ "gerado_em": "2026-11-06T13:34",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
@@ -77,6 +77,56 @@
   },
   {
    "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/sedec-joao-pessoa-pb-abre-selecao-para-educadores-sociais-voluntarios",
+   "titulo": "SEDEC João Pessoa - PB abre seleção para educadores sociais voluntários",
+   "orgao": "SEDEC - Secretaria Municipal de Educação e Cultura de João Pessoa",
+   "vagas": "Cadastro de reserva até R$ 918,39",
+   "cargos": "Educador Social Voluntário na função de Cuidador",
+   "nivel": "Médio / Superior",
+   "prazo_txt": "10/11/2026",
+   "prazo": "2026-11-10",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "adm_med": "Cargos gerais do edital"
+   },
+   "prova": null,
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": true
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico",
+   "titulo": "Prefeitura de Floresta - PE publica retificação de concurso público",
+   "orgao": "Prefeitura de Floresta",
+   "vagas": "431 vagas até R$ 8.000,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "Reaberto até 12/11/2026",
+   "prazo": "2026-11-12",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "ti_med": "Técnico em Informática",
+    "fis": "Fisioterapeuta",
+    "adm_med": "Assistente Administrativo"
+   },
+   "prova": "2026-12-13",
+   "local": true,
+   "areas": [
+    "adm",
+    "fis",
+    "ti"
+   ],
+   "novo": true
+  },
+  {
+   "uf": "PB",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-republica-editais-de-concursos-publicos",
    "titulo": "Prefeitura de Água Branca - PB republica editais de concursos públicos",
    "orgao": "Prefeitura de Água Branca",
@@ -124,6 +174,29 @@
     "ti"
    ],
    "novo": false
+  },
+  {
+   "uf": "BR",
+   "url": "https://www.pciconcursos.com.br/noticias/ebserh-brasil-processo-seletivo-oferece-vagas-para-medicos-em-diversas-especialidades",
+   "titulo": "EBSERH - Brasil: processo seletivo oferece vagas para médicos em diversas especialidades",
+   "orgao": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
+   "vagas": "80 vagas até R$ 11.971,07",
+   "cargos": "Médico",
+   "nivel": "Superior",
+   "prazo_txt": "18/11/2026",
+   "prazo": "2026-11-18",
+   "st": "aberto",
+   "lida": true,
+   "banca": "Instituto AOCP",
+   "perfis": {
+    "geral_sup": "Cargos gerais do edital"
+   },
+   "prova": null,
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": true
   },
   {
    "uf": "PB",
@@ -265,21 +338,21 @@
    "prazo_txt": "29/11/2026",
    "prazo": "2026-11-29",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-02-14",
    "perfis": {
     "ti_med": "Técnico de Informática",
     "fis": "Fisioterapeuta",
     "adm_med": "Agente Administrativo"
    },
-   "prova": "2027-02-14",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
     "fis",
     "ti"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PE",
@@ -292,8 +365,8 @@
    "prazo_txt": "Reaberto até 03/12/2026",
    "prazo": "2026-12-03",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-02-21",
    "perfis": {
     "seg_med": "Vigilante",
     "ti_med": "Técnico em Informática",
@@ -301,7 +374,7 @@
     "adm_med": "Agente Administrativo",
     "geral_sup": "Advogado"
    },
-   "prova": "2027-02-21",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
@@ -309,7 +382,7 @@
     "seg",
     "ti"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PE",
