@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T13:34",
+ "gerado_em": "2026-11-07T12:23",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
@@ -86,17 +86,17 @@
    "prazo_txt": "10/11/2026",
    "prazo": "2026-11-10",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": null,
    "perfis": {
     "adm_med": "Cargos gerais do edital"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PE",
@@ -109,21 +109,21 @@
    "prazo_txt": "Reaberto até 12/11/2026",
    "prazo": "2026-11-12",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-12-13",
    "perfis": {
     "ti_med": "Técnico em Informática",
     "fis": "Fisioterapeuta",
     "adm_med": "Assistente Administrativo"
    },
-   "prova": "2026-12-13",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
     "fis",
     "ti"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PB",
@@ -186,17 +186,17 @@
    "prazo_txt": "18/11/2026",
    "prazo": "2026-11-18",
    "st": "aberto",
-   "lida": true,
    "banca": "Instituto AOCP",
+   "prova": null,
    "perfis": {
     "geral_sup": "Cargos gerais do edital"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PB",
@@ -383,6 +383,29 @@
     "ti"
    ],
    "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-petrolina-pe-abre-concurso-publico-com-salarios-de-ate-8561",
+   "titulo": "Câmara de Petrolina - PE abre concurso público com salários de até R$ 8.561,42",
+   "orgao": "Câmara de Petrolina",
+   "vagas": "17 vagas até R$ 8.561,42",
+   "cargos": "Analista Legislativo, Procurador, Técnico Legislativo",
+   "nivel": "Médio / Superior",
+   "prazo_txt": "05/12/2026",
+   "prazo": "2026-12-05",
+   "st": "aberto",
+   "lida": true,
+   "banca": "Idecan",
+   "perfis": {
+    "geral_sup": "Procurador"
+   },
+   "prova": "2027-01-17",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": true
   },
   {
    "uf": "PE",
