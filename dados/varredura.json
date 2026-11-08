@@ -1,31 +1,8 @@
 {
- "gerado_em": "2026-11-07T12:23",
+ "gerado_em": "2026-11-08T12:44",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
-  {
-   "uf": "PB",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-sabugi-pb-abre-concurso-para-diversos-cargos",
-   "titulo": "Prefeitura de São José do Sabugi - PB abre concurso para diversos cargos",
-   "orgao": "Prefeitura de São José do Sabugi",
-   "vagas": "48 vagas até R$ 3.847,97",
-   "cargos": "Vários Cargos",
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "prazo_txt": "07/11/2026",
-   "prazo": "2026-11-07",
-   "st": "aberto",
-   "banca": null,
-   "prova": "2026-12-13",
-   "perfis": {
-    "fis": "Fisioterapeuta"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "fis"
-   ],
-   "novo": false
-  },
   {
    "uf": "PB",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conceicao-pb-reabre-inscricoes-para-concurso-publico",
@@ -395,17 +372,17 @@
    "prazo_txt": "05/12/2026",
    "prazo": "2026-12-05",
    "st": "aberto",
-   "lida": true,
    "banca": "Idecan",
+   "prova": "2027-01-17",
    "perfis": {
     "geral_sup": "Procurador"
    },
-   "prova": "2027-01-17",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PE",
