@@ -1,34 +1,8 @@
 {
- "gerado_em": "2026-11-08T12:44",
+ "gerado_em": "2026-11-09T16:27",
  "fonte": "pciconcursos.com.br",
  "erros": [],
  "itens": [
-  {
-   "uf": "PB",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conceicao-pb-reabre-inscricoes-para-concurso-publico",
-   "titulo": "Prefeitura de Conceição - PB reabre inscrições para concurso público",
-   "orgao": "Prefeitura de Conceição",
-   "vagas": "129 vagas até R$ 7.000,00",
-   "cargos": "Vários Cargos",
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "prazo_txt": "Reaberto até 08/11/2026",
-   "prazo": "2026-11-08",
-   "st": "aberto",
-   "banca": null,
-   "prova": "2026-12-06",
-   "perfis": {
-    "fis": "Fisioterapeuta",
-    "adm_med": "Agente Administrativo",
-    "geral_sup": "Procuradoria"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm",
-    "fis"
-   ],
-   "novo": false
-  },
   {
    "uf": "BR",
    "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-3-distrito-naval-abre-vagas-para-oficiais-temporarios",
@@ -383,6 +357,31 @@
     "adm"
    ],
    "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-parari-pb-abre-concurso-publico-com-salarios-de-ate-10000",
+   "titulo": "Prefeitura de Parari - PB abre concurso público com salários de até R$ 10.000,00",
+   "orgao": "Prefeitura de Parari",
+   "vagas": "29 vagas até R$ 10.000,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "09/12/2026",
+   "prazo": "2026-12-09",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "fis": "Fisioterapeuta",
+    "adm_med": "Agente Administrativo"
+   },
+   "prova": "2027-01-31",
+   "local": true,
+   "areas": [
+    "adm",
+    "fis"
+   ],
+   "novo": true
   },
   {
    "uf": "PE",
