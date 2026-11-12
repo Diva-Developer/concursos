@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-11-12T14:19",
+ "geradoEm": "2026-11-12T20:22",
  "curadoria": "2026-10-22",
- "varredura": "2026-11-12T14:19",
+ "varredura": "2026-11-12T20:22",
  "inicioPlano": "2026-11-16",
  "grupos": [
   {
@@ -4658,7 +4658,7 @@
    "previsaoTxt": null,
    "estrutura": null,
    "obs": "Câmara de Picuí - PB abre concurso público com salários de até R$ 3.900,00",
-   "novo": true,
+   "novo": false,
    "links": [
     {
      "nome": "Notícia e link do edital (PCI)",
@@ -7573,6 +7573,397 @@
        "inicio": "2027-01-27",
        "fim": "2027-01-30",
        "horas": 11,
+       "tarefas": [
+        "Revisar só caderno de erros e resumos",
+        "Nada de conteúdo novo na última semana",
+        "Conferir local de prova e documentos"
+       ],
+       "fontes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c09b9bb",
+   "nome": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
+   "uf": "BR",
+   "cidade": "Federal (vagas em PB/PE)",
+   "st": "aberto",
+   "status": "Inscrições abertas",
+   "grupo": "agora",
+   "mes": "2026-11",
+   "areas": [
+    "adm",
+    "ti"
+   ],
+   "cargos": [
+    "Analista de Dados",
+    "Técnico Administrativo"
+   ],
+   "banca": "Banca a conferir",
+   "bancaFormato": "Banca ainda não identificada: confira no edital",
+   "bancaDicas": [
+    "Assim que souber a banca, faça 2 provas anteriores dela para pegar o estilo",
+    "Bancas pequenas de prefeitura costumam cobrar lei seca e legislação municipal"
+   ],
+   "bancaProvas": null,
+   "nivel": "Superior",
+   "vagas": "300 vagas",
+   "salario": "até R$ 10.354,29",
+   "salarioMax": 10354,
+   "inscricoes": "14/12/2026",
+   "prazo": "2026-12-14",
+   "prova": "2027-01-17",
+   "previsao": null,
+   "previsaoTxt": null,
+   "estrutura": null,
+   "obs": "SAA MS abre processo seletivo com salários de até R$ 10.354,29",
+   "novo": true,
+   "links": [
+    {
+     "nome": "Notícia e link do edital (PCI)",
+     "url": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354"
+    }
+   ],
+   "planos": [
+    {
+     "perfil": "ti_sup",
+     "cargo": "Analista de Dados",
+     "nome": "Analista de TI (superior)",
+     "conteudo": [
+      "Língua Portuguesa",
+      "Raciocínio lógico",
+      "Engenharia de software e ágil",
+      "Programação e algoritmos",
+      "Banco de dados e SQL",
+      "Redes e infraestrutura",
+      "Segurança da informação e LGPD",
+      "Governança (ITIL, COBIT)",
+      "Nuvem e DevOps",
+      "IA e dados (editais recentes)"
+     ],
+     "totalHoras": 262,
+     "horasSemana": 29.6,
+     "referencia": "até a prova em 17/jan/2027, começando em 16/nov",
+     "alerta": "Para cobrir tudo seriam 29,6 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "etapas": [
+      {
+       "titulo": "Português e raciocínio lógico",
+       "inicio": "2026-11-16",
+       "fim": "2026-11-27",
+       "horas": 50,
+       "tarefas": [
+        "Interpretação e gramática em contexto",
+        "Lógica, contagem e probabilidade",
+        "150 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        },
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Engenharia de software e programação",
+       "inicio": "2026-11-28",
+       "fim": "2026-12-10",
+       "horas": 55,
+       "tarefas": [
+        "Scrum, Kanban, UML e testes",
+        "Estruturas de dados e orientação a objetos",
+        "Ler código e prever a saída"
+       ],
+       "fontes": [
+        {
+         "nome": "Sua Rota Dev",
+         "url": "https://claude.ai/artifact/Ntmkh5rJmDz2a1Y2n16JGf",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Banco de dados e SQL",
+       "inicio": "2026-12-11",
+       "fim": "2026-12-17",
+       "horas": 30,
+       "tarefas": [
+        "Modelagem, normalização, transações",
+        "SELECT, JOIN, GROUP BY e índices"
+       ],
+       "fontes": [
+        {
+         "nome": "SQLBolt",
+         "url": "https://sqlbolt.com/",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Redes, nuvem e DevOps",
+       "inicio": "2026-12-18",
+       "fim": "2026-12-24",
+       "horas": 30,
+       "tarefas": [
+        "TCP/IP, DNS, HTTP, VPN",
+        "IaaS/PaaS/SaaS, Docker, CI/CD"
+       ],
+       "fontes": [
+        {
+         "nome": "Sua Rota Dev",
+         "url": "https://claude.ai/artifact/Ntmkh5rJmDz2a1Y2n16JGf",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Segurança da informação e LGPD",
+       "inicio": "2026-12-25",
+       "fim": "2027-01-01",
+       "horas": 35,
+       "tarefas": [
+        "ISO 27001/27002, criptografia, controle de acesso",
+        "OWASP Top 10 e resposta a incidentes",
+        "LGPD no setor público"
+       ],
+       "fontes": [
+        {
+         "nome": "OWASP Top 10",
+         "url": "https://owasp.org/www-project-top-ten/",
+         "gratis": true
+        },
+        {
+         "nome": "LGPD",
+         "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+         "gratis": true
+        },
+        {
+         "nome": "Cartilha de Segurança CERT.br",
+         "url": "https://cartilha.cert.br/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Governança e legislação do órgão",
+       "inicio": "2027-01-02",
+       "fim": "2027-01-05",
+       "horas": 15,
+       "tarefas": [
+        "ITIL e COBIT no nível de conceito",
+        "Normas do órgão citadas no edital"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Simulados no estilo da banca",
+       "inicio": "2027-01-06",
+       "fim": "2027-01-12",
+       "horas": 32,
+       "tarefas": [
+        "Descobrir a banca no edital e fazer 2 provas anteriores dela",
+        "Simulado completo a cada 15 dias, no horário da prova",
+        "Refazer os erros e anotar no caderno de erros"
+       ],
+       "fontes": [
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Reta final",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-16",
+       "horas": 15,
+       "tarefas": [
+        "Revisar só caderno de erros e resumos",
+        "Nada de conteúdo novo na última semana",
+        "Conferir local de prova e documentos"
+       ],
+       "fontes": []
+      }
+     ]
+    },
+    {
+     "perfil": "adm_med",
+     "cargo": "Técnico Administrativo",
+     "nome": "Administrativo de nível médio (Assistente, Auxiliar, Agente)",
+     "conteudo": [
+      "Língua Portuguesa",
+      "Matemática e raciocínio lógico",
+      "Informática (Office)",
+      "Noções de Administração e arquivologia",
+      "Redação oficial e atendimento",
+      "Noções de Direito Constitucional e Administrativo",
+      "Estatuto do servidor e lei orgânica",
+      "Conhecimentos gerais do município e do estado"
+     ],
+     "totalHoras": 153,
+     "horasSemana": 17.3,
+     "referencia": "até a prova em 17/jan/2027, começando em 16/nov",
+     "alerta": null,
+     "etapas": [
+      {
+       "titulo": "Português",
+       "inicio": "2026-11-16",
+       "fim": "2026-11-29",
+       "horas": 35,
+       "tarefas": [
+        "Interpretação e gramática",
+        "120 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        },
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Matemática e raciocínio lógico",
+       "inicio": "2026-11-30",
+       "fim": "2026-12-09",
+       "horas": 25,
+       "tarefas": [
+        "Porcentagem, regra de três, juros simples",
+        "Lógica e sequências"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Informática",
+       "inicio": "2026-12-10",
+       "fim": "2026-12-15",
+       "horas": 15,
+       "tarefas": [
+        "Word, Excel, internet e e-mail",
+        "Segurança básica"
+       ],
+       "fontes": [
+        {
+         "nome": "Cartilha de Segurança CERT.br",
+         "url": "https://cartilha.cert.br/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Administração, arquivo e redação oficial",
+       "inicio": "2026-12-16",
+       "fim": "2026-12-23",
+       "horas": 20,
+       "tarefas": [
+        "Organização, atendimento ao público",
+        "Arquivologia e protocolo",
+        "Redação oficial"
+       ],
+       "fontes": [
+        {
+         "nome": "Manual de Redação da Presidência",
+         "url": "https://www.gov.br/planalto/pt-br/centrais-de-conteudo/publicacoes/manual-de-redacao-da-presidencia-da-republica",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Noções de Direito e legislação local",
+       "inicio": "2026-12-24",
+       "fim": "2027-01-01",
+       "horas": 20,
+       "tarefas": [
+        "Princípios da administração (art. 37)",
+        "Estatuto do servidor e lei orgânica"
+       ],
+       "fontes": [
+        {
+         "nome": "Constituição (Planalto)",
+         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Conhecimentos gerais",
+       "inicio": "2027-01-02",
+       "fim": "2027-01-05",
+       "horas": 10,
+       "tarefas": [
+        "História, geografia e economia do município e do estado",
+        "Atualidades dos últimos 6 meses"
+       ],
+       "fontes": []
+      },
+      {
+       "titulo": "Simulados no estilo da banca",
+       "inicio": "2027-01-06",
+       "fim": "2027-01-12",
+       "horas": 19,
+       "tarefas": [
+        "Descobrir a banca no edital e fazer 2 provas anteriores dela",
+        "Simulado completo a cada 15 dias, no horário da prova",
+        "Refazer os erros e anotar no caderno de erros"
+       ],
+       "fontes": [
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Reta final",
+       "inicio": "2027-01-13",
+       "fim": "2027-01-16",
+       "horas": 9,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
         "Nada de conteúdo novo na última semana",

@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T14:19",
+ "gerado_em": "2026-11-12T20:22",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
@@ -388,6 +388,31 @@
    "novo": false
   },
   {
+   "uf": "BR",
+   "url": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
+   "titulo": "SAA MS abre processo seletivo com salários de até R$ 10.354,29",
+   "orgao": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
+   "vagas": "300 vagas até R$ 10.354,29",
+   "cargos": "Vários Cargos",
+   "nivel": "Superior",
+   "prazo_txt": "14/12/2026",
+   "prazo": "2026-12-14",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "ti_sup": "Analista de Dados",
+    "adm_med": "Técnico Administrativo"
+   },
+   "prova": "2027-01-17",
+   "local": true,
+   "areas": [
+    "adm",
+    "ti"
+   ],
+   "novo": true
+  },
+  {
    "uf": "PB",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-baia-da-traicao-pb-abre-concurso-publico-com-vagas-em-diversos-cargos",
    "titulo": "Prefeitura de Baía da Traição - PB abre concurso público com vagas em diversos cargos",
@@ -425,17 +450,17 @@
    "prazo_txt": "23/11 a 27/12/2026",
    "prazo": "2026-12-27",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-02-14",
    "perfis": {
     "seg_med": "Vigilante"
    },
-   "prova": "2027-02-14",
+   "lida": true,
    "local": true,
    "areas": [
     "seg"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PE",
