@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-11-11T13:51",
+ "geradoEm": "2026-11-12T14:19",
  "curadoria": "2026-10-22",
- "varredura": "2026-11-11T13:51",
+ "varredura": "2026-11-12T14:19",
  "inicioPlano": "2026-11-16",
  "grupos": [
   {
@@ -3723,14 +3723,14 @@
    "vagas": "141 vagas",
    "salario": "até R$ 3.988,96",
    "salarioMax": 3988,
-   "inscricoes": "12/11 a 13/12/2026",
+   "inscricoes": "13/12/2026",
    "prazo": "2026-12-13",
    "prova": "2027-01-17",
    "previsao": null,
    "previsaoTxt": null,
    "estrutura": null,
    "obs": "Prefeitura de Natuba - PB abre concurso público para diversos cargos",
-   "novo": true,
+   "novo": false,
    "links": [
     {
      "nome": "Notícia e link do edital (PCI)",
@@ -4614,6 +4614,215 @@
        "inicio": "2027-01-13",
        "fim": "2027-01-16",
        "horas": 9,
+       "tarefas": [
+        "Revisar só caderno de erros e resumos",
+        "Nada de conteúdo novo na última semana",
+        "Conferir local de prova e documentos"
+       ],
+       "fontes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ce928c5",
+   "nome": "Câmara de Picuí",
+   "uf": "PB",
+   "cidade": "Picuí",
+   "st": "aberto",
+   "status": "Inscrições abertas",
+   "grupo": "agora",
+   "mes": "2026-11",
+   "areas": [
+    "seg"
+   ],
+   "cargos": [
+    "Vigilante"
+   ],
+   "banca": "Banca a conferir",
+   "bancaFormato": "Banca ainda não identificada: confira no edital",
+   "bancaDicas": [
+    "Assim que souber a banca, faça 2 provas anteriores dela para pegar o estilo",
+    "Bancas pequenas de prefeitura costumam cobrar lei seca e legislação municipal"
+   ],
+   "bancaProvas": null,
+   "nivel": "Fundamental / Médio",
+   "vagas": "7 vagas",
+   "salario": "até R$ 3.900,00",
+   "salarioMax": 3900,
+   "inscricoes": "23/11 a 27/12/2026",
+   "prazo": "2026-12-27",
+   "prova": "2027-02-14",
+   "previsao": null,
+   "previsaoTxt": null,
+   "estrutura": null,
+   "obs": "Câmara de Picuí - PB abre concurso público com salários de até R$ 3.900,00",
+   "novo": true,
+   "links": [
+    {
+     "nome": "Notícia e link do edital (PCI)",
+     "url": "https://www.pciconcursos.com.br/noticias/camara-de-picui-pb-abre-concurso-publico-com-salarios-de-ate-3900"
+    }
+   ],
+   "planos": [
+    {
+     "perfil": "seg_med",
+     "cargo": "Vigilante",
+     "nome": "Segurança de nível médio (Soldado, Guarda, Agente de Trânsito)",
+     "conteudo": [
+      "Língua Portuguesa",
+      "Matemática e raciocínio lógico",
+      "Informática",
+      "Noções de Direito Constitucional (art. 5º e 144)",
+      "Noções de Direito Penal e Direitos Humanos",
+      "Estatuto da corporação ou do município",
+      "História e geografia do estado",
+      "Redação (PM)",
+      "TAF"
+     ],
+     "totalHoras": 189,
+     "horasSemana": 14.7,
+     "referencia": "até a prova em 14/fev/2027, começando em 16/nov",
+     "alerta": null,
+     "etapas": [
+      {
+       "titulo": "Português",
+       "inicio": "2026-11-16",
+       "fim": "2026-12-04",
+       "horas": 40,
+       "tarefas": [
+        "Interpretação de texto",
+        "Gramática: concordância, crase, pontuação",
+        "120 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        },
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Matemática e raciocínio lógico",
+       "inicio": "2026-12-05",
+       "fim": "2026-12-18",
+       "horas": 30,
+       "tarefas": [
+        "Porcentagem, regra de três, frações",
+        "Lógica básica e sequências",
+        "100 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Informática",
+       "inicio": "2026-12-19",
+       "fim": "2026-12-25",
+       "horas": 15,
+       "tarefas": [
+        "Windows, Office, internet e e-mail",
+        "Segurança básica: vírus, backup, senhas"
+       ],
+       "fontes": [
+        {
+         "nome": "Cartilha de Segurança CERT.br",
+         "url": "https://cartilha.cert.br/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Noções de Direito",
+       "inicio": "2026-12-26",
+       "fim": "2027-01-11",
+       "horas": 35,
+       "tarefas": [
+        "Art. 5º e art. 144 da Constituição",
+        "Crimes contra a pessoa e o patrimônio (noções)",
+        "Direitos Humanos e uso da força"
+       ],
+       "fontes": [
+        {
+         "nome": "Constituição (Planalto)",
+         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+         "gratis": true
+        },
+        {
+         "nome": "Código Penal",
+         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Legislação da corporação e do estado",
+       "inicio": "2027-01-12",
+       "fim": "2027-01-21",
+       "horas": 20,
+       "tarefas": [
+        "Estatuto e regulamento citados no edital",
+        "História e geografia do estado"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Redação e TAF",
+       "inicio": "2027-01-22",
+       "fim": "2027-01-28",
+       "horas": 15,
+       "tarefas": [
+        "1 redação por semana nas últimas 6 semanas",
+        "Treino físico 3x por semana desde o início"
+       ],
+       "fontes": []
+      },
+      {
+       "titulo": "Simulados no estilo da banca",
+       "inicio": "2027-01-29",
+       "fim": "2027-02-08",
+       "horas": 23,
+       "tarefas": [
+        "Descobrir a banca no edital e fazer 2 provas anteriores dela",
+        "Simulado completo a cada 15 dias, no horário da prova",
+        "Refazer os erros e anotar no caderno de erros"
+       ],
+       "fontes": [
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Reta final",
+       "inicio": "2027-02-09",
+       "fim": "2027-02-13",
+       "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
         "Nada de conteúdo novo na última semana",
@@ -7633,7 +7842,7 @@
    "vagas": "700 vagas",
    "salario": "até R$ 5.667,92",
    "salarioMax": 5667,
-   "inscricoes": "12/11/2026 a 04/01/2027",
+   "inscricoes": "04/01/2027",
    "prazo": "2027-01-04",
    "prova": "2027-03-21",
    "previsao": null,
@@ -13064,402 +13273,6 @@
        "inicio": "2027-03-02",
        "fim": "2027-03-07",
        "horas": 9,
-       "tarefas": [
-        "Revisar só caderno de erros e resumos",
-        "Nada de conteúdo novo na última semana",
-        "Conferir local de prova e documentos"
-       ],
-       "fontes": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cd4df44",
-   "nome": "Governo de Pernambuco analisa novos concursos para a Segurança Pública",
-   "uf": "PE",
-   "cidade": "Pernambuco (estado todo)",
-   "st": "previsto",
-   "status": "Previsto",
-   "grupo": "sem",
-   "mes": null,
-   "areas": [
-    "seg"
-   ],
-   "cargos": [
-    "Polícia Civil",
-    "Soldado"
-   ],
-   "banca": "Banca a conferir",
-   "bancaFormato": "Banca ainda não identificada: confira no edital",
-   "bancaDicas": [
-    "Assim que souber a banca, faça 2 provas anteriores dela para pegar o estilo",
-    "Bancas pequenas de prefeitura costumam cobrar lei seca e legislação municipal"
-   ],
-   "bancaProvas": null,
-   "nivel": "Conferir no edital",
-   "vagas": "Conferir no edital",
-   "salario": "Conferir no edital",
-   "salarioMax": 0,
-   "inscricoes": "Sem edital",
-   "prazo": null,
-   "prova": null,
-   "previsao": null,
-   "previsaoTxt": null,
-   "estrutura": null,
-   "obs": "Notícia lida automaticamente no PCI Concursos.",
-   "novo": false,
-   "links": [
-    {
-     "nome": "Notícia e link do edital (PCI)",
-     "url": "https://www.pciconcursos.com.br/previstos/governo-de-pernambuco-analisa-novos-concursos-para-a-seguranca-publica"
-    }
-   ],
-   "planos": [
-    {
-     "perfil": "seg_sup",
-     "cargo": "Polícia Civil",
-     "nome": "Policial de nível superior",
-     "conteudo": [
-      "Língua Portuguesa",
-      "Informática",
-      "Raciocínio lógico",
-      "Direito Constitucional",
-      "Direito Administrativo",
-      "Direito Penal",
-      "Processo Penal",
-      "Legislação penal especial",
-      "Direitos Humanos",
-      "Legislação do estado",
-      "Redação (quando houver)",
-      "TAF"
-     ],
-     "totalHoras": 311,
-     "horasSemana": 19.4,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 16/nov",
-     "alerta": null,
-     "etapas": [
-      {
-       "titulo": "Português e interpretação",
-       "inicio": "2026-11-16",
-       "fim": "2026-12-01",
-       "horas": 45,
-       "tarefas": [
-        "Interpretação e reescrita de frases",
-        "Pontuação, concordância, regência e crase",
-        "150 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        },
-        {
-         "nome": "PCI Concursos: provas anteriores",
-         "url": "https://www.pciconcursos.com.br/provas/",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Informática e raciocínio lógico",
-       "inicio": "2026-12-02",
-       "fim": "2026-12-14",
-       "horas": 35,
-       "tarefas": [
-        "Segurança, redes, nuvem e Office",
-        "Proposições, equivalências e porcentagem",
-        "150 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "Cartilha de Segurança CERT.br",
-         "url": "https://cartilha.cert.br/",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Constitucional e Administrativo",
-       "inicio": "2026-12-15",
-       "fim": "2027-01-03",
-       "horas": 55,
-       "tarefas": [
-        "Art. 5º e art. 144 na lei seca",
-        "Poderes, atos e agentes públicos",
-        "200 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "Constituição (Planalto)",
-         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Penal e Processo Penal",
-       "inicio": "2027-01-04",
-       "fim": "2027-01-26",
-       "horas": 65,
-       "tarefas": [
-        "Teoria do crime e crimes em espécie",
-        "Inquérito, provas e prisões",
-        "250 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "Código Penal",
-         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
-         "gratis": true
-        },
-        {
-         "nome": "Código de Processo Penal",
-         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Legislação especial, Direitos Humanos e lei do estado",
-       "inicio": "2027-01-27",
-       "fim": "2027-02-09",
-       "horas": 40,
-       "tarefas": [
-        "Drogas, desarmamento, abuso de autoridade, Maria da Penha",
-        "Estatuto e lei orgânica da carreira",
-        "Tópicos do edital que faltarem"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Redação e TAF",
-       "inicio": "2027-02-10",
-       "fim": "2027-02-15",
-       "horas": 15,
-       "tarefas": [
-        "1 redação por semana nas últimas 8 semanas",
-        "Treino físico 3x por semana desde o início"
-       ],
-       "fontes": []
-      },
-      {
-       "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-02-16",
-       "fim": "2027-03-01",
-       "horas": 38,
-       "tarefas": [
-        "Descobrir a banca no edital e fazer 2 provas anteriores dela",
-        "Simulado completo a cada 15 dias, no horário da prova",
-        "Refazer os erros e anotar no caderno de erros"
-       ],
-       "fontes": [
-        {
-         "nome": "PCI Concursos: provas anteriores",
-         "url": "https://www.pciconcursos.com.br/provas/",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Reta final",
-       "inicio": "2027-03-02",
-       "fim": "2027-03-07",
-       "horas": 18,
-       "tarefas": [
-        "Revisar só caderno de erros e resumos",
-        "Nada de conteúdo novo na última semana",
-        "Conferir local de prova e documentos"
-       ],
-       "fontes": []
-      }
-     ]
-    },
-    {
-     "perfil": "seg_med",
-     "cargo": "Soldado",
-     "nome": "Segurança de nível médio (Soldado, Guarda, Agente de Trânsito)",
-     "conteudo": [
-      "Língua Portuguesa",
-      "Matemática e raciocínio lógico",
-      "Informática",
-      "Noções de Direito Constitucional (art. 5º e 144)",
-      "Noções de Direito Penal e Direitos Humanos",
-      "Estatuto da corporação ou do município",
-      "História e geografia do estado",
-      "Redação (PM)",
-      "TAF"
-     ],
-     "totalHoras": 189,
-     "horasSemana": 11.8,
-     "referencia": "em 16 semanas (prova sem data: ajuste quando sair o edital), começando em 16/nov",
-     "alerta": null,
-     "etapas": [
-      {
-       "titulo": "Português",
-       "inicio": "2026-11-16",
-       "fim": "2026-12-09",
-       "horas": 40,
-       "tarefas": [
-        "Interpretação de texto",
-        "Gramática: concordância, crase, pontuação",
-        "120 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        },
-        {
-         "nome": "PCI Concursos: provas anteriores",
-         "url": "https://www.pciconcursos.com.br/provas/",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Matemática e raciocínio lógico",
-       "inicio": "2026-12-10",
-       "fim": "2026-12-26",
-       "horas": 30,
-       "tarefas": [
-        "Porcentagem, regra de três, frações",
-        "Lógica básica e sequências",
-        "100 questões da banca"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Informática",
-       "inicio": "2026-12-27",
-       "fim": "2027-01-04",
-       "horas": 15,
-       "tarefas": [
-        "Windows, Office, internet e e-mail",
-        "Segurança básica: vírus, backup, senhas"
-       ],
-       "fontes": [
-        {
-         "nome": "Cartilha de Segurança CERT.br",
-         "url": "https://cartilha.cert.br/",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Noções de Direito",
-       "inicio": "2027-01-05",
-       "fim": "2027-01-25",
-       "horas": 35,
-       "tarefas": [
-        "Art. 5º e art. 144 da Constituição",
-        "Crimes contra a pessoa e o patrimônio (noções)",
-        "Direitos Humanos e uso da força"
-       ],
-       "fontes": [
-        {
-         "nome": "Constituição (Planalto)",
-         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-         "gratis": true
-        },
-        {
-         "nome": "Código Penal",
-         "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
-         "gratis": true
-        }
-       ]
-      },
-      {
-       "titulo": "Legislação da corporação e do estado",
-       "inicio": "2027-01-26",
-       "fim": "2027-02-06",
-       "horas": 20,
-       "tarefas": [
-        "Estatuto e regulamento citados no edital",
-        "História e geografia do estado"
-       ],
-       "fontes": [
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Redação e TAF",
-       "inicio": "2027-02-07",
-       "fim": "2027-02-15",
-       "horas": 15,
-       "tarefas": [
-        "1 redação por semana nas últimas 6 semanas",
-        "Treino físico 3x por semana desde o início"
-       ],
-       "fontes": []
-      },
-      {
-       "titulo": "Simulados no estilo da banca",
-       "inicio": "2027-02-16",
-       "fim": "2027-02-28",
-       "horas": 23,
-       "tarefas": [
-        "Descobrir a banca no edital e fazer 2 provas anteriores dela",
-        "Simulado completo a cada 15 dias, no horário da prova",
-        "Refazer os erros e anotar no caderno de erros"
-       ],
-       "fontes": [
-        {
-         "nome": "PCI Concursos: provas anteriores",
-         "url": "https://www.pciconcursos.com.br/provas/",
-         "gratis": true
-        },
-        {
-         "nome": "QConcursos (filtro por banca e cargo)",
-         "url": "https://www.qconcursos.com/",
-         "gratis": false
-        }
-       ]
-      },
-      {
-       "titulo": "Reta final",
-       "inicio": "2027-03-01",
-       "fim": "2027-03-07",
-       "horas": 11,
        "tarefas": [
         "Revisar só caderno de erros e resumos",
         "Nada de conteúdo novo na última semana",

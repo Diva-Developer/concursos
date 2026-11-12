@@ -1,7 +1,9 @@
 {
- "gerado_em": "2026-11-11T13:51",
+ "gerado_em": "2026-11-12T14:19",
  "fonte": "pciconcursos.com.br",
- "erros": [],
+ "erros": [
+  "previstos: HTTP Error 404: Not Found"
+ ],
  "itens": [
   {
    "uf": "PE",
@@ -368,22 +370,22 @@
    "vagas": "141 vagas até R$ 3.988,96",
    "cargos": "Vários Cargos",
    "nivel": "Fundamental / Médio / Superior",
-   "prazo_txt": "12/11 a 13/12/2026",
+   "prazo_txt": "13/12/2026",
    "prazo": "2026-12-13",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-01-17",
    "perfis": {
     "fis": "Fisioterapeuta",
     "adm_med": "Agente Administrativo"
    },
-   "prova": "2027-01-17",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
     "fis"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PB",
@@ -413,6 +415,29 @@
    "novo": false
   },
   {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-picui-pb-abre-concurso-publico-com-salarios-de-ate-3900",
+   "titulo": "Câmara de Picuí - PB abre concurso público com salários de até R$ 3.900,00",
+   "orgao": "Câmara de Picuí",
+   "vagas": "7 vagas até R$ 3.900,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio",
+   "prazo_txt": "23/11 a 27/12/2026",
+   "prazo": "2026-12-27",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "seg_med": "Vigilante"
+   },
+   "prova": "2027-02-14",
+   "local": true,
+   "areas": [
+    "seg"
+   ],
+   "novo": true
+  },
+  {
    "uf": "PE",
    "url": "https://www.pciconcursos.com.br/noticias/seap-pe-abre-concurso-publico-com-700-vagas-para-policial-penal",
    "titulo": "SEAP - PE abre concurso público com 700 vagas para policial penal",
@@ -420,7 +445,7 @@
    "vagas": "700 vagas até R$ 5.667,92",
    "cargos": "Policial Penal",
    "nivel": "Superior",
-   "prazo_txt": "12/11/2026 a 04/01/2027",
+   "prazo_txt": "04/01/2027",
    "prazo": "2027-01-04",
    "st": "aberto",
    "banca": "Cebraspe",
@@ -430,87 +455,6 @@
    },
    "lida": true,
    "local": true,
-   "areas": [
-    "seg"
-   ],
-   "novo": false
-  },
-  {
-   "uf": "PE",
-   "url": "https://www.pciconcursos.com.br/previstos/alepe-aprova-35-vagas-no-mp-de-pernambuco-e-reajuste-para-carreiras-de-apoio",
-   "titulo": "Alepe aprova 35 vagas no MP de Pernambuco e reajuste para carreiras de apoio",
-   "orgao": "Alepe aprova 35 vagas no MP de Pernambuco e reajuste para carreiras de apoio",
-   "vagas": "",
-   "cargos": "",
-   "nivel": "",
-   "prazo_txt": "",
-   "prazo": null,
-   "st": "previsto",
-   "noticia_em": "2026-06-10",
-   "banca": "FCC",
-   "prova": null,
-   "perfis": {
-    "geral_sup": "Procuradores"
-   },
-   "lida": true,
-   "local": true,
-   "previsao": null,
-   "previsao_txt": null,
-   "areas": [
-    "adm"
-   ],
-   "novo": false
-  },
-  {
-   "uf": "PB",
-   "url": "https://www.pciconcursos.com.br/previstos/defensoria-publica-da-paraiba-escolhe-fcc-para-organizar-seu-primeiro-concurso-de-servidores",
-   "titulo": "Defensoria Pública da Paraíba escolhe FCC para organizar seu primeiro concurso de servidores",
-   "orgao": "Defensoria Pública da Paraíba escolhe FCC para organizar seu primeiro concurso de servidores",
-   "vagas": "",
-   "cargos": "",
-   "nivel": "",
-   "prazo_txt": "",
-   "prazo": null,
-   "st": "previsto",
-   "noticia_em": "2026-06-17",
-   "banca": "FCC",
-   "prova": null,
-   "perfis": {
-    "ti_sup": "Analista suporte",
-    "geral_sup": "Auditor"
-   },
-   "lida": true,
-   "local": true,
-   "previsao": null,
-   "previsao_txt": null,
-   "areas": [
-    "adm",
-    "ti"
-   ],
-   "novo": false
-  },
-  {
-   "uf": "PE",
-   "url": "https://www.pciconcursos.com.br/previstos/governo-de-pernambuco-analisa-novos-concursos-para-a-seguranca-publica",
-   "titulo": "Governo de Pernambuco analisa novos concursos para a Segurança Pública",
-   "orgao": "Governo de Pernambuco analisa novos concursos para a Segurança Pública",
-   "vagas": "",
-   "cargos": "",
-   "nivel": "",
-   "prazo_txt": "",
-   "prazo": null,
-   "st": "previsto",
-   "noticia_em": "2026-06-08",
-   "banca": null,
-   "prova": null,
-   "perfis": {
-    "seg_sup": "Polícia Civil",
-    "seg_med": "Soldado"
-   },
-   "lida": true,
-   "local": true,
-   "previsao": null,
-   "previsao_txt": null,
    "areas": [
     "seg"
    ],
