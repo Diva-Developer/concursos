@@ -1,37 +1,10 @@
 {
- "gerado_em": "2026-11-12T20:22",
+ "gerado_em": "2026-11-13T13:54",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
  ],
  "itens": [
-  {
-   "uf": "PE",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico",
-   "titulo": "Prefeitura de Floresta - PE publica retificação de concurso público",
-   "orgao": "Prefeitura de Floresta",
-   "vagas": "431 vagas até R$ 8.000,00",
-   "cargos": "Vários Cargos",
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "prazo_txt": "Reaberto até 12/11/2026",
-   "prazo": "2026-11-12",
-   "st": "aberto",
-   "banca": null,
-   "prova": "2026-12-13",
-   "perfis": {
-    "ti_med": "Técnico em Informática",
-    "fis": "Fisioterapeuta",
-    "adm_med": "Assistente Administrativo"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm",
-    "fis",
-    "ti"
-   ],
-   "novo": false
-  },
   {
    "uf": "PB",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-republica-editais-de-concursos-publicos",
@@ -398,19 +371,19 @@
    "prazo_txt": "14/12/2026",
    "prazo": "2026-12-14",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-01-17",
    "perfis": {
     "ti_sup": "Analista de Dados",
     "adm_med": "Técnico Administrativo"
    },
-   "prova": "2027-01-17",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
     "ti"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PB",
