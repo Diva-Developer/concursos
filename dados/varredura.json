@@ -1,37 +1,10 @@
 {
- "gerado_em": "2026-11-15T13:02",
+ "gerado_em": "2026-11-16T16:12",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
  ],
  "itens": [
-  {
-   "uf": "PB",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-republica-editais-de-concursos-publicos",
-   "titulo": "Prefeitura de Água Branca - PB republica editais de concursos públicos",
-   "orgao": "Prefeitura de Água Branca",
-   "vagas": "24 vagas até R$ 3.242,00",
-   "cargos": "Vários Cargos",
-   "nivel": "Médio / Superior",
-   "prazo_txt": "15/11/2026",
-   "prazo": "2026-11-15",
-   "st": "aberto",
-   "banca": null,
-   "prova": null,
-   "perfis": {
-    "seg_med": "Guarda Civil Municipal",
-    "fis": "Fisioterapeuta",
-    "adm_med": "Agente Administrativo"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm",
-    "fis",
-    "seg"
-   ],
-   "novo": false
-  },
   {
    "uf": "PE",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-goiana-pe-retifica-edital-de-selecao-publica",
