@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T16:12",
+ "gerado_em": "2026-11-17T15:06",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
@@ -158,6 +158,29 @@
    "novo": false
   },
   {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-surubim-pe-abre-processo-seletivo-para-a-secretaria-de-saude",
+   "titulo": "Prefeitura de Surubim - PE abre processo seletivo para a Secretaria de Saúde",
+   "orgao": "Prefeitura de Surubim",
+   "vagas": "9 vagas até R$ 2.600,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio",
+   "prazo_txt": "27/11/2026",
+   "prazo": "2026-11-27",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "adm_med": "Recepcionista"
+   },
+   "prova": null,
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": true
+  },
+  {
    "uf": "PB",
    "url": "https://www.pciconcursos.com.br/noticias/camara-de-areia-pb-abre-concurso-para-auxiliar-de-servicos-gerais-e-auxiliar-administrativo",
    "titulo": "Câmara de Areia - PB abre concurso para Auxiliar de Serviços Gerais e Auxiliar Administrativo",
@@ -206,6 +229,29 @@
     "ti"
    ],
    "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-olinda-pb-abre-processo-seletivo-para-professores-da-eja",
+   "titulo": "Prefeitura de Nova Olinda - PB abre processo seletivo para professores da EJA",
+   "orgao": "Prefeitura de Nova Olinda",
+   "vagas": "11 vagas até R$ 2.565,31",
+   "cargos": "Professor",
+   "nivel": "Superior",
+   "prazo_txt": "01/12/2026",
+   "prazo": "2026-12-01",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "geral_sup": "Cargos gerais do edital"
+   },
+   "prova": "2027-01-17",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": true
   },
   {
    "uf": "PE",
@@ -366,7 +412,7 @@
    "vagas": "117 vagas até R$ 10.000,00",
    "cargos": "Vários Cargos",
    "nivel": "Fundamental / Médio / Técnico / Superior",
-   "prazo_txt": "17/11 a 16/12/2026",
+   "prazo_txt": "16/12/2026",
    "prazo": "2026-12-16",
    "st": "aberto",
    "banca": null,
