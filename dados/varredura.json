@@ -1,56 +1,10 @@
 {
- "gerado_em": "2026-11-18T14:45",
+ "gerado_em": "2026-11-19T14:56",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
  ],
  "itens": [
-  {
-   "uf": "BR",
-   "url": "https://www.pciconcursos.com.br/noticias/ebserh-brasil-processo-seletivo-oferece-vagas-para-medicos-em-diversas-especialidades",
-   "titulo": "EBSERH - Brasil: processo seletivo oferece vagas para médicos em diversas especialidades",
-   "orgao": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
-   "vagas": "80 vagas até R$ 11.971,07",
-   "cargos": "Médico",
-   "nivel": "Superior",
-   "prazo_txt": "18/11/2026",
-   "prazo": "2026-11-18",
-   "st": "aberto",
-   "banca": "Instituto AOCP",
-   "prova": null,
-   "perfis": {
-    "geral_sup": "Cargos gerais do edital"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm"
-   ],
-   "novo": false
-  },
-  {
-   "uf": "PB",
-   "url": "https://www.pciconcursos.com.br/noticias/tjpb-retifica-concurso-publico-para-analistas-judiciarios",
-   "titulo": "TJPB retifica concurso público para analistas judiciários",
-   "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
-   "vagas": "50 vagas até R$ 7.526,14",
-   "cargos": "Analista Judiciário, Contabilidade",
-   "nivel": "Superior",
-   "prazo_txt": "18/11/2026",
-   "prazo": "2026-11-18",
-   "st": "aberto",
-   "banca": "FGV",
-   "prova": "2027-01-24",
-   "perfis": {
-    "geral_sup": "Analista Judiciário"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm"
-   ],
-   "novo": false
-  },
   {
    "uf": "PE",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ferreiros-pe-abre-concurso-publico-com-vagas-para-diversas-areas",
@@ -209,6 +163,29 @@
   },
   {
    "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-lagoa-tapada-pb-abre-processo-seletivo-para-a-secretaria-de-educacao",
+   "titulo": "Prefeitura de São José da Lagoa Tapada - PB abre processo seletivo para a Secretaria de Educação",
+   "orgao": "Prefeitura de São José da Lagoa Tapada",
+   "vagas": "68 vagas até R$ 1.621,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Médio / Superior",
+   "prazo_txt": "30/11/2026",
+   "prazo": "2026-11-30",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "adm_med": "Cargos gerais do edital"
+   },
+   "prova": "2026-12-13",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": true
+  },
+  {
+   "uf": "PB",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-olinda-pb-abre-processo-seletivo-para-professores-da-eja",
    "titulo": "Prefeitura de Nova Olinda - PB abre processo seletivo para professores da EJA",
    "orgao": "Prefeitura de Nova Olinda",
@@ -339,20 +316,20 @@
    "vagas": "20 vagas até R$ 11.142,96",
    "cargos": "Oficial Bombeiro Militar",
    "nivel": "Superior",
-   "prazo_txt": "19/11 a 11/12/2026",
+   "prazo_txt": "11/12/2026",
    "prazo": "2026-12-11",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": null,
    "perfis": {
     "seg_med": "Bombeiro Militar"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "areas": [
     "seg"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PB",
@@ -442,21 +419,21 @@
    "prazo_txt": "18/12/2026",
    "prazo": "2026-12-18",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2027-01-24",
    "perfis": {
     "seg_med": "Soldador",
     "fis": "Fisioterapeuta",
     "adm_med": "Agente Administrativo"
    },
-   "prova": "2027-01-24",
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
     "fis",
     "seg"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PB",
