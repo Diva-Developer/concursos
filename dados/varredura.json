@@ -1,40 +1,10 @@
 {
- "gerado_em": "2026-11-20T14:29",
+ "gerado_em": "2026-11-21T13:34",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
  ],
  "itens": [
-  {
-   "uf": "PB",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000",
-   "titulo": "Prefeitura de Itapororoca - PB abre concurso com salários de até R$ 10.000,00",
-   "orgao": "Prefeitura de Itapororoca",
-   "vagas": "175 vagas até R$ 10.000,00",
-   "cargos": "Vários Cargos",
-   "nivel": "Fundamental / Médio / Técnico / Superior",
-   "prazo_txt": "20/11/2026",
-   "prazo": "2026-11-20",
-   "st": "aberto",
-   "banca": null,
-   "prova": "2026-12-20",
-   "perfis": {
-    "seg_med": "Guarda Municipal",
-    "ti_sup": "Desenvolvedor de Sistema",
-    "fis": "Fisioterapeuta",
-    "adm_med": "Agente Administrativo",
-    "geral_sup": "Auditor de Tributos"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm",
-    "fis",
-    "seg",
-    "ti"
-   ],
-   "novo": false
-  },
   {
    "uf": "PB",
    "url": "https://www.pciconcursos.com.br/noticias/camara-de-guarabira-pb-abre-concurso-publico-com-salarios-de-ate-3354",
@@ -117,17 +87,17 @@
    "prazo_txt": "23 a 29/11/2026",
    "prazo": "2026-11-29",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-12-18",
    "perfis": {
     "geral_sup": "Cargos gerais do edital"
    },
-   "prova": "2026-12-18",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PB",
@@ -243,18 +213,18 @@
    "prazo_txt": "23/11 a 04/12/2026",
    "prazo": "2026-12-04",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": null,
    "perfis": {
     "adm_med": "Agente Administrativo",
     "geral_sup": "Procurador"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PE",
@@ -278,6 +248,33 @@
     "adm"
    ],
    "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araripina-pe-abre-1099-vagas-em-processos-seletivos",
+   "titulo": "Prefeitura de Araripina - PE abre 1.099 vagas em processos seletivos",
+   "orgao": "Prefeitura de Araripina",
+   "vagas": "1099 vagas até R$ 16.100,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "23/11 a 06/12/2026",
+   "prazo": "2026-12-06",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "ti_med": "Técnico em Informática",
+    "fis": "Fisioterapeuta",
+    "adm_med": "Agente Administrativo"
+   },
+   "prova": null,
+   "local": true,
+   "areas": [
+    "adm",
+    "fis",
+    "ti"
+   ],
+   "novo": true
   },
   {
    "uf": "PB",
@@ -372,31 +369,6 @@
    "areas": [
     "adm",
     "fis"
-   ],
-   "novo": false
-  },
-  {
-   "uf": "BR",
-   "url": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
-   "titulo": "SAA MS abre processo seletivo com salários de até R$ 10.354,29",
-   "orgao": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
-   "vagas": "300 vagas até R$ 10.354,29",
-   "cargos": "Vários Cargos",
-   "nivel": "Superior",
-   "prazo_txt": "14/12/2026",
-   "prazo": "2026-12-14",
-   "st": "aberto",
-   "banca": null,
-   "prova": "2027-01-17",
-   "perfis": {
-    "ti_sup": "Analista de Dados",
-    "adm_med": "Técnico Administrativo"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm",
-    "ti"
    ],
    "novo": false
   },
