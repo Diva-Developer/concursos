@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21T13:34",
+ "gerado_em": "2026-11-22T13:51",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
@@ -260,21 +260,21 @@
    "prazo_txt": "23/11 a 06/12/2026",
    "prazo": "2026-12-06",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": null,
    "perfis": {
     "ti_med": "Técnico em Informática",
     "fis": "Fisioterapeuta",
     "adm_med": "Agente Administrativo"
    },
-   "prova": null,
+   "lida": true,
    "local": true,
    "areas": [
     "adm",
     "fis",
     "ti"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PB",

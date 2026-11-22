@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-11-21T13:34",
+ "geradoEm": "2026-11-22T13:51",
  "curadoria": "2026-10-22",
- "varredura": "2026-11-21T13:34",
+ "varredura": "2026-11-22T13:51",
  "inicioPlano": "2026-11-23",
  "grupos": [
   {
@@ -4992,7 +4992,7 @@
    "previsaoTxt": null,
    "estrutura": null,
    "obs": "Prefeitura de Araripina - PE abre 1.099 vagas em processos seletivos",
-   "novo": true,
+   "novo": false,
    "links": [
     {
      "nome": "Notícia e link do edital (PCI)",
