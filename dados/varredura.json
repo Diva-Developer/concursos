@@ -1,35 +1,10 @@
 {
- "gerado_em": "2026-11-22T13:51",
+ "gerado_em": "2026-11-23T17:50",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
  ],
  "itens": [
-  {
-   "uf": "PB",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-guarabira-pb-abre-concurso-publico-com-salarios-de-ate-3354",
-   "titulo": "Câmara de Guarabira - PB abre concurso público com salários de até R$ 3.354,70",
-   "orgao": "Câmara de Guarabira",
-   "vagas": "5 vagas até R$ 3.354,70",
-   "cargos": "Vários Cargos",
-   "nivel": "Fundamental / Médio / Superior",
-   "prazo_txt": "22/11/2026",
-   "prazo": "2026-11-22",
-   "st": "aberto",
-   "banca": "CPCon/UEPB",
-   "prova": "2027-02-14",
-   "perfis": {
-    "seg_med": "Vigilante",
-    "adm_med": "Auxiliar Administrativo"
-   },
-   "lida": true,
-   "local": true,
-   "areas": [
-    "adm",
-    "seg"
-   ],
-   "novo": false
-  },
   {
    "uf": "PE",
    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-surubim-pe-abre-processo-seletivo-para-a-secretaria-de-saude",
@@ -84,7 +59,7 @@
    "vagas": "1 vaga até R$ 4.326,60",
    "cargos": "Professor substituto",
    "nivel": "Superior",
-   "prazo_txt": "23 a 29/11/2026",
+   "prazo_txt": "29/11/2026",
    "prazo": "2026-11-29",
    "st": "aberto",
    "banca": null,
@@ -210,7 +185,7 @@
    "vagas": "61 vagas até R$ 1.800,00",
    "cargos": "Vários Cargos",
    "nivel": "Fundamental / Médio / Superior",
-   "prazo_txt": "23/11 a 04/12/2026",
+   "prazo_txt": "04/12/2026",
    "prazo": "2026-12-04",
    "st": "aberto",
    "banca": null,
@@ -257,7 +232,7 @@
    "vagas": "1099 vagas até R$ 16.100,00",
    "cargos": "Vários Cargos",
    "nivel": "Fundamental / Médio / Técnico / Superior",
-   "prazo_txt": "23/11 a 06/12/2026",
+   "prazo_txt": "06/12/2026",
    "prazo": "2026-12-06",
    "st": "aberto",
    "banca": null,
@@ -434,7 +409,7 @@
    "vagas": "7 vagas até R$ 3.900,00",
    "cargos": "Vários Cargos",
    "nivel": "Fundamental / Médio",
-   "prazo_txt": "23/11 a 27/12/2026",
+   "prazo_txt": "27/12/2026",
    "prazo": "2026-12-27",
    "st": "aberto",
    "banca": null,
@@ -448,6 +423,29 @@
     "seg"
    ],
    "novo": false
+  },
+  {
+   "uf": "PE",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-ipubi-pe-abre-concurso-publico-com-7-vagas-imediatas",
+   "titulo": "Câmara de Ipubi - PE abre concurso público com 7 vagas imediatas",
+   "orgao": "Câmara de Ipubi",
+   "vagas": "7 vagas até R$ 1.700,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Superior",
+   "prazo_txt": "26/11 a 28/12/2026",
+   "prazo": "2026-12-28",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "adm_med": "Técnico Administrativo"
+   },
+   "prova": "2027-01-24",
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": true
   },
   {
    "uf": "PE",
@@ -471,6 +469,33 @@
     "seg"
    ],
    "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gurjao-pb-abre-concurso-publico-com-40-vagas-e-salarios-de-ate-14000",
+   "titulo": "Prefeitura de Gurjão - PB abre concurso público com 40 vagas e salários de até R$ 14.000,00",
+   "orgao": "Prefeitura de Gurjão",
+   "vagas": "42 vagas até R$ 14.000,00",
+   "cargos": "Vários Cargos",
+   "nivel": "Fundamental / Médio / Técnico / Superior",
+   "prazo_txt": "07/12/2026 a 07/01/2027",
+   "prazo": "2027-01-07",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "seg_med": "Vigilante",
+    "ti_sup": "Analista de Tecnologia da Informação",
+    "adm_med": "Agente Administrativo"
+   },
+   "prova": "2027-02-21",
+   "local": true,
+   "areas": [
+    "adm",
+    "seg",
+    "ti"
+   ],
+   "novo": true
   }
  ]
 }
