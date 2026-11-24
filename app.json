@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-11-23T17:50",
+ "geradoEm": "2026-11-24T16:53",
  "curadoria": "2026-10-22",
- "varredura": "2026-11-23T17:50",
+ "varredura": "2026-11-24T16:53",
  "inicioPlano": "2026-11-30",
  "grupos": [
   {
@@ -3082,7 +3082,7 @@
    "previsaoTxt": null,
    "estrutura": null,
    "obs": "Prefeitura de Gurjão - PB abre concurso público com 40 vagas e salários de até R$ 14.000,00",
-   "novo": true,
+   "novo": false,
    "links": [
     {
      "nome": "Notícia e link do edital (PCI)",
@@ -6659,7 +6659,7 @@
    "previsaoTxt": null,
    "estrutura": null,
    "obs": "Câmara de Ipubi - PE abre concurso público com 7 vagas imediatas",
-   "novo": true,
+   "novo": false,
    "links": [
     {
      "nome": "Notícia e link do edital (PCI)",
