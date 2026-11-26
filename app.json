@@ -1,7 +1,7 @@
 {
- "geradoEm": "2026-11-25T15:57",
+ "geradoEm": "2026-11-26T15:48",
  "curadoria": "2026-10-22",
- "varredura": "2026-11-25T15:57",
+ "varredura": "2026-11-26T15:48",
  "inicioPlano": "2026-11-30",
  "grupos": [
   {
@@ -971,7 +971,7 @@
    "previsaoTxt": null,
    "estrutura": null,
    "obs": "IFPB - PB abre seleção para professores formadores com cadastro reserva em Sapé",
-   "novo": true,
+   "novo": false,
    "links": [
     {
      "nome": "Notícia e link do edital (PCI)",
@@ -5871,6 +5871,183 @@
    ]
   },
   {
+   "id": "c283f87",
+   "nome": "Secretaria Municipal de Educação de São Caetano",
+   "uf": "PE",
+   "cidade": "Pernambuco (estado todo)",
+   "st": "aberto",
+   "status": "Inscrições abertas",
+   "grupo": "agora",
+   "mes": "2026-11",
+   "areas": [
+    "adm"
+   ],
+   "cargos": [
+    "Cargos gerais do edital"
+   ],
+   "banca": "Banca a conferir",
+   "bancaFormato": "Banca ainda não identificada: confira no edital",
+   "bancaDicas": [
+    "Assim que souber a banca, faça 2 provas anteriores dela para pegar o estilo",
+    "Bancas pequenas de prefeitura costumam cobrar lei seca e legislação municipal"
+   ],
+   "bancaProvas": null,
+   "nivel": "Superior",
+   "vagas": "204 vagas",
+   "salario": "até R$ 2.871,96",
+   "salarioMax": 2871,
+   "inscricoes": "09/12/2026",
+   "prazo": "2026-12-09",
+   "prova": "2026-12-22",
+   "previsao": null,
+   "previsaoTxt": null,
+   "estrutura": null,
+   "obs": "Secretaria Municipal de Educação de São Caetano - PE abre 204 vagas para professores",
+   "novo": true,
+   "links": [
+    {
+     "nome": "Notícia e link do edital (PCI)",
+     "url": "https://www.pciconcursos.com.br/noticias/secretaria-municipal-de-educacao-de-sao-caetano-pe-abre-204-vagas-para-professores"
+    }
+   ],
+   "planos": [
+    {
+     "perfil": "geral_sup",
+     "cargo": "Cargos gerais do edital",
+     "nome": "Superior em geral (Analista, Controlador, Advogado, outros)",
+     "conteudo": [
+      "Língua Portuguesa",
+      "Raciocínio lógico",
+      "Informática",
+      "Direito Constitucional e Administrativo",
+      "Administração pública",
+      "Legislação do órgão",
+      "Conhecimentos específicos do cargo (edital)"
+     ],
+     "totalHoras": 195,
+     "horasSemana": 62.0,
+     "referencia": "até a prova em 22/dez/2026, começando em 30/nov",
+     "alerta": "Para cobrir tudo seriam 62 h por semana. Se não der, faça as etapas 1 e 2, os simulados e a reta final, e passe rápido pelo resto.",
+     "etapas": [
+      {
+       "titulo": "Português e raciocínio lógico",
+       "inicio": "2026-11-30",
+       "fim": "2026-12-04",
+       "horas": 45,
+       "tarefas": [
+        "Interpretação e gramática",
+        "Lógica e matemática básica",
+        "150 questões da banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        },
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Constitucional e Administrativo",
+       "inicio": "2026-12-05",
+       "fim": "2026-12-09",
+       "horas": 45,
+       "tarefas": [
+        "Organização do Estado, art. 37 a 41",
+        "Atos, licitações (14.133) e improbidade"
+       ],
+       "fontes": [
+        {
+         "nome": "Constituição (Planalto)",
+         "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Específicas do cargo",
+       "inicio": "2026-12-10",
+       "fim": "2026-12-15",
+       "horas": 50,
+       "tarefas": [
+        "Listar o conteúdo específico do edital",
+        "Estudar pela ordem do que mais cai na banca"
+       ],
+       "fontes": [
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Informática e legislação do órgão",
+       "inicio": "2026-12-16",
+       "fim": "2026-12-17",
+       "horas": 20,
+       "tarefas": [
+        "Office e segurança",
+        "Regimento ou lei orgânica do órgão"
+       ],
+       "fontes": [
+        {
+         "nome": "Cartilha de Segurança CERT.br",
+         "url": "https://cartilha.cert.br/",
+         "gratis": true
+        }
+       ]
+      },
+      {
+       "titulo": "Simulados no estilo da banca",
+       "inicio": "2026-12-18",
+       "fim": "2026-12-20",
+       "horas": 24,
+       "tarefas": [
+        "Descobrir a banca no edital e fazer 2 provas anteriores dela",
+        "Simulado completo a cada 15 dias, no horário da prova",
+        "Refazer os erros e anotar no caderno de erros"
+       ],
+       "fontes": [
+        {
+         "nome": "PCI Concursos: provas anteriores",
+         "url": "https://www.pciconcursos.com.br/provas/",
+         "gratis": true
+        },
+        {
+         "nome": "QConcursos (filtro por banca e cargo)",
+         "url": "https://www.qconcursos.com/",
+         "gratis": false
+        }
+       ]
+      },
+      {
+       "titulo": "Reta final",
+       "inicio": "2026-12-21",
+       "fim": "2026-12-21",
+       "horas": 11,
+       "tarefas": [
+        "Revisar só caderno de erros e resumos",
+        "Nada de conteúdo novo na última semana",
+        "Conferir local de prova e documentos"
+       ],
+       "fontes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "c9bcb13",
    "nome": "Prefeitura de São Caetano",
    "uf": "PE",
@@ -6853,7 +7030,7 @@
    "vagas": "7 vagas",
    "salario": "até R$ 1.700,00",
    "salarioMax": 1700,
-   "inscricoes": "26/11 a 28/12/2026",
+   "inscricoes": "28/12/2026",
    "prazo": "2026-12-28",
    "prova": "2027-01-24",
    "previsao": null,
