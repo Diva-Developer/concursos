@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26T15:48",
+ "gerado_em": "2026-11-27T15:39",
  "fonte": "pciconcursos.com.br",
  "erros": [
   "previstos: HTTP Error 404: Not Found"
@@ -310,17 +310,17 @@
    "prazo_txt": "09/12/2026",
    "prazo": "2026-12-09",
    "st": "aberto",
-   "lida": true,
    "banca": null,
+   "prova": "2026-12-22",
    "perfis": {
     "geral_sup": "Cargos gerais do edital"
    },
-   "prova": "2026-12-22",
+   "lida": true,
    "local": true,
    "areas": [
     "adm"
    ],
-   "novo": true
+   "novo": false
   },
   {
    "uf": "PE",
@@ -446,6 +446,29 @@
     "seg"
    ],
    "novo": false
+  },
+  {
+   "uf": "PB",
+   "url": "https://www.pciconcursos.com.br/noticias/pmpb-pb-abre-concurso-publico-para-o-quadro-de-oficiais-com-30-vagas",
+   "titulo": "PMPB - PB abre concurso público para o Quadro de Oficiais com 30 vagas",
+   "orgao": "PMPB - Polícia Militar do Estado da Paraíba",
+   "vagas": "30 vagas até R$ 8.745,75",
+   "cargos": "Oficial do Quadro de Oficiais do Estado-Maior",
+   "nivel": "Superior",
+   "prazo_txt": "04 a 23/12/2026",
+   "prazo": "2026-12-23",
+   "st": "aberto",
+   "lida": true,
+   "banca": null,
+   "perfis": {
+    "geral_sup": "Cargos gerais do edital"
+   },
+   "prova": null,
+   "local": true,
+   "areas": [
+    "adm"
+   ],
+   "novo": true
   },
   {
    "uf": "PB",
